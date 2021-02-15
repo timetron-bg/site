@@ -47,7 +47,7 @@
     <original_price>19.00</original_price>
     <weight>1.000</weight>
     <sku>73326</sku>
-    <quantity>756</quantity>
+    <quantity>749</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1190/vent-pecka-lamarque-lfh-3326-image_5f1ae37e03f8f_600x600.jpeg?1595597712</image>
       <image></image>
@@ -77,7 +77,7 @@
     <original_price>57.00</original_price>
     <weight>1.250</weight>
     <sku>71539</sku>
-    <quantity>211</quantity>
+    <quantity>176</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1191/el--smesitelna-bateria-elite-ehw-3000s-image_5f1d7eb77674f_800x800.jpeg?1595768522</image>
       <image></image>
@@ -107,7 +107,7 @@
     <original_price>26.00</original_price>
     <weight>2.700</weight>
     <sku>73319</sku>
-    <quantity>362</quantity>
+    <quantity>361</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1192/ventilator-16-lamarque-lf-3319-image_5ee0eda7e4a68_1920x1920.jpeg?1591799270</image>
       <image></image>
@@ -197,7 +197,7 @@
     <original_price>50.00</original_price>
     <weight>2.250</weight>
     <sku>70197</sku>
-    <quantity>199</quantity>
+    <quantity>192</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1195/el-barbeku-elite-eb-1000-image_5ee0edb28a59e_1920x1920.jpeg?1591799302</image>
       <image></image>
@@ -797,7 +797,7 @@
     <original_price>30.00</original_price>
     <weight>0.690</weight>
     <sku>73182</sku>
-    <quantity>11</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1215/kafemelacka-lamarque-cg-3182-image_5f1ae25905816_1920x1920.jpeg?1595597422</image>
       <image></image>
@@ -917,7 +917,7 @@
     <original_price>6.00</original_price>
     <weight>0.260</weight>
     <sku>73205</sku>
-    <quantity>159</quantity>
+    <quantity>157</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1219/metalno-barbeku-lamarque-lbq-2022-image_5f1ae2271fac8_800x800.jpeg?1595597370</image>
       <image></image>
@@ -977,7 +977,7 @@
     <original_price>6.00</original_price>
     <weight>0.270</weight>
     <sku>73204</sku>
-    <quantity>125</quantity>
+    <quantity>120</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1222/metalno-barbeku-lamarque-lbq-2322-image_5f1ae1acc9331_800x800.jpeg?1595597249</image>
       <image></image>
@@ -1127,7 +1127,7 @@
     <original_price>37.00</original_price>
     <weight>1.450</weight>
     <sku>73327</sku>
-    <quantity>24</quantity>
+    <quantity>22</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1227/keramicna-pecka-s-ventilator-lamarque-lch-3327-image_5f1ae0ad6ba13_1920x1920.jpeg?1595596994</image>
       <image></image>
@@ -1157,7 +1157,7 @@
     <original_price>227.00</original_price>
     <weight>13.000</weight>
     <sku>009690-1</sku>
-    <quantity>71</quantity>
+    <quantity>69</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1228/praskacka-14litra-armateh-at-9690-1-image_5f1d8c8af2cc6_1920x1920.jpeg?1595772063</image>
       <image></image>
@@ -1247,7 +1247,7 @@
     <original_price>13.00</original_price>
     <weight>1.100</weight>
     <sku>73194</sku>
-    <quantity>508</quantity>
+    <quantity>507</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1232/metalno-barbeku-na-darveni-vaglisa-lamarque-lbq-r13-image_5f1adf0fbcce8_1280x1280.jpeg?1595596579</image>
       <image></image>
@@ -1307,7 +1307,7 @@
     <original_price>115.00</original_price>
     <weight>5.800</weight>
     <sku>72533</sku>
-    <quantity>40</quantity>
+    <quantity>37</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1234/absorbator-klasiceski-2m-siv-elite-ea-2533-image_6006e52577b3b_800x800.jpeg?1611065504</image>
       <image></image>
@@ -1367,7 +1367,7 @@
     <original_price>37.00</original_price>
     <weight>2.500</weight>
     <sku>73331</sku>
-    <quantity>416</quantity>
+    <quantity>411</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1236/konvektor-lamarque-lch-3331-image_5f1ade94ce9d7_600x600.jpeg?1595596455</image>
       <image></image>
@@ -1397,7 +1397,7 @@
     <original_price>17.00</original_price>
     <weight>3.470</weight>
     <sku>73139</sku>
-    <quantity>100</quantity>
+    <quantity>97</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1237/fondu-lamarque-lm-5529uk-image_5f1ade4ba8b7c_1920x1920.jpeg?1595596384</image>
       <image></image>
@@ -1427,7 +1427,7 @@
     <original_price>109.00</original_price>
     <weight>5.800</weight>
     <sku>72534</sku>
-    <quantity>6</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1238/absorbator-klasiceski-2m-ceren-elite-ea-2534-image_5f1d7c19ada95_800x800.jpeg?1595767853</image>
       <image></image>
@@ -1457,7 +1457,7 @@
     <original_price>29.00</original_price>
     <weight>2.450</weight>
     <sku>73201</sku>
-    <quantity>287</quantity>
+    <quantity>284</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1239/metalno-barbeku-na-darveni-vaglisa-lamarque-lsq-4831-image_5f1ade094d432_1280x1280.jpeg?1595596316</image>
       <image></image>
@@ -1517,7 +1517,7 @@
     <original_price>36.00</original_price>
     <weight>3.600</weight>
     <sku>73202</sku>
-    <quantity>247</quantity>
+    <quantity>243</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1241/metalno-barbeku-na-darveni-vaglisa-lamarque-lsq-6445-image_5f185a8431c5d_800x800.jpeg?1595431575</image>
       <image></image>
@@ -1577,7 +1577,7 @@
     <original_price>132.00</original_price>
     <weight>6.400</weight>
     <sku>73504</sku>
-    <quantity>299</quantity>
+    <quantity>284</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1243/peralna-mini-lamarque-lwm-25040-image_5ee0ede36a0f7_600x600.jpeg?1591799343</image>
       <image></image>
@@ -1637,7 +1637,7 @@
     <original_price>132.00</original_price>
     <weight>6.400</weight>
     <sku>73505</sku>
-    <quantity>285</quantity>
+    <quantity>274</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1245/peralna-mini-lamarque-lwm-25140-image_5ee0ede432518_600x600.jpeg?1591799343</image>
       <image></image>
@@ -1787,7 +1787,7 @@
     <original_price>352.00</original_price>
     <weight>31.600</weight>
     <sku>71542</sku>
-    <quantity>5</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1250/gazelektr--gotvarska-pecka-elite-efc-50g60-image_5f1d7a9b0f49a_800x800.jpeg?1595767471</image>
       <image></image>
@@ -2027,7 +2027,7 @@
     <original_price>34.00</original_price>
     <weight>2.460</weight>
     <sku>70256</sku>
-    <quantity>132</quantity>
+    <quantity>131</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1258/kantar-elite-bs-0256-image_5ee0edede5a12_1920x1920.jpeg?1591799346</image>
       <image></image>
@@ -2057,7 +2057,7 @@
     <original_price>23.00</original_price>
     <weight>0.610</weight>
     <sku>73154</sku>
-    <quantity>188</quantity>
+    <quantity>182</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1259/sokoizstiskvacka-lamarque-cj-3154-image_5ee0edef4b617_1920x1920.jpeg?1591799346</image>
       <image></image>
@@ -2087,7 +2087,7 @@
     <original_price>38.00</original_price>
     <weight>0.580</weight>
     <sku>71642</sku>
-    <quantity>69</quantity>
+    <quantity>59</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1261/kar-audio-plear-elite-cap-1642-image_5f1ae8f311f69_1920x1920.jpeg?1595599109</image>
       <image></image>
@@ -2207,7 +2207,7 @@
     <original_price>23.00</original_price>
     <weight>0.630</weight>
     <sku>73155</sku>
-    <quantity>185</quantity>
+    <quantity>183</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1265/sokoizstiskvacka-lamarque-cj-3155-image_5ee0edf0a33e3_800x800.jpeg?1591799346</image>
       <image></image>
@@ -2237,7 +2237,7 @@
     <original_price>61.00</original_price>
     <weight>3.150</weight>
     <sku>71174</sku>
-    <quantity>1547</quantity>
+    <quantity>1477</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1266/gazov-kotlon-elite-egs-1191s-image_5f1c463e347ef_600x600.jpeg?1595688528</image>
       <image></image>
@@ -2267,7 +2267,7 @@
     <original_price>141.00</original_price>
     <weight>4.100</weight>
     <sku>70214</sku>
-    <quantity>227</quantity>
+    <quantity>214</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1267/kafemasina-elite-jr-655-image_5ee0edf7b1f37_1920x1920.jpeg?1591799350</image>
       <image></image>
@@ -2327,7 +2327,7 @@
     <original_price>127.00</original_price>
     <weight>4.760</weight>
     <sku>70187</sku>
-    <quantity>277</quantity>
+    <quantity>274</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1269/multifunkcionalen-ured-za-gotvene-8-v-1-elite-mc-8-image_5f1c45bf3e5be_800x800.jpeg?1595688402</image>
       <image>https://cdncloudcart.com/16281/products/images/1269/multifunkcionalen-ured-za-gotvene-8-v-1-elite-mc-8-image_5f1c456eb46e6_800x800.jpeg?1595688385</image>
@@ -2387,7 +2387,7 @@
     <original_price>56.00</original_price>
     <weight>2.480</weight>
     <sku>73174</sku>
-    <quantity>305</quantity>
+    <quantity>287</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1271/sokoizstiskvacka-lamarque-le-3174-image_5ee0edf8c08d0_600x600.jpeg?1591799349</image>
       <image></image>
@@ -2417,7 +2417,7 @@
     <original_price>136.00</original_price>
     <weight>3.600</weight>
     <sku>70217</sku>
-    <quantity>225</quantity>
+    <quantity>80</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1272/kafemasina-elite-ps-653x-image_5ee0edf806bf5_1280x1280.jpeg?1591799349</image>
       <image></image>
@@ -2447,7 +2447,7 @@
     <original_price>84.00</original_price>
     <weight>5.550</weight>
     <sku>71171</sku>
-    <quantity>207</quantity>
+    <quantity>196</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1273/gazov-kotlon-elite-egs-2187-image_5f1c4263a2bea_800x800.jpeg?1595687541</image>
       <image></image>
@@ -2507,7 +2507,7 @@
     <original_price>27.00</original_price>
     <weight>2.100</weight>
     <sku>70445</sku>
-    <quantity>166</quantity>
+    <quantity>165</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1275/ventilator-12a-podovboks-elite-efb-0445-image_5f1c40d14c5c5_800x800.jpeg?1595687142</image>
       <image></image>
@@ -2567,7 +2567,7 @@
     <original_price>28.00</original_price>
     <weight>1.100</weight>
     <sku>70455</sku>
-    <quantity>222</quantity>
+    <quantity>215</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1277/kvarcova-otopl--pecka-elite-wqh-0455-image_5f1c3f7593481_800x800.jpeg?1595686792</image>
       <image></image>
@@ -2597,7 +2597,7 @@
     <original_price>80.00</original_price>
     <weight>5.750</weight>
     <sku>71172</sku>
-    <quantity>580</quantity>
+    <quantity>556</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1278/gazov-kotlon-elite-egs-2188-image_5f1c3f07ba4dd_800x800.jpeg?1595686683</image>
       <image></image>
@@ -2627,7 +2627,7 @@
     <original_price>47.00</original_price>
     <weight>2.380</weight>
     <sku>73164</sku>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1279/ured-za-sandvici4-filii-lamarque-lsm-3164-image_5ee0edffd0906_1920x1920.jpeg?1591799350</image>
       <image></image>
@@ -2777,7 +2777,7 @@
     <original_price>114.00</original_price>
     <weight>6.500</weight>
     <sku>71173</sku>
-    <quantity>614</quantity>
+    <quantity>605</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1285/gazov-kotlon-elite-egs-2190s-image_5f1ae5d1bab3f_800x800.jpeg?1595598307</image>
       <image></image>
@@ -2837,7 +2837,7 @@
     <original_price>49.00</original_price>
     <weight>3.880</weight>
     <sku>70465</sku>
-    <quantity>1980</quantity>
+    <quantity>1935</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1289/ventilator-16a-elite-eff-0465-image_5f1c3ec8155dd_800x800.jpeg?1595686618</image>
       <image></image>
@@ -2897,7 +2897,7 @@
     <original_price>18.00</original_price>
     <weight>1.130</weight>
     <sku>70397</sku>
-    <quantity>338</quantity>
+    <quantity>335</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1291/kvarcova-pecka-elite-qh-400-image_5f1c3cfcbed65_800x800.jpeg?1595686160</image>
       <image></image>
@@ -2957,7 +2957,7 @@
     <original_price>505.00</original_price>
     <weight>57.000</weight>
     <sku>71561</sku>
-    <quantity>10</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1293/peralna-elite-wm-90567g-image_5f1c3acb0e669_600x600.jpeg?1595685599</image>
       <image></image>
@@ -3047,7 +3047,7 @@
     <original_price>17.00</original_price>
     <weight>0.950</weight>
     <sku>70399</sku>
-    <quantity>579</quantity>
+    <quantity>577</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1296/kvarcova-pecka-elite-qh-401-image_5ee0ee088549e_1920x1920.jpeg?1591799352</image>
       <image></image>
@@ -3107,7 +3107,7 @@
     <original_price>9.00</original_price>
     <weight>0.230</weight>
     <sku>70360</sku>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1299/piling-za-drehi-elite-lr-001-image_5f1c38b2efe58_600x600.jpeg?1595685061</image>
       <image></image>
@@ -3137,7 +3137,7 @@
     <original_price>65.00</original_price>
     <weight>2.380</weight>
     <sku>009245</sku>
-    <quantity>27</quantity>
+    <quantity>26</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1300/el--slajf-380w-armateh-at-9245-image_5f1d8528c8670_1280x1280.jpeg?1595770171</image>
       <image></image>
@@ -3347,7 +3347,7 @@
     <original_price>99.00</original_price>
     <weight>3.830</weight>
     <sku>70470</sku>
-    <quantity>106</quantity>
+    <quantity>102</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1308/keramicna-pecka-za-stena-elite-ehh-0470-image_5f1c21116962e_1920x1920.jpeg?1595679012</image>
       <image></image>
@@ -3617,7 +3617,7 @@
     <original_price>41.00</original_price>
     <weight>2.780</weight>
     <sku>70437</sku>
-    <quantity>443</quantity>
+    <quantity>442</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1317/metalna-kofa-za-pepel-18l-elite-at-0437-image_5f1c1f214f762_1920x1920.jpeg?1595678517</image>
       <image></image>
@@ -3737,7 +3737,7 @@
     <original_price>99.00</original_price>
     <weight>3.800</weight>
     <sku>70407</sku>
-    <quantity>122</quantity>
+    <quantity>120</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1321/prah-za-po-edri-otpadaci-i-kamini-18l-elite-mvc-0407-image_5f1c22ee9b1ec_800x800.jpeg?1595679490</image>
       <image></image>
@@ -3857,7 +3857,7 @@
     <original_price>35.00</original_price>
     <weight>1.790</weight>
     <sku>71170</sku>
-    <quantity>152</quantity>
+    <quantity>151</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1325/metalno-barbeku-elite-esq-4125-image_5f1c1c7840821_1280x1280.jpeg?1595677834</image>
       <image></image>
@@ -3887,7 +3887,7 @@
     <original_price>84.00</original_price>
     <weight>3.700</weight>
     <sku>70448</sku>
-    <quantity>46</quantity>
+    <quantity>45</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1326/prah-za-po-edri-otpadaci-i-kamini-18l-elite-mvc-5407-image_5f1c1c31b2518_300x300.jpeg?1595677763</image>
       <image></image>
@@ -3917,7 +3917,7 @@
     <original_price>37.00</original_price>
     <weight>2.500</weight>
     <sku>70449</sku>
-    <quantity>534</quantity>
+    <quantity>535</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1327/konvektor-bez-ventilator-elite-ch-2000-image_5f1c1be5d37f0_800x800.jpeg?1595677689</image>
       <image></image>
@@ -3977,7 +3977,7 @@
     <original_price>81.00</original_price>
     <weight>3.950</weight>
     <sku>70452</sku>
-    <quantity>219</quantity>
+    <quantity>198</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1329/prahosmukacka-elite-vc-0100-image_5f1c1b43e3423_1920x1920.jpeg?1595677532</image>
       <image></image>
@@ -4037,7 +4037,7 @@
     <original_price>21.00</original_price>
     <weight>0.840</weight>
     <sku>71175</sku>
-    <quantity>460</quantity>
+    <quantity>437</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1331/el--kana-elite-ek-1175-image_5f1c1a64933d5_1920x1920.jpeg?1595677305</image>
       <image></image>
@@ -4067,7 +4067,7 @@
     <original_price>56.00</original_price>
     <weight>3.000</weight>
     <sku>70406</sku>
-    <quantity>305</quantity>
+    <quantity>301</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1332/konvektor-elite-ch-0406-image_5ee0ee1d40a0f_1920x1920.jpeg?1591799353</image>
       <image></image>
@@ -4157,7 +4157,7 @@
     <original_price>49.00</original_price>
     <weight>3.000</weight>
     <sku>70435</sku>
-    <quantity>2085</quantity>
+    <quantity>2080</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1335/konvektor-elite-ch-0435-image_5f1c195cb0e6b_600x600.jpeg?1595677039</image>
       <image></image>
@@ -4187,7 +4187,7 @@
     <original_price>145.00</original_price>
     <weight>12.850</weight>
     <sku>71207</sku>
-    <quantity>84</quantity>
+    <quantity>78</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1336/el--mini-furna-elite-emo-1207mini-image_5f1c33463817d_1920x1920.jpeg?1595683673</image>
       <image></image>
@@ -4217,7 +4217,7 @@
     <original_price>221.00</original_price>
     <weight>7.500</weight>
     <sku>70248</sku>
-    <quantity>38</quantity>
+    <quantity>97</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1337/mikser-na-stojka-elite-stm-0248-image_6013c195f1074_1920x1920.jpeg?1611907960</image>
       <image>https://cdncloudcart.com/16281/products/images/1337/mikser-na-stojka-elite-stm-0248-image_6013c1b0b8436_1920x1920.jpeg?1611907961</image>
@@ -4337,7 +4337,7 @@
     <original_price>221.00</original_price>
     <weight>7.600</weight>
     <sku>70122</sku>
-    <quantity>35</quantity>
+    <quantity>54</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1341/mikser-na-stojka-elite-stm-986-image_5ee0ee21c2e3b_1920x1920.jpeg?1591799356</image>
       <image></image>
@@ -4427,7 +4427,7 @@
     <original_price>49.00</original_price>
     <weight>1.860</weight>
     <sku>70298</sku>
-    <quantity>58</quantity>
+    <quantity>54</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1344/mikser-s-kupa-elite-hmb-0298-image_5ee0ee23a5eb3_1280x1280.jpeg?1591799355</image>
       <image></image>
@@ -4457,7 +4457,7 @@
     <original_price>200.00</original_price>
     <weight>14.600</weight>
     <sku>70572</sku>
-    <quantity>78</quantity>
+    <quantity>77</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1345/mini-bar-elite-mb-0572-image_5ee0ee24d48f7_1280x1280.jpeg?1591799356</image>
       <image></image>
@@ -4517,7 +4517,7 @@
     <original_price>147.00</original_price>
     <weight>4.350</weight>
     <sku>71644</sku>
-    <quantity>0</quantity>
+    <quantity>99</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1347/prenosim-aktiven-visokogovoritel-elite-ps-8-image_5f1aeb44a1f6f_1920x1920.jpeg?1595599705</image>
       <image>https://cdncloudcart.com/16281/products/images/1347/prenosim-aktiven-visokogovoritel-elite-ps-8-image_5f1aeb6392f91_1920x1920.jpeg?1595599734</image>
@@ -4577,7 +4577,7 @@
     <original_price>71.00</original_price>
     <weight>2.130</weight>
     <sku>71621</sku>
-    <quantity>0</quantity>
+    <quantity>82</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1349/prenosimo-radio-cdmp3-plear-elite-bb-18-image_5f1af08f38715_800x800.jpeg?1595601058</image>
       <image></image>
@@ -4607,7 +4607,7 @@
     <original_price>36.00</original_price>
     <weight>1.400</weight>
     <sku>70167</sku>
-    <quantity>97</quantity>
+    <quantity>96</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1350/ured-za-mafini-elite-mfm-7-image_5ee0f1f71fd11_1280x1280.jpeg?1591800342</image>
       <image></image>
@@ -4637,7 +4637,7 @@
     <original_price>34.00</original_price>
     <weight>0.570</weight>
     <sku>70410</sku>
-    <quantity>112</quantity>
+    <quantity>109</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1351/presa-za-kosa-elite-hs-0410-image_5ee0f1fa2b5e6_1920x1920.jpeg?1591800369</image>
       <image></image>
@@ -4667,9 +4667,9 @@
     <original_price>56.00</original_price>
     <weight>1.530</weight>
     <sku>71154</sku>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <images>
-      <image>https://cdncloudcart.com/16281/products/images/1352/ured-za-palacinki-elite-crm-1154-image_5f1ae3e574a71_600x600.jpeg?1595597817</image>
+      <image>https://cdncloudcart.com/assets/sitecp/img/no-image/product/1920x1920.png</image>
       <image></image>
       <image></image>
       <image></image>
@@ -4697,7 +4697,7 @@
     <original_price>63.00</original_price>
     <weight>2.600</weight>
     <sku>70172</sku>
-    <quantity>105</quantity>
+    <quantity>103</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1353/ured-za-palacinki-elite-crm-4-image_5ee0f1fcc96ff_800x800.jpeg?1591800377</image>
       <image></image>
@@ -4727,7 +4727,7 @@
     <original_price>18.00</original_price>
     <weight>0.380</weight>
     <sku>70460</sku>
-    <quantity>837</quantity>
+    <quantity>836</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1354/presa-za-kosa-elite-hs-0460-image_5f1c304d18ff5_1920x1920.jpeg?1595682913</image>
       <image></image>
@@ -4757,7 +4757,7 @@
     <original_price>67.00</original_price>
     <weight>1.950</weight>
     <sku>70170</sku>
-    <quantity>180</quantity>
+    <quantity>177</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1355/ured-za-palacinki-elite-crm-6-image_5ee0f200a2122_1280x1280.jpeg?1591800382</image>
       <image></image>
@@ -4787,7 +4787,7 @@
     <original_price>191.00</original_price>
     <weight>7.270</weight>
     <sku>71119</sku>
-    <quantity>0</quantity>
+    <quantity>28</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1356/halogenna-furna-elite-mta-1119-image_5f1c244ad14c8_300x300.jpeg?1595679888</image>
       <image></image>
@@ -4817,7 +4817,7 @@
     <original_price>43.00</original_price>
     <weight>2.580</weight>
     <sku>71149</sku>
-    <quantity>40</quantity>
+    <quantity>42</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1357/ured-za-pica-elite-pp-38-image_5f1c184f495c3_1920x1920.jpeg?1595676772</image>
       <image></image>
@@ -4863,10 +4863,10 @@
   <product>
     <id>1359</id>
     <product_code>70584</product_code>
-    <barcode></barcode>
+    <barcode>9.0039E+12</barcode>
     <title>ХЛАДИЛНИК 100 Л ELITE BCC-9100W</title>
     <short_description></short_description>
-    <description>&lt;ul&gt;&amp;#10;&lt;li&gt;Енергиен клас - А+&lt;/li&gt;&amp;#10;&lt;li&gt;Механичен контрол на температурата&lt;/li&gt;&amp;#10;&lt;li&gt;Възможност за обръщане на вратата&lt;/li&gt;&amp;#10;&lt;li&gt;Хладилен агент - R600A - HFC Free C-pantene&lt;/li&gt;&amp;#10;&lt;li&gt;уплътнение - FCKW Free&lt;/li&gt;&amp;#10;&lt;li&gt;Общ капацитет - 80 Л-&lt;/li&gt;&amp;#10;&lt;li&gt;Със ключалка&lt;/li&gt;&amp;#10;&lt;li&gt;Климaтичен пояс -&quot;SN/N/ST/T&quot;&lt;/li&gt;&amp;#10;&lt;li&gt;Рамери(Ш*Д*в) - 51.0*46.5*84.5см&lt;/li&gt;&amp;#10;&lt;li&gt;Тегло бруто - 21 кг Нет тегло - 19 кг&lt;/li&gt;&amp;#10;&lt;li&gt;AC 230V/ 50 Hz&lt;/li&gt;&amp;#10;&lt;/ul&gt;</description>
+    <description>&lt;ul&gt;&amp;#10;&lt;li&gt;Енергиен клас - А+&lt;/li&gt;&amp;#10;&lt;li&gt;Механичен контрол на температурата&lt;/li&gt;&amp;#10;&lt;li&gt;Възможност за обръщане на вратата&lt;/li&gt;&amp;#10;&lt;li&gt;Хладилен агент - R600A - HFC Free C-pantene&lt;/li&gt;&amp;#10;&lt;li&gt;Уплътнение - FCKW Free&lt;/li&gt;&amp;#10;&lt;li&gt;Общ капацитет - 80 л&lt;/li&gt;&amp;#10;&lt;li&gt;Със ключалка&lt;/li&gt;&amp;#10;&lt;li&gt;Климaтичен пояс -&quot;SN/N/ST/T&quot;&lt;/li&gt;&amp;#10;&lt;li&gt;Рамери(Ш*Д*В) - 51.0*46.5*84.5см&lt;/li&gt;&amp;#10;&lt;li&gt;Тегло бруто - 21 кг Нето тегло - 19 кг&lt;/li&gt;&amp;#10;&lt;li&gt;AC 230V/ 50 Hz&lt;/li&gt;&amp;#10;&lt;/ul&gt;</description>
     <minimum>1</minimum>
     <category>ГОЛЕМИ ЕЛЕКТРОУРЕДИ</category>
     <sub_category>ХЛАДИЛНА ТЕХНИКА</sub_category>
@@ -4877,7 +4877,7 @@
     <original_price>263.00</original_price>
     <weight>25.000</weight>
     <sku>70584</sku>
-    <quantity>301</quantity>
+    <quantity>298</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1359/hladilnik-100-l-elite-bcc-9100w-image_5f1aefae738d0_1920x1920.jpeg?1595600832</image>
       <image></image>
@@ -4937,7 +4937,7 @@
     <original_price>71.00</original_price>
     <weight>2.200</weight>
     <sku>71132</sku>
-    <quantity>42</quantity>
+    <quantity>154</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1361/sokoizstiskvacka-elite-ej-400-image_5f1aef15b925c_1920x1920.jpeg?1595600682</image>
       <image></image>
@@ -4997,7 +4997,7 @@
     <original_price>38.00</original_price>
     <weight>1.230</weight>
     <sku>70417</sku>
-    <quantity>411</quantity>
+    <quantity>406</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1363/utia-elite-si-0417-image_5ee0f2086c2eb_1920x1920.jpeg?1591800385</image>
       <image></image>
@@ -5057,7 +5057,7 @@
     <original_price>63.00</original_price>
     <weight>3.000</weight>
     <sku>70168</sku>
-    <quantity>81</quantity>
+    <quantity>80</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1365/ured-za-ponicki-elite-dm-12-image_5ee0f20ddfa28_800x800.jpeg?1591800385</image>
       <image></image>
@@ -5117,7 +5117,7 @@
     <original_price>20.00</original_price>
     <weight>0.120</weight>
     <sku>002314-1-GR</sku>
-    <quantity>69</quantity>
+    <quantity>68</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1368/prenosimo-radio-first-fa-2314-1-gr-image_5ee0f2114d6c2_1920x1920.jpeg?1591800385</image>
       <image></image>
@@ -5207,7 +5207,7 @@
     <original_price>28.00</original_price>
     <weight>0.400</weight>
     <sku>002406-2</sku>
-    <quantity>39</quantity>
+    <quantity>35</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1372/radio-casovnik-first-austria-fa-2406-2-image_5ee0f2190a51e_1280x1280.jpeg?1591800388</image>
       <image></image>
@@ -5267,7 +5267,7 @@
     <original_price>24.00</original_price>
     <weight>0.390</weight>
     <sku>002406-5-BA</sku>
-    <quantity>37</quantity>
+    <quantity>211</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1376/radio-casovnik-first-fa-2406-5-ba-image_5f46561d69d17_1280x1280.jpeg?1598445768</image>
       <image>https://cdncloudcart.com/16281/products/images/1376/radio-casovnik-first-fa-2406-5-ba-image_5f46562a5a3a4_1280x1280.jpeg?1598445770</image>
@@ -5327,7 +5327,7 @@
     <original_price>28.00</original_price>
     <weight>1.550</weight>
     <sku>71134</sku>
-    <quantity>556</quantity>
+    <quantity>506</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1379/ured-za-sandvici-elite-esm-1134br-image_5f1ab12414f8e_600x600.png?1595584823</image>
       <image></image>
@@ -5387,7 +5387,7 @@
     <original_price>28.00</original_price>
     <weight>1.550</weight>
     <sku>71135</sku>
-    <quantity>819</quantity>
+    <quantity>786</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1382/ured-za-sandvici-elite-esm-1135-wr-image_5f1c254624262_600x600.jpeg?1595680090</image>
       <image></image>
@@ -5477,7 +5477,7 @@
     <original_price>24.00</original_price>
     <weight>0.360</weight>
     <sku>002406-6</sku>
-    <quantity>50</quantity>
+    <quantity>46</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1385/radio-casovnik-first-fa-2406-6-image_5f4652403dfcf_1920x1920.jpeg?1598445671</image>
       <image>https://cdncloudcart.com/16281/products/images/1385/radio-casovnik-first-fa-2406-6-image_5f4652724618f_1280x1280.jpeg?1598445678</image>
@@ -5507,7 +5507,7 @@
     <original_price>29.00</original_price>
     <weight>0.900</weight>
     <sku>001900-2</sku>
-    <quantity>29</quantity>
+    <quantity>28</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1386/prenosimo-radio-fm-first-fa-1900-2-image_5ee0f221cc745_1280x1280.jpeg?1591800392</image>
       <image></image>
@@ -5537,7 +5537,7 @@
     <original_price>28.00</original_price>
     <weight>0.840</weight>
     <sku>003103</sku>
-    <quantity>48</quantity>
+    <quantity>41</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1387/vatresna-antena-first-fa-3103-image_5ee0f2235d76d_1280x1280.jpeg?1591800393</image>
       <image></image>
@@ -5747,7 +5747,7 @@
     <original_price>164.00</original_price>
     <weight>12.400</weight>
     <sku>005002-3</sku>
-    <quantity>2</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1395/mikrovalnova-furna-first-fa-5002-3-image_5f464f5d76270_1280x1280.jpeg?1598445374</image>
       <image>https://cdncloudcart.com/16281/products/images/1395/mikrovalnova-furna-first-fa-5002-3-image_5f464f67ea614_1280x1280.jpeg?1598445381</image>
@@ -5807,7 +5807,7 @@
     <original_price>34.00</original_price>
     <weight>1.080</weight>
     <sku>001905-BA</sku>
-    <quantity>110</quantity>
+    <quantity>72</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1397/prenosimo-radio-first-fa-1905-ba-image_5f464d50051d3_1280x1280.jpeg?1598445075</image>
       <image>https://cdncloudcart.com/16281/products/images/1397/prenosimo-radio-first-fa-1905-ba-image_5f464d6e24fb5_1280x1280.jpeg?1598445093</image>
@@ -5867,7 +5867,7 @@
     <original_price>70.00</original_price>
     <weight>2.850</weight>
     <sku>70227</sku>
-    <quantity>41</quantity>
+    <quantity>20</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1399/friturnik-elite-jr-2015-image_5ee0f22f74b23_1920x1920.jpeg?1591800399</image>
       <image></image>
@@ -5987,7 +5987,7 @@
     <original_price>87.00</original_price>
     <weight>3.200</weight>
     <sku>70250</sku>
-    <quantity>74</quantity>
+    <quantity>50</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1403/friturnik-elite-jr-3018s-image_5ee0f2303378f_1920x1920.jpeg?1591800398</image>
       <image></image>
@@ -6017,7 +6017,7 @@
     <original_price>199.00</original_price>
     <weight>16.100</weight>
     <sku>005002-5</sku>
-    <quantity>8</quantity>
+    <quantity>4</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1404/mikrov--furna-first-fa-5002-5-image_5f464451f08b2_1280x1280.jpeg?1598442890</image>
       <image>https://cdncloudcart.com/16281/products/images/1404/mikrov--furna-first-fa-5002-5-image_5f46446e482ab_1920x1920.jpeg?1598443020</image>
@@ -6137,7 +6137,7 @@
     <original_price>53.00</original_price>
     <weight>1.750</weight>
     <sku>001907-2</sku>
-    <quantity>26</quantity>
+    <quantity>21</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1408/prenosimo-radio-first-fa-1907-2-image_5f44ca88ab656_1280x1280.jpeg?1598345077</image>
       <image>https://cdncloudcart.com/16281/products/images/1408/prenosimo-radio-first-fa-1907-2-image_5f44ca91df5b0_1920x1920.jpeg?1598345083</image>
@@ -6167,12 +6167,12 @@
     <original_price>116.00</original_price>
     <weight>10.080</weight>
     <sku>005028-3</sku>
-    <quantity>31</quantity>
+    <quantity>23</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1409/mikrov--furna-first-fa-5028-3-image_5f44c88c62e55_1280x1280.jpeg?1598344838</image>
       <image>https://cdncloudcart.com/16281/products/images/1409/mikrov--furna-first-fa-5028-3-image_5f44c89a717d5_1920x1920.jpeg?1598344842</image>
       <image>https://cdncloudcart.com/16281/products/images/1409/mikrov--furna-first-fa-5028-3-image_5f44c8a8b56df_1920x1920.jpeg?1598344848</image>
-      <image></image>
+      <image>https://cdncloudcart.com/16281/products/images/1409/mikrovalnova-furna-first-fa-5028-3-image_6022a9800efaf_1920x1920.jpeg?1612884649</image>
       <image></image>
       <image></image>
       <image></image>
@@ -6317,7 +6317,7 @@
     <original_price>33.00</original_price>
     <weight>0.560</weight>
     <sku>001920-1-SI</sku>
-    <quantity>32</quantity>
+    <quantity>30</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1414/prenosimo-radio-bluetooth-stereo-first-fa-1920-1-si-image_5ee0f23a2b68c_1920x1920.jpeg?1591800401</image>
       <image></image>
@@ -6437,7 +6437,7 @@
     <original_price>210.00</original_price>
     <weight>13.410</weight>
     <sku>005045-4</sku>
-    <quantity>53</quantity>
+    <quantity>48</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1418/el--furna-s-dva-kotlona-first-fa-5045-4-image_5f44bbacc32a3_1280x1280.jpeg?1598340031</image>
       <image>https://cdncloudcart.com/16281/products/images/1418/el--furna-s-dva-kotlona-first-fa-5045-4-image_5f44bbb931add_1280x1280.jpeg?1598340043</image>
@@ -6467,7 +6467,7 @@
     <original_price>229.00</original_price>
     <weight>17.700</weight>
     <sku>005045-5</sku>
-    <quantity>10</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1419/el--furna-s-kotlon-first-fa-5045-5-image_5f44ba2826e74_1920x1920.jpeg?1598339644</image>
       <image>https://cdncloudcart.com/16281/products/images/1419/el--furna-s-kotlon-first-fa-5045-5-image_5f44ba42e2576_1280x1280.jpeg?1598339669</image>
@@ -6557,7 +6557,7 @@
     <original_price>37.00</original_price>
     <weight>2.240</weight>
     <sku>005109-1</sku>
-    <quantity>7</quantity>
+    <quantity>5</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1422/ured-za-pica-first-fa-5109-1-image_5f3fd4e25cd1f_1280x1280.jpeg?1598019028</image>
       <image>https://cdncloudcart.com/16281/products/images/1422/ured-za-pica-first-fa-5109-1-image_5f3fd4f4cddcb_1280x1280.jpeg?1598019030</image>
@@ -6587,7 +6587,7 @@
     <original_price>100.00</original_price>
     <weight>3.250</weight>
     <sku>005125-1</sku>
-    <quantity>16</quantity>
+    <quantity>15</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1423/ured-za-izsusavane-na-plodovezelencuci-first-fa-5125-1-image_5ee0f500a75e2_1280x1280.jpeg?1591801214</image>
       <image></image>
@@ -6707,7 +6707,7 @@
     <original_price>136.00</original_price>
     <weight>5.250</weight>
     <sku>005110-1</sku>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1427/ured-za-razane-na-hlab-kolbasi-first-fa-5110-1-image_5ee0f4fc88d9c_1920x1920.jpeg?1591801200</image>
       <image></image>
@@ -6737,7 +6737,7 @@
     <original_price>115.00</original_price>
     <weight>6.850</weight>
     <sku>005130</sku>
-    <quantity>473</quantity>
+    <quantity>155</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1428/elektriceska-tendzera-pod-nalagane-first-fa-5130-image_5ee0f50609489_1280x1280.jpeg?1591801227</image>
       <image>https://cdncloudcart.com/16281/products/images/1428/elektriceska-tendzera-pod-nalagane-first-fa-5130-image_5fb3bcb724f8a_1920x1920.jpeg?1605614794</image>
@@ -6947,7 +6947,7 @@
     <original_price>36.00</original_price>
     <weight>1.200</weight>
     <sku>005111-1-GR</sku>
-    <quantity>114</quantity>
+    <quantity>106</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1435/copar-mini-asistent-first-fa-5111-1-gr-image_5f368ba19fa14_600x600.jpeg?1597410228</image>
       <image></image>
@@ -6977,7 +6977,7 @@
     <original_price>79.00</original_price>
     <weight>2.030</weight>
     <sku>005305-2-WI</sku>
-    <quantity>137</quantity>
+    <quantity>136</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1436/ured-za-vafli-dvoen-first-fa-5305-2-wi-image_5ef210903acd2_1280x1280.jpeg?1592922276</image>
       <image>https://cdncloudcart.com/16281/products/images/1436/ured-za-vafli-dvoen-first-fa-5305-2-wi-image_5ef2109752025_1280x1280.jpeg?1592922282</image>
@@ -7007,7 +7007,7 @@
     <original_price>190.00</original_price>
     <weight>6.840</weight>
     <sku>005140</sku>
-    <quantity>20</quantity>
+    <quantity>44</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1437/mesomelacka-first-fa-5140-image_5f2c39c8cc3cb_1280x1280.jpeg?1596733919</image>
       <image>https://cdncloudcart.com/16281/products/images/1437/mesomelacka-first-fa-5140-image_5f2c3a43c06b1_1280x1280.jpeg?1596734039</image>
@@ -7067,7 +7067,7 @@
     <original_price>79.00</original_price>
     <weight>2.730</weight>
     <sku>005305-3-WI</sku>
-    <quantity>148</quantity>
+    <quantity>147</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1439/ured-za-vafli-dvoen-first-fa-5305-3-wi-image_5f2c1d99be102_1920x1920.jpeg?1596726701</image>
       <image>https://cdncloudcart.com/16281/products/images/1439/ured-za-vafli-dvoen-first-fa-5305-3-wi-image_5f2c1da467b4b_1920x1920.jpeg?1596726712</image>
@@ -7127,7 +7127,7 @@
     <original_price>57.00</original_price>
     <weight>2.230</weight>
     <sku>005058-1</sku>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1441/friturnik-first-fa-5058-1-image_5f2c1b54b3c6b_1280x1280.jpeg?1596726120</image>
       <image>https://cdncloudcart.com/16281/products/images/1441/friturnik-first-fa-5058-1-image_5f2c1b6096e6f_1280x1280.jpeg?1596726133</image>
@@ -7157,7 +7157,7 @@
     <original_price>120.00</original_price>
     <weight>3.980</weight>
     <sku>005141-1</sku>
-    <quantity>24</quantity>
+    <quantity>15</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1442/mesomelacka-first-fa-5141-1-image_5ee0f52609a9d_1280x1280.jpeg?1591801265</image>
       <image></image>
@@ -7217,7 +7217,7 @@
     <original_price>83.00</original_price>
     <weight>5.100</weight>
     <sku>005330</sku>
-    <quantity>9</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1444/kontakt-gril-first-fa-5330-image_5ee0f528c8807_1280x1280.jpeg?1591801265</image>
       <image></image>
@@ -7337,7 +7337,7 @@
     <original_price>49.00</original_price>
     <weight>2.250</weight>
     <sku>005114-1</sku>
-    <quantity>33</quantity>
+    <quantity>21</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1448/copar-mini-asistent-first-fa-5114-1-image_5ee0f52917c51_1920x1920.jpeg?1591801266</image>
       <image></image>
@@ -7367,7 +7367,7 @@
     <original_price>27.00</original_price>
     <weight>0.900</weight>
     <sku>005262-2</sku>
-    <quantity>64</quantity>
+    <quantity>54</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1449/mikser-first-fa-5262-2-image_5ee0f5328338e_1920x1920.jpeg?1591801269</image>
       <image></image>
@@ -7397,7 +7397,7 @@
     <original_price>81.00</original_price>
     <weight>3.630</weight>
     <sku>005241-3</sku>
-    <quantity>31</quantity>
+    <quantity>29</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1450/blender-first-fa-5241-3-image_5f2c145783e2b_1920x1920.jpeg?1596724330</image>
       <image>https://cdncloudcart.com/16281/products/images/1450/blender-first-fa-5241-3-image_5f2c1465325b7_1920x1920.jpeg?1596724344</image>
@@ -7427,7 +7427,7 @@
     <original_price>41.00</original_price>
     <weight>2.150</weight>
     <sku>005337-5</sku>
-    <quantity>8</quantity>
+    <quantity>6</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1451/ured-za-sandvici-first-fa-5337-5-image_5f2c11a6a5088_1920x1920.jpeg?1596723642</image>
       <image>https://cdncloudcart.com/16281/products/images/1451/ured-za-sandvici-first-fa-5337-5-image_5f2c11b1d381f_1920x1920.jpeg?1596723653</image>
@@ -7457,7 +7457,7 @@
     <original_price>40.00</original_price>
     <weight>1.800</weight>
     <sku>005160-WI</sku>
-    <quantity>207</quantity>
+    <quantity>206</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1453/ured-za-prigotvane-na-kiselo-mlako-first-fa-5160-wi-image_5f2ae6694e8ee_1280x1280.jpeg?1596647036</image>
       <image></image>
@@ -7487,7 +7487,7 @@
     <original_price>35.00</original_price>
     <weight>1.380</weight>
     <sku>005405-1</sku>
-    <quantity>40</quantity>
+    <quantity>36</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1454/el-kana-staklo-first-fa-5405-1-image_5f2ae5a771b23_1280x1280.jpeg?1596646842</image>
       <image></image>
@@ -7547,7 +7547,7 @@
     <original_price>27.00</original_price>
     <weight>0.780</weight>
     <sku>005262-5</sku>
-    <quantity>104</quantity>
+    <quantity>78</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1456/mikser-first-fa-5262-5-image_5f2aca3688604_1280x1280.jpeg?1596639817</image>
       <image>https://cdncloudcart.com/16281/products/images/1456/mikser-first-fa-5262-5-image_5f2aca4134f18_1280x1280.jpeg?1596639828</image>
@@ -7877,7 +7877,7 @@
     <original_price>56.00</original_price>
     <weight>2.400</weight>
     <sku>005459-4</sku>
-    <quantity>26</quantity>
+    <quantity>25</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1467/kafemasina10-12-casi-first-fa-5459-4-image_5f299fec601d6_1280x1280.jpeg?1596563494</image>
       <image></image>
@@ -8057,7 +8057,7 @@
     <original_price>64.00</original_price>
     <weight>2.790</weight>
     <sku>005342-1</sku>
-    <quantity>15</quantity>
+    <quantity>12</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1473/ured-za-sandvici-3-ploci-first-fa-5342-1-image_5f299996cb1a3_1920x1920.jpeg?1596561833</image>
       <image>https://cdncloudcart.com/16281/products/images/1473/ured-za-sandvici-3-ploci-first-fa-5342-1-image_5f2999a615cf2_1920x1920.jpeg?1596561849</image>
@@ -8117,7 +8117,7 @@
     <original_price>38.00</original_price>
     <weight>0.760</weight>
     <sku>005272-4</sku>
-    <quantity>540</quantity>
+    <quantity>485</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1475/multifunkcionalen-pasator-first-fa-5272-4-image_5f299694476dd_1920x1920.jpeg?1596561063</image>
       <image>https://cdncloudcart.com/16281/products/images/1475/multifunkcionalen-pasator-first-fa-5272-4-image_5f2996b2701ca_1920x1920.jpeg?1596561096</image>
@@ -8177,7 +8177,7 @@
     <original_price>19.00</original_price>
     <weight>0.470</weight>
     <sku>005653-3</sku>
-    <quantity>71</quantity>
+    <quantity>60</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1477/sesoar-first-fa-5653-3-image_5ee0f54ef3865_1280x1280.jpeg?1591801290</image>
       <image></image>
@@ -8207,7 +8207,7 @@
     <original_price>100.00</original_price>
     <weight>4.010</weight>
     <sku>005206-2</sku>
-    <quantity>42</quantity>
+    <quantity>39</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1478/sokoizstiskvacka-first-fa-5206-2-image_5f2954b200f39_1280x1280.jpeg?1596544456</image>
       <image>https://cdncloudcart.com/16281/products/images/1478/sokoizstiskvacka-first-fa-5206-2-image_5f2954c440ca4_1280x1280.jpeg?1596544467</image>
@@ -8267,7 +8267,7 @@
     <original_price>54.00</original_price>
     <weight>1.710</weight>
     <sku>005096-1</sku>
-    <quantity>107</quantity>
+    <quantity>193</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1480/edinicen-infracerven-kotlon-first-fa-5096-1-image_5ee0f556acb51_1920x1920.jpeg?1591801302</image>
       <image></image>
@@ -8297,7 +8297,7 @@
     <original_price>71.00</original_price>
     <weight>3.080</weight>
     <sku>005343-2</sku>
-    <quantity>22</quantity>
+    <quantity>17</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1481/kontakt-gril-first-fa-5343-2-image_5f29487b5733c_1280x1280.jpeg?1596541070</image>
       <image>https://cdncloudcart.com/16281/products/images/1481/kontakt-gril-first-fa-5343-2-image_5f2948844062c_1280x1280.jpeg?1596541078</image>
@@ -8327,7 +8327,7 @@
     <original_price>113.00</original_price>
     <weight>4.090</weight>
     <sku>005118-4</sku>
-    <quantity>14</quantity>
+    <quantity>38</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1482/kuhnenski-robot-6-v-1-first-fa-5118-4-image_5ee0f551e360c_1920x1920.jpeg?1591801296</image>
       <image></image>
@@ -8387,7 +8387,7 @@
     <original_price>19.00</original_price>
     <weight>0.430</weight>
     <sku>005653-4-BA</sku>
-    <quantity>77</quantity>
+    <quantity>62</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1484/sesoar-first-fa-5653-4-ba-image_5f29379649081_1280x1280.jpeg?1596536744</image>
       <image>https://cdncloudcart.com/16281/products/images/1484/sesoar-first-fa-5653-4-ba-image_5f2937a95d0fe_1280x1280.jpeg?1596536764</image>
@@ -8447,7 +8447,7 @@
     <original_price>28.00</original_price>
     <weight>0.760</weight>
     <sku>005290-3-PU</sku>
-    <quantity>70</quantity>
+    <quantity>61</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1486/pasator-first-fa-5290-3-pu-image_5f27f429af129_1280x1280.jpeg?1596453949</image>
       <image></image>
@@ -8507,7 +8507,7 @@
     <original_price>34.00</original_price>
     <weight>1.640</weight>
     <sku>005464-2</sku>
-    <quantity>9</quantity>
+    <quantity>185</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1488/kafemasina8-casi-first-fa-5464-2-image_5f219ea28fe29_1280x1280.jpeg?1596038839</image>
       <image>https://cdncloudcart.com/16281/products/images/1488/kafemasina8-casi-first-fa-5464-2-image_5f219ee5f17ad_1280x1280.jpeg?1596038905</image>
@@ -8537,7 +8537,7 @@
     <original_price>50.00</original_price>
     <weight>2.400</weight>
     <sku>005343-3</sku>
-    <quantity>19</quantity>
+    <quantity>16</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1489/kontakt-gril-first-fa-5343-3-image_5f219c65bea91_1280x1280.jpeg?1596038265</image>
       <image>https://cdncloudcart.com/16281/products/images/1489/kontakt-gril-first-fa-5343-3-image_5f219c711c583_1280x1280.jpeg?1596038277</image>
@@ -8627,7 +8627,7 @@
     <original_price>84.00</original_price>
     <weight>2.580</weight>
     <sku>005096-4</sku>
-    <quantity>99</quantity>
+    <quantity>91</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1492/edinicen-infracerven-kotlon-first-fa-5096-4-image_5ee0f561635f8_1920x1920.jpeg?1591801314</image>
       <image>https://cdncloudcart.com/16281/products/images/1492/edinicen-infracerven-kotlon-first-fa-5096-4-image_5efca462dd0b3_1280x1280.jpeg?1593615478</image>
@@ -8657,7 +8657,7 @@
     <original_price>36.00</original_price>
     <weight>0.780</weight>
     <sku>005290-4-OR</sku>
-    <quantity>161</quantity>
+    <quantity>155</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1493/pasator-first-fa-5290-4-or-image_5ee0f55ed434f_1920x1920.jpeg?1591801313</image>
       <image></image>
@@ -8687,7 +8687,7 @@
     <original_price>62.00</original_price>
     <weight>3.350</weight>
     <sku>005344-1</sku>
-    <quantity>31</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1494/kontakt-gril-first-fa-5344-1-image_5efca1f3a15ee_1280x1280.jpeg?1593614853</image>
       <image>https://cdncloudcart.com/16281/products/images/1494/kontakt-gril-first-fa-5344-1-image_5efca209358b0_1280x1280.jpeg?1593614876</image>
@@ -8807,7 +8807,7 @@
     <original_price>34.00</original_price>
     <weight>0.700</weight>
     <sku>005655-1</sku>
-    <quantity>225</quantity>
+    <quantity>217</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1498/sesoar-first-fa-5655-1-image_5efc9aed7385b_1280x1280.jpeg?1593613057</image>
       <image>https://cdncloudcart.com/16281/products/images/1498/sesoar-first-fa-5655-1-image_5efc9af671925_1280x1280.jpeg?1593613066</image>
@@ -8867,7 +8867,7 @@
     <original_price>66.00</original_price>
     <weight>2.090</weight>
     <sku>005096-5</sku>
-    <quantity>42</quantity>
+    <quantity>36</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1500/edinicen-infracerven-kotlon-1500w-first-fa-5096-5-image_5efc978dd4f7e_1280x1280.jpeg?1593612245</image>
       <image>https://cdncloudcart.com/16281/products/images/1500/edinicen-infracerven-kotlon-1500w-first-fa-5096-5-image_5efc9796b2a52_1280x1280.jpeg?1593612251</image>
@@ -8897,7 +8897,7 @@
     <original_price>36.00</original_price>
     <weight>0.780</weight>
     <sku>005290-4-PU</sku>
-    <quantity>148</quantity>
+    <quantity>147</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1501/pasator-first-fa-5290-4-pu-image_5efc955f9b783_1280x1280.jpeg?1593611635</image>
       <image></image>
@@ -8957,7 +8957,7 @@
     <original_price>44.00</original_price>
     <weight>1.750</weight>
     <sku>005250</sku>
-    <quantity>51</quantity>
+    <quantity>46</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1503/mikser-s-kupa-first-fa-5250-image_5ee0f56495a56_1920x1920.jpeg?1591801323</image>
       <image></image>
@@ -8987,7 +8987,7 @@
     <original_price>206.00</original_price>
     <weight>6.070</weight>
     <sku>005344-3</sku>
-    <quantity>103</quantity>
+    <quantity>102</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1504/kontakt-gril-first-fa-5344-3-image_5efc91a300e4d_1280x1280.jpeg?1593610677</image>
       <image>https://cdncloudcart.com/16281/products/images/1504/kontakt-gril-first-fa-5344-3-image_5efc91ab94926_1280x1280.jpeg?1593610689</image>
@@ -9017,7 +9017,7 @@
     <original_price>61.00</original_price>
     <weight>1.280</weight>
     <sku>005480</sku>
-    <quantity>33</quantity>
+    <quantity>32</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1505/kafemelacka-first-fa-5480-image_5ee0f56600658_1920x1920.jpeg?1591801324</image>
       <image></image>
@@ -9047,7 +9047,7 @@
     <original_price>99.00</original_price>
     <weight>4.530</weight>
     <sku>005213</sku>
-    <quantity>14</quantity>
+    <quantity>130</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1506/sokoizstiskvacka-first-fa-5213-image_5ee0f567ce982_1920x1920.jpeg?1591801328</image>
       <image></image>
@@ -9137,7 +9137,7 @@
     <original_price>5.00</original_price>
     <weight>0.110</weight>
     <sku>005293-BA</sku>
-    <quantity>115</quantity>
+    <quantity>85</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1509/mini-mikser-za-frape-first-fa-5293-ba-image_5ef22d2a2ffce_1280x1280.jpeg?1592929595</image>
       <image></image>
@@ -9197,7 +9197,7 @@
     <original_price>71.00</original_price>
     <weight>3.150</weight>
     <sku>005101</sku>
-    <quantity>140</quantity>
+    <quantity>139</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1511/ured-za-gotvene-na-para-first-fa-5101-image_5ee0f56d9fd90_1280x1280.jpeg?1591801338</image>
       <image></image>
@@ -9257,7 +9257,7 @@
     <original_price>36.00</original_price>
     <weight>0.810</weight>
     <sku>005482-2-BA</sku>
-    <quantity>217</quantity>
+    <quantity>208</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1513/kafemelacka-first-fa-5482-2-ba-image_5ef227633bd04_1280x1280.jpeg?1592928118</image>
       <image>https://cdncloudcart.com/16281/products/images/1513/kafemelacka-first-fa-5482-2-ba-image_5ef227730e69f_1280x1280.jpeg?1592928133</image>
@@ -9347,7 +9347,7 @@
     <original_price>33.00</original_price>
     <weight>1.090</weight>
     <sku>005417-1-GR</sku>
-    <quantity>25</quantity>
+    <quantity>55</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1516/el--kana-first-fa-5417-1-gr-image_5ef2238ff0732_600x600.jpeg?1592927140</image>
       <image></image>
@@ -9437,7 +9437,7 @@
     <original_price>279.00</original_price>
     <weight>10.000</weight>
     <sku>005104</sku>
-    <quantity>25</quantity>
+    <quantity>24</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1519/masina-za-led-first-fa-5104-image_5ef21680efd9c_1280x1280.jpeg?1592923797</image>
       <image>https://cdncloudcart.com/16281/products/images/1519/masina-za-led-first-fa-5104-image_5ef21689e91f6_1280x1280.jpeg?1592923804</image>
@@ -9467,7 +9467,7 @@
     <original_price>70.00</original_price>
     <weight>3.230</weight>
     <sku>005367-1</sku>
-    <quantity>109</quantity>
+    <quantity>107</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1520/toster-first-fa-5367-1-image_5ef2134f91a84_1280x1280.jpeg?1592922979</image>
       <image>https://cdncloudcart.com/16281/products/images/1520/toster-first-fa-5367-1-image_5ef213573419f_1280x1280.jpeg?1592922984</image>
@@ -9497,7 +9497,7 @@
     <original_price>27.00</original_price>
     <weight>0.630</weight>
     <sku>005425-2-BA</sku>
-    <quantity>18</quantity>
+    <quantity>14</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1521/turisticeska-el--kana-first-fa-5425-2-ba-image_5ef211a8f02b6_1280x1280.jpeg?1592922557</image>
       <image>https://cdncloudcart.com/16281/products/images/1521/turisticeska-el--kana-first-fa-5425-2-ba-image_5ee0f5715b8af_1920x1920.jpeg?1592922549</image>
@@ -9527,7 +9527,7 @@
     <original_price>56.00</original_price>
     <weight>2.030</weight>
     <sku>005305-2</sku>
-    <quantity>33</quantity>
+    <quantity>29</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1522/ured-za-vafli-dvoen-first-fa-5305-2-image_5ef20da084f4a_1280x1280.jpeg?1592921524</image>
       <image>https://cdncloudcart.com/16281/products/images/1522/ured-za-vafli-dvoen-first-fa-5305-2-image_5ef20dbb2dba4_1920x1920.jpeg?1592921957</image>
@@ -9557,7 +9557,7 @@
     <original_price>99.00</original_price>
     <weight>3.630</weight>
     <sku>005258</sku>
-    <quantity>19</quantity>
+    <quantity>14</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1523/mikser-s-kupa-inoks-first-fa-5258-image_5ef20bda16328_600x600.jpeg?1592921069</image>
       <image></image>
@@ -9587,7 +9587,7 @@
     <original_price>70.00</original_price>
     <weight>1.520</weight>
     <sku>005107</sku>
-    <quantity>163</quantity>
+    <quantity>162</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1524/turisticeski-k-t-el-kana-utia-sesoar-first-fa-5107-image_5ef20aa7dbba5_1280x1280.jpeg?1592920765</image>
       <image></image>
@@ -9647,7 +9647,7 @@
     <original_price>71.00</original_price>
     <weight>3.900</weight>
     <sku>005599-1</sku>
-    <quantity>10</quantity>
+    <quantity>16</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1526/ovlaznitel-ultrazvukov-za-vazduh-first-fa-5599-1-image_5ef207ee8f2f9_1280x1280.jpeg?1592920066</image>
       <image>https://cdncloudcart.com/16281/products/images/1526/ovlaznitel-ultrazvukov-za-vazduh-first-fa-5599-1-image_5ef207f74359c_1920x1920.jpeg?1592920077</image>
@@ -9677,7 +9677,7 @@
     <original_price>56.00</original_price>
     <weight>1.950</weight>
     <sku>005367-2</sku>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1527/toster-first-fa-5367-2-image_5ef1fff25e510_1280x1280.jpeg?1592918022</image>
       <image></image>
@@ -9737,7 +9737,7 @@
     <original_price>27.00</original_price>
     <weight>0.630</weight>
     <sku>005425-2-WI</sku>
-    <quantity>15</quantity>
+    <quantity>11</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1529/turisticeska-el--kana-first-fa-5425-2-wi-image_5ef1f98456faf_1280x1280.jpeg?1592916375</image>
       <image>https://cdncloudcart.com/16281/products/images/1529/turisticeska-el--kana-first-fa-5425-2-wi-image_5ef1f98d88700_1280x1280.jpeg?1592916384</image>
@@ -9857,7 +9857,7 @@
     <original_price>127.00</original_price>
     <weight>4.900</weight>
     <sku>005503-3</sku>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1533/prahosmukacka-first-700w-first-fa-5503-3-image_5ef1eea420a49_600x600.jpeg?1592913591</image>
       <image></image>
@@ -9887,7 +9887,7 @@
     <original_price>16.00</original_price>
     <weight>0.380</weight>
     <sku>005662-2-RE</sku>
-    <quantity>84</quantity>
+    <quantity>71</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1534/sesoar-first-fa-5662-2-re-image_5ef1ebd9a23a6_1280x1280.jpeg?1592912877</image>
       <image></image>
@@ -9917,7 +9917,7 @@
     <original_price>39.00</original_price>
     <weight>1.520</weight>
     <sku>005628-4-BU</sku>
-    <quantity>0</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1535/utia-first-fa-5628-4-bu-image_5ef1ea80c3f5a_1280x1280.jpeg?1592912534</image>
       <image>https://cdncloudcart.com/16281/products/images/1535/utia-first-fa-5628-4-bu-image_5ef1ea8f328d0_1280x1280.jpeg?1592912548</image>
@@ -9947,7 +9947,7 @@
     <original_price>176.00</original_price>
     <weight>7.500</weight>
     <sku>005546-3</sku>
-    <quantity>57</quantity>
+    <quantity>31</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1536/prahosmukacka-s-voden-filtar-first-fa-5546-3-image_5ee0f57e0182f_1920x1920.jpeg?1591801361</image>
       <image>https://cdncloudcart.com/16281/products/images/1536/prahosmukacka-s-voden-filtar-first-fa-5546-3-image_5ef1df6e6280a_1280x1280.jpeg?1592909696</image>
@@ -9977,7 +9977,7 @@
     <original_price>41.00</original_price>
     <weight>1.550</weight>
     <sku>005628-8</sku>
-    <quantity>43</quantity>
+    <quantity>39</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1537/utia-first-fa-5628-8-image_5ef1e1681c2a6_1280x1280.jpeg?1592910202</image>
       <image>https://cdncloudcart.com/16281/products/images/1537/utia-first-fa-5628-8-image_5ef1e172bfd47_1280x1280.jpeg?1592910215</image>
@@ -10037,7 +10037,7 @@
     <original_price>47.00</original_price>
     <weight>1.780</weight>
     <sku>005629-5</sku>
-    <quantity>165</quantity>
+    <quantity>164</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1539/utia-first-fa-5629-5-image_5ef1d554ddd5a_1280x1280.jpeg?1592907111</image>
       <image></image>
@@ -10217,7 +10217,7 @@
     <original_price>23.00</original_price>
     <weight>0.560</weight>
     <sku>005670-2</sku>
-    <quantity>137</quantity>
+    <quantity>135</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1545/presa-za-kosa-first-fa-5670-2-image_5ef0ca3330d15_300x300.jpeg?1592838726</image>
       <image>https://cdncloudcart.com/16281/products/images/1545/presa-za-kosa-first-fa-5670-2-image_5ee0f5841991d_1920x1920.jpeg?1592838726</image>
@@ -10307,7 +10307,7 @@
     <original_price>31.00</original_price>
     <weight>1.820</weight>
     <sku>008006-3-BA</sku>
-    <quantity>14</quantity>
+    <quantity>12</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1548/kantar-body-fat-first-fa-8006-3-ba-image_5eea40606210b_1920x1920.jpeg?1592424010</image>
       <image>https://cdncloudcart.com/16281/products/images/1548/kantar-body-fat-first-fa-8006-3-ba-image_5eea406a81eb6_1280x1280.jpeg?1592424013</image>
@@ -10397,7 +10397,7 @@
     <original_price>46.00</original_price>
     <weight>0.610</weight>
     <sku>005676-4</sku>
-    <quantity>155</quantity>
+    <quantity>143</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1551/masinka-za-podstrigvane-first-fa-5676-4-image_5eea3bad22b06_300x300.jpeg?1592423553</image>
       <image>https://cdncloudcart.com/16281/products/images/1551/masinka-za-podstrigvane-first-fa-5676-4-image_5eea3bb47f5c5_1280x1280.jpeg?1592423553</image>
@@ -10487,7 +10487,7 @@
     <original_price>21.00</original_price>
     <weight>0.430</weight>
     <sku>005671-5</sku>
-    <quantity>73</quantity>
+    <quantity>68</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1554/masa-za-kosa-first-fa-5671-5-image_5ee0f589850a5_1920x1920.jpeg?1591801379</image>
       <image>https://cdncloudcart.com/16281/products/images/1554/masa-za-kosa-first-fa-5671-5-image_5eea38a5c6f59_1920x1920.jpeg?1592423215</image>
@@ -10517,7 +10517,7 @@
     <original_price>21.00</original_price>
     <weight>1.500</weight>
     <sku>008013-3-GR</sku>
-    <quantity>15</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1555/kantar-first-fa-8013-3-gr-image_5eea3752be1ff_1280x1280.jpeg?1592423045</image>
       <image></image>
@@ -10577,7 +10577,7 @@
     <original_price>21.00</original_price>
     <weight>0.360</weight>
     <sku>005671-6</sku>
-    <quantity>39</quantity>
+    <quantity>34</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1557/masa-first-fa-5671-6-image_5ee0f58be14dd_1280x1280.jpeg?1591801380</image>
       <image>https://cdncloudcart.com/16281/products/images/1557/masa-first-fa-5671-6-image_5eea34b5b7559_1280x1280.jpeg?1592422820</image>
@@ -10607,7 +10607,7 @@
     <original_price>21.00</original_price>
     <weight>1.400</weight>
     <sku>008013-3-WI</sku>
-    <quantity>17</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1558/kantar-first-fa-8013-3-wi-image_5eea2f52571f5_1280x1280.jpeg?1592421633</image>
       <image></image>
@@ -10637,7 +10637,7 @@
     <original_price>22.00</original_price>
     <weight>0.480</weight>
     <sku>006400-WI</sku>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1559/kuhnenska-vezna-first-fa-6400-wi-image_5eea2d5f3ee31_1280x1280.jpeg?1592421391</image>
       <image>https://cdncloudcart.com/16281/products/images/1559/kuhnenska-vezna-first-fa-6400-wi-image_5eea2d6775cc0_1280x1280.jpeg?1592421394</image>
@@ -10697,7 +10697,7 @@
     <original_price>28.00</original_price>
     <weight>1.760</weight>
     <sku>008015-1-GR</sku>
-    <quantity>95</quantity>
+    <quantity>94</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1561/kantar-first-fa-8015-1-gr-image_5ee0f58d811cd_1920x1920.jpeg?1591801385</image>
       <image></image>
@@ -10727,7 +10727,7 @@
     <original_price>19.00</original_price>
     <weight>0.330</weight>
     <sku>006401-1-BL</sku>
-    <quantity>0</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1562/kuhnenska-vezna-first-fa-6401-1-bl-image_5eea2960dd0aa_1280x1280.jpeg?1592421033</image>
       <image>https://cdncloudcart.com/16281/products/images/1562/kuhnenska-vezna-first-fa-6401-1-bl-image_5eea296b37dea_1280x1280.jpeg?1592421037</image>
@@ -10757,7 +10757,7 @@
     <original_price>24.00</original_price>
     <weight>1.520</weight>
     <sku>008015-2-BL</sku>
-    <quantity>4</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1563/kantar-first-fa-8015-2-bl-image_5eea28373083c_1280x1280.jpeg?1592420925</image>
       <image>https://cdncloudcart.com/16281/products/images/1563/kantar-first-fa-8015-2-bl-image_5eea284c09669_1280x1280.jpeg?1592420934</image>
@@ -10787,7 +10787,7 @@
     <original_price>14.00</original_price>
     <weight>0.400</weight>
     <sku>005672-1-RE</sku>
-    <quantity>18</quantity>
+    <quantity>104</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1564/masa-26-mm-first-fa-5672-1-re-image_5ee0f58f45e3a_1920x1920.jpeg?1591801388</image>
       <image></image>
@@ -10877,7 +10877,7 @@
     <original_price>24.00</original_price>
     <weight>1.520</weight>
     <sku>008015-2-GR</sku>
-    <quantity>19</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1567/kantar-first-fa-8015-2-gr-image_5ee0f5925394c_1920x1920.jpeg?1591801392</image>
       <image>https://cdncloudcart.com/16281/products/images/1567/kantar-first-fa-8015-2-gr-image_5eea225eb58a7_1280x1280.jpeg?1592420264</image>
@@ -10937,7 +10937,7 @@
     <original_price>39.00</original_price>
     <weight>1.960</weight>
     <sku>008017</sku>
-    <quantity>94</quantity>
+    <quantity>93</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1569/kantar-first-fa-8017-image_5eea1f11e2fec_1280x1280.jpeg?1592419860</image>
       <image></image>
@@ -10967,7 +10967,7 @@
     <original_price>20.00</original_price>
     <weight>0.540</weight>
     <sku>005674-4</sku>
-    <quantity>71</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1570/masinka-za-podstrigvane-first-fa-5674-4-image_5eea1e1d2fe49_1280x1280.jpeg?1592419689</image>
       <image>https://cdncloudcart.com/16281/products/images/1570/masinka-za-podstrigvane-first-fa-5674-4-image_5eea1e2a2a8b0_1280x1280.jpeg?1592419698</image>
@@ -11027,7 +11027,7 @@
     <original_price>21.00</original_price>
     <weight>0.650</weight>
     <sku>006405</sku>
-    <quantity>0</quantity>
+    <quantity>234</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1572/kuhnenska-vezna-first-fa-6405-image_5eea1b54d36cb_1280x1280.jpeg?1592419261</image>
       <image>https://cdncloudcart.com/16281/products/images/1572/kuhnenska-vezna-first-fa-6405-image_5eea1b5d0df93_1280x1280.jpeg?1592419268</image>
@@ -11177,7 +11177,7 @@
     <original_price>84.00</original_price>
     <weight>3.750</weight>
     <sku>008115-1</sku>
-    <quantity>0</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1577/masazna-vana-za-kraka-first-fa-8115-1-image_5eea1495d4074_1280x1280.jpeg?1592418126</image>
       <image></image>
@@ -11207,7 +11207,7 @@
     <original_price>84.00</original_price>
     <weight>2.700</weight>
     <sku>008116-1</sku>
-    <quantity>25</quantity>
+    <quantity>23</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1578/masazna-vana-za-kraka-first-fa-8116-1-image_5ee0f598dc9c0_1920x1920.jpeg?1591801403</image>
       <image></image>
@@ -11297,7 +11297,7 @@
     <original_price>56.00</original_price>
     <weight>1.130</weight>
     <sku>008186-1</sku>
-    <quantity>45</quantity>
+    <quantity>163</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1581/komplekt-za-manikur-i-pedikur-first-fa-8186-1-image_5eea0935f1c43_1280x1280.jpeg?1592407703</image>
       <image>https://cdncloudcart.com/16281/products/images/1581/komplekt-za-manikur-i-pedikur-first-fa-8186-1-image_5ee0f599dbe32_600x600.jpeg?1592396103</image>
@@ -11447,11 +11447,11 @@
     <original_price>56.00</original_price>
     <weight>2.380</weight>
     <sku>001907-1</sku>
-    <quantity>24</quantity>
+    <quantity>16</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1587/prenosimo-radio-amfmaux-in-dva-govoritela-first-fa-1907-1-image_5efc2cebeb980_1280x1280.jpeg?1593584896</image>
-      <image></image>
-      <image></image>
+      <image>https://cdncloudcart.com/16281/products/images/1587/prenosimo-radio-amfmaux-in-dva-govoritela-first-fa-1907-1-image_6022a870149e6_1920x1920.jpeg?1612884527</image>
+      <image>https://cdncloudcart.com/16281/products/images/1587/prenosimo-radio-amfmaux-in-dva-govoritela-first-fa-1907-1-image_6022a87d17b78_1920x1920.jpeg?1612884537</image>
       <image></image>
       <image></image>
       <image></image>
@@ -11567,7 +11567,7 @@
     <original_price>40.00</original_price>
     <weight>0.320</weight>
     <sku>001925-1-BA</sku>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1591/prenosimo-radio-fmmp3-usb-tfaux-in-first-fa-1925-1-ba-image_5f21979db40b8_1920x1920.jpeg?1596037040</image>
       <image></image>
@@ -11657,7 +11657,7 @@
     <original_price>43.00</original_price>
     <weight>0.490</weight>
     <sku>002419-3</sku>
-    <quantity>19</quantity>
+    <quantity>226</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1594/radio-casovnik-first-fa-2419-3-image_5efc627d0027b_1920x1920.jpeg?1593598609</image>
       <image></image>
@@ -11777,7 +11777,7 @@
     <original_price>28.00</original_price>
     <weight>0.750</weight>
     <sku>003100</sku>
-    <quantity>35</quantity>
+    <quantity>29</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1598/vatresna-antena-fm-vhfuhf-first-fa-3100-image_5efc65397c2fd_1280x1280.jpeg?1593599309</image>
       <image></image>
@@ -11807,7 +11807,7 @@
     <original_price>51.00</original_price>
     <weight>1.650</weight>
     <sku>005058</sku>
-    <quantity>114</quantity>
+    <quantity>223</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1599/friturnik-10-l-first-fa-5058-image_5efc6bb78a16a_1920x1920.jpeg?1593600971</image>
       <image></image>
@@ -11867,7 +11867,7 @@
     <original_price>94.00</original_price>
     <weight>2.890</weight>
     <sku>005096-2</sku>
-    <quantity>2</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1601/dvoen-infracerven-kotlon-first-fa-5096-2-image_5f2190b014ddc_1280x1280.jpeg?1596035631</image>
       <image>https://cdncloudcart.com/16281/products/images/1601/dvoen-infracerven-kotlon-first-fa-5096-2-image_5f2190bb9644a_1280x1280.jpeg?1596035640</image>
@@ -11897,7 +11897,7 @@
     <original_price>107.00</original_price>
     <weight>3.740</weight>
     <sku>005096-6</sku>
-    <quantity>47</quantity>
+    <quantity>45</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1602/dvoen-infracerven-kotlon-2500w-first-fa-5096-6-image_5f218f3436eab_1920x1920.jpeg?1596035323</image>
       <image>https://cdncloudcart.com/16281/products/images/1602/dvoen-infracerven-kotlon-2500w-first-fa-5096-6-image_5f218f46169a2_1280x1280.jpeg?1596035326</image>
@@ -11957,7 +11957,7 @@
     <original_price>28.00</original_price>
     <weight>2.870</weight>
     <sku>005111</sku>
-    <quantity>29</quantity>
+    <quantity>28</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1604/copar-mini-asistent-first-fa-5111-image_5efc802de46e8_1920x1920.jpeg?1593606210</image>
       <image></image>
@@ -12077,7 +12077,7 @@
     <original_price>49.00</original_price>
     <weight>2.360</weight>
     <sku>005114-3-BA</sku>
-    <quantity>26</quantity>
+    <quantity>18</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1608/copar-mini-asistent-first-fa-5114-3-ba-image_5efc82ded8bce_1920x1920.jpeg?1593606898</image>
       <image></image>
@@ -12167,7 +12167,7 @@
     <original_price>51.00</original_price>
     <weight>2.110</weight>
     <sku>005114-7</sku>
-    <quantity>0</quantity>
+    <quantity>94</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1611/copar-mini-asistent-first-fa-5114-7-image_5f1ee08bd16d8_1280x1280.jpeg?1595859105</image>
       <image>https://cdncloudcart.com/16281/products/images/1611/copar-mini-asistent-first-fa-5114-7-image_5f1ee0981d83c_1280x1280.jpeg?1595859118</image>
@@ -12287,7 +12287,7 @@
     <original_price>100.00</original_price>
     <weight>3.120</weight>
     <sku>005143-2</sku>
-    <quantity>100</quantity>
+    <quantity>220</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1615/mesomelacka-first-fa-5143-2-image_5f1edb2008474_1280x1280.jpeg?1595858739</image>
       <image>https://cdncloudcart.com/16281/products/images/1615/mesomelacka-first-fa-5143-2-image_5f1edb29996d1_1920x1920.jpeg?1595858739</image>
@@ -12317,7 +12317,7 @@
     <original_price>34.00</original_price>
     <weight>1.220</weight>
     <sku>005221</sku>
-    <quantity>127</quantity>
+    <quantity>125</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1616/sokoizstiskvacka-za-citrusovi-plodove-first-fa-5221-image_5efc909b65fff_1920x1920.jpeg?1593610417</image>
       <image></image>
@@ -12347,7 +12347,7 @@
     <original_price>27.00</original_price>
     <weight>0.930</weight>
     <sku>005225-2-YE</sku>
-    <quantity>0</quantity>
+    <quantity>130</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1617/sokoizstiskvacka-za-citrusovi-plodove-first-fa-5225-2-ye-image_5f1eda05e5a75_1920x1920.jpeg?1595858730</image>
       <image>https://cdncloudcart.com/16281/products/images/1617/sokoizstiskvacka-za-citrusovi-plodove-first-fa-5225-2-ye-image_5f1eda140b48a_1920x1920.jpeg?1595858731</image>
@@ -12377,7 +12377,7 @@
     <original_price>27.00</original_price>
     <weight>0.780</weight>
     <sku>005226-1</sku>
-    <quantity>39</quantity>
+    <quantity>129</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1618/sokoizstiskvacka-za-citrusovi-plodove-first-fa-5226-1-image_5f1ed85a4ecd9_1280x1280.jpeg?1595858721</image>
       <image></image>
@@ -12437,7 +12437,7 @@
     <original_price>60.00</original_price>
     <weight>3.100</weight>
     <sku>005241-2-GL</sku>
-    <quantity>10</quantity>
+    <quantity>9</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1620/blendervertikalen-mikser-first-fa-5241-2-gl-image_5f1ed65334660_1280x1280.jpeg?1595858521</image>
       <image></image>
@@ -12467,7 +12467,7 @@
     <original_price>60.00</original_price>
     <weight>3.100</weight>
     <sku>005241-2-GR</sku>
-    <quantity>16</quantity>
+    <quantity>15</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1621/blendervertikalen-mikser-first-fa-5241-2-gr-image_5f1ed58e5e3de_1280x1280.jpeg?1595858448</image>
       <image></image>
@@ -12587,7 +12587,7 @@
     <original_price>31.00</original_price>
     <weight>0.880</weight>
     <sku>005262-1-WI</sku>
-    <quantity>257</quantity>
+    <quantity>252</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1625/mikser-first-fa-5262-1-wi-image_5efc9d55b487d_1920x1920.jpeg?1593613672</image>
       <image></image>
@@ -12707,7 +12707,7 @@
     <original_price>5.00</original_price>
     <weight>0.110</weight>
     <sku>005293-RE</sku>
-    <quantity>105</quantity>
+    <quantity>91</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1629/mini-mikser-za-frape-first-fa-5293-re-image_5efc9f71a3864_1920x1920.jpeg?1593614215</image>
       <image></image>
@@ -12737,7 +12737,7 @@
     <original_price>23.00</original_price>
     <weight>0.710</weight>
     <sku>005295</sku>
-    <quantity>116</quantity>
+    <quantity>83</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1630/pasator-first-fa-5295-image_5efcbfdce77b7_1920x1920.jpeg?1593622511</image>
       <image></image>
@@ -12887,7 +12887,7 @@
     <original_price>33.00</original_price>
     <weight>1.700</weight>
     <sku>005337-3</sku>
-    <quantity>15</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1635/ured-za-sandvicigril-ploci-first-fa-5337-3-image_5efcc2ae9b2b5_1280x1280.jpeg?1593623233</image>
       <image></image>
@@ -12947,7 +12947,7 @@
     <original_price>34.00</original_price>
     <weight>1.680</weight>
     <sku>005343-1</sku>
-    <quantity>72</quantity>
+    <quantity>209</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1637/kontakt-gril-first-fa-5343-1-image_5efcc3de67fbe_1920x1920.jpeg?1593623538</image>
       <image></image>
@@ -12977,7 +12977,7 @@
     <original_price>34.00</original_price>
     <weight>1.290</weight>
     <sku>005367-CH</sku>
-    <quantity>5</quantity>
+    <quantity>3</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1638/toster-4-filii-first-fa-5367-ch-image_5efcc476c8383_1920x1920.jpeg?1593623690</image>
       <image></image>
@@ -13037,7 +13037,7 @@
     <original_price>38.00</original_price>
     <weight>1.330</weight>
     <sku>005406-3</sku>
-    <quantity>32</quantity>
+    <quantity>158</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1640/el-kana-staklo-first-fa-5406-3-image_5f1eca216c690_1280x1280.jpeg?1595857472</image>
       <image>https://cdncloudcart.com/16281/products/images/1640/el-kana-staklo-first-fa-5406-3-image_5f1eca2c508b2_1280x1280.jpeg?1595857474</image>
@@ -13067,7 +13067,7 @@
     <original_price>51.00</original_price>
     <weight>1.580</weight>
     <sku>005406-5</sku>
-    <quantity>85</quantity>
+    <quantity>84</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1641/el-kana-staklo-first-fa-5406-5-image_5f1ec86c8f92d_1280x1280.jpeg?1595857360</image>
       <image></image>
@@ -13097,7 +13097,7 @@
     <original_price>37.00</original_price>
     <weight>1.500</weight>
     <sku>005406-6</sku>
-    <quantity>163</quantity>
+    <quantity>159</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1642/el-kana-staklo-first-fa-5406-6-image_5f1ec7ebc4105_1280x1280.jpeg?1595857324</image>
       <image>https://cdncloudcart.com/16281/products/images/1642/el-kana-staklo-first-fa-5406-6-image_5f1ec7f65f75f_1280x1280.jpeg?1595857327</image>
@@ -13127,7 +13127,7 @@
     <original_price>28.00</original_price>
     <weight>1.100</weight>
     <sku>005411</sku>
-    <quantity>34</quantity>
+    <quantity>27</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1643/el--kana-first-fa-5411-image_5efdbba3eeb9a_1920x1920.jpeg?1593686967</image>
       <image></image>
@@ -13157,7 +13157,7 @@
     <original_price>56.00</original_price>
     <weight>1.870</weight>
     <sku>005411-0</sku>
-    <quantity>16</quantity>
+    <quantity>104</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1644/el-kana-staklo-first-fa-5411-0-image_5f1dabced09b6_1280x1280.jpeg?1595780065</image>
       <image>https://cdncloudcart.com/16281/products/images/1644/el-kana-staklo-first-fa-5411-0-image_5f1dac55e852b_1280x1280.jpeg?1595780227</image>
@@ -13337,7 +13337,7 @@
     <original_price>28.00</original_price>
     <weight>1.130</weight>
     <sku>005421-2-BA</sku>
-    <quantity>0</quantity>
+    <quantity>87</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1650/el--kana-first-fa-5421-2-ba-image_5f1da382f1e67_1280x1280.jpeg?1595777941</image>
       <image></image>
@@ -13367,7 +13367,7 @@
     <original_price>27.00</original_price>
     <weight>0.970</weight>
     <sku>005427-2-BA</sku>
-    <quantity>75</quantity>
+    <quantity>71</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1651/el--kana-first-fa-5427-2-ba-image_5f1da2d259d80_1280x1280.jpeg?1595777766</image>
       <image>https://cdncloudcart.com/16281/products/images/1651/el--kana-first-fa-5427-2-ba-image_5f1da2dd286ba_1280x1280.jpeg?1595777775</image>
@@ -13397,7 +13397,7 @@
     <original_price>27.00</original_price>
     <weight>0.980</weight>
     <sku>005427-2-GR</sku>
-    <quantity>39</quantity>
+    <quantity>116</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1652/el--kana-first-fa-5427-2-gr-image_5f1da1bf5b2fd_1280x1280.jpeg?1595777490</image>
       <image></image>
@@ -13427,7 +13427,7 @@
     <original_price>37.00</original_price>
     <weight>0.680</weight>
     <sku>005450-1</sku>
-    <quantity>41</quantity>
+    <quantity>38</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1653/el--dzezve-first-fa-5450-1-image_600ae178721f5_1280x1280.jpeg?1611328489</image>
       <image>https://cdncloudcart.com/16281/products/images/1653/el--dzezve-first-fa-5450-1-image_600ae1bee9232_1280x1280.jpeg?1611328521</image>
@@ -13487,7 +13487,7 @@
     <original_price>38.00</original_price>
     <weight>1.670</weight>
     <sku>005464-1</sku>
-    <quantity>12</quantity>
+    <quantity>88</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1655/kafemasina10-12-casi-first-fa-5464-1-image_5f1d9e43323cf_1280x1280.jpeg?1595776600</image>
       <image>https://cdncloudcart.com/16281/products/images/1655/kafemasina10-12-casi-first-fa-5464-1-image_5f1d9e4ce45bb_1280x1280.jpeg?1595776609</image>
@@ -13517,7 +13517,7 @@
     <original_price>28.00</original_price>
     <weight>0.770</weight>
     <sku>005482-2-CR</sku>
-    <quantity>37</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1656/kafemelacka-first-fa-5482-2-cr-image_5f1d9cd871f94_1920x1920.jpeg?1595776237</image>
       <image>https://cdncloudcart.com/16281/products/images/1656/kafemelacka-first-fa-5482-2-cr-image_5f1d9da4d058d_1280x1280.jpeg?1595776440</image>
@@ -13577,7 +13577,7 @@
     <original_price>56.00</original_price>
     <weight>1.390</weight>
     <sku>005486</sku>
-    <quantity>0</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1658/kafemelacka-first-fa-5486-image_5efdc4b72282d_1920x1920.jpeg?1593689360</image>
       <image></image>
@@ -13697,7 +13697,7 @@
     <original_price>99.00</original_price>
     <weight>2.310</weight>
     <sku>005571-3</sku>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1662/keramicna-pecka-za-stena-first-fa-5571-3-image_5f1ad284bf242_1280x1280.jpeg?1595593383</image>
       <image>https://cdncloudcart.com/16281/products/images/1662/keramicna-pecka-za-stena-first-fa-5571-3-image_5f1ad23fa63ac_1280x1280.jpeg?1595593383</image>
@@ -13817,7 +13817,7 @@
     <original_price>54.00</original_price>
     <weight>2.130</weight>
     <sku>005633-2-GN</sku>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1666/utia-first-fa-5633-2-gn-image_5f1acd767da98_1920x1920.jpeg?1595592076</image>
       <image>https://cdncloudcart.com/16281/products/images/1666/utia-first-fa-5633-2-gn-image_5f1acd8313a48_1280x1280.jpeg?1595592085</image>
@@ -13877,7 +13877,7 @@
     <original_price>19.00</original_price>
     <weight>0.410</weight>
     <sku>005653-4-PU</sku>
-    <quantity>31</quantity>
+    <quantity>22</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1668/sesoar-first-fa-5653-4-pu-image_5f1acaf12977e_1280x1280.jpeg?1595591427</image>
       <image>https://cdncloudcart.com/16281/products/images/1668/sesoar-first-fa-5653-4-pu-image_5f1acaf9ef1c4_1280x1280.jpeg?1595591438</image>
@@ -13907,7 +13907,7 @@
     <original_price>36.00</original_price>
     <weight>0.790</weight>
     <sku>005654-4</sku>
-    <quantity>0</quantity>
+    <quantity>174</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1669/sesoar-first-fa-5654-4-image_5f1ac9b8306f4_1280x1280.jpeg?1595591115</image>
       <image>https://cdncloudcart.com/16281/products/images/1669/sesoar-first-fa-5654-4-image_5efdcf8abd1d9_1920x1920.jpeg?1595591099</image>
@@ -13997,7 +13997,7 @@
     <original_price>32.00</original_price>
     <weight>0.470</weight>
     <sku>005658</sku>
-    <quantity>250</quantity>
+    <quantity>208</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1672/presa-za-kosa-first-fa-5658-image_5f1ac7d8c9c46_1280x1280.jpeg?1595590638</image>
       <image>https://cdncloudcart.com/16281/products/images/1672/presa-za-kosa-first-fa-5658-image_5f1ac7e088cd0_1280x1280.jpeg?1595590645</image>
@@ -14057,7 +14057,7 @@
     <original_price>16.00</original_price>
     <weight>0.370</weight>
     <sku>005662-2-PU</sku>
-    <quantity>136</quantity>
+    <quantity>122</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1674/sesoar-first-fa-5662-2-pu-image_5f1ac609c671f_1280x1280.jpeg?1595590172</image>
       <image></image>
@@ -14117,7 +14117,7 @@
     <original_price>19.00</original_price>
     <weight>0.430</weight>
     <sku>005666-3-PU</sku>
-    <quantity>179</quantity>
+    <quantity>147</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1676/sesoar-first-fa-5666-3-pu-image_5f1ac4aa99733_1280x1280.jpeg?1595589820</image>
       <image>https://cdncloudcart.com/16281/products/images/1676/sesoar-first-fa-5666-3-pu-image_5f1ac4b41e00e_1280x1280.jpeg?1595589830</image>
@@ -14177,7 +14177,7 @@
     <original_price>16.00</original_price>
     <weight>0.390</weight>
     <sku>005666-5-BA</sku>
-    <quantity>123</quantity>
+    <quantity>110</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1678/sesoar-first-fa-5666-5-ba-image_5f1ac2c69a69e_1280x1280.jpeg?1595589339</image>
       <image></image>
@@ -14207,7 +14207,7 @@
     <original_price>16.00</original_price>
     <weight>0.390</weight>
     <sku>005666-5-WI</sku>
-    <quantity>151</quantity>
+    <quantity>140</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1679/sesoar-first-fa-5666-5-wi-image_5f1abda6ea0ed_1280x1280.jpeg?1595588025</image>
       <image></image>
@@ -14237,7 +14237,7 @@
     <original_price>23.00</original_price>
     <weight>0.680</weight>
     <sku>005670-1-GR</sku>
-    <quantity>503</quantity>
+    <quantity>500</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1680/presa-za-kosa-first-fa-5670-1-gr-image_5f1abc5a68d08_1280x1280.jpeg?1595587692</image>
       <image>https://cdncloudcart.com/16281/products/images/1680/presa-za-kosa-first-fa-5670-1-gr-image_5f1abc66e5414_1280x1280.jpeg?1595587706</image>
@@ -14267,7 +14267,7 @@
     <original_price>23.00</original_price>
     <weight>0.640</weight>
     <sku>005670-1-PI</sku>
-    <quantity>408</quantity>
+    <quantity>405</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1681/presa-za-kosa-first-fa-5670-1-pi-image_5f1ab90cbdbf2_1280x1280.jpeg?1595586848</image>
       <image>https://cdncloudcart.com/16281/products/images/1681/presa-za-kosa-first-fa-5670-1-pi-image_5f1ab9356364e_1280x1280.jpeg?1595586890</image>
@@ -14297,7 +14297,7 @@
     <original_price>25.00</original_price>
     <weight>0.470</weight>
     <sku>005670-3-BA</sku>
-    <quantity>35</quantity>
+    <quantity>26</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1682/presa-za-kosa-4-v-1-first-fa-5670-3-ba-image_5f1ab78818a05_1280x1280.jpeg?1595586460</image>
       <image>https://cdncloudcart.com/16281/products/images/1682/presa-za-kosa-4-v-1-first-fa-5670-3-ba-image_5f1ab79628106_1280x1280.jpeg?1595586474</image>
@@ -14387,7 +14387,7 @@
     <original_price>12.00</original_price>
     <weight>0.330</weight>
     <sku>005672-2-BA</sku>
-    <quantity>0</quantity>
+    <quantity>90</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1685/masa-first-fa-5672-2-ba-image_5f18594921cba_1280x1280.jpeg?1595431259</image>
       <image></image>
@@ -14417,7 +14417,7 @@
     <original_price>33.00</original_price>
     <weight>0.420</weight>
     <sku>005672-6</sku>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1686/presa-za-kosa-2-v-1-first-fa-5672-6-image_5efddc5d573d1_1920x1920.jpeg?1593695344</image>
       <image></image>
@@ -14507,7 +14507,7 @@
     <original_price>12.00</original_price>
     <weight>0.140</weight>
     <sku>005680-1</sku>
-    <quantity>109</quantity>
+    <quantity>325</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1689/ured-za-pocistvane-nos-i-usi-first-fa-5680-1-image_5efddde5b3b8b_1280x1280.jpeg?1593695735</image>
       <image></image>
@@ -14537,7 +14537,7 @@
     <original_price>13.00</original_price>
     <weight>0.140</weight>
     <sku>005680-2-GO</sku>
-    <quantity>0</quantity>
+    <quantity>70</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1690/ured-za-pocistvane-na-nosa-i-usite-first-fa-5680-2-go-image_5efdde70b7dd8_1280x1280.jpeg?1593695876</image>
       <image></image>
@@ -14657,7 +14657,7 @@
     <original_price>18.00</original_price>
     <weight>0.150</weight>
     <sku>006409</sku>
-    <quantity>155</quantity>
+    <quantity>154</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1694/vezna-za-bagaz-first-fa-6409-image_5f18539bc8022_1920x1920.jpeg?1595429842</image>
       <image>https://cdncloudcart.com/16281/products/images/1694/vezna-za-bagaz-first-fa-6409-image_5efde0d29fd2a_1920x1920.jpeg?1595429800</image>
@@ -14897,7 +14897,7 @@
     <original_price>26.00</original_price>
     <weight>1.280</weight>
     <sku>2603012</sku>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1702/tendzera-18h8-5sm-rein-origanum-image_5f157e9a4283b_1920x1920.jpeg?1595244209</image>
       <image></image>
@@ -14957,7 +14957,7 @@
     <original_price>24.00</original_price>
     <weight>1.090</weight>
     <sku>2617032</sku>
-    <quantity>0</quantity>
+    <quantity>13</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1704/tigan-24sm-rein-eclipse-image_5f157ce6b5f95_300x300.jpeg?1595243770</image>
       <image></image>
@@ -15077,7 +15077,7 @@
     <original_price>33.00</original_price>
     <weight>1.460</weight>
     <sku>70166</sku>
-    <quantity>133</quantity>
+    <quantity>123</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1708/ured-za-sladki-elite-cm-7-image_5efde5538f64a_1920x1920.jpeg?1593697640</image>
       <image></image>
@@ -15137,7 +15137,7 @@
     <original_price>24.00</original_price>
     <weight>1.130</weight>
     <sku>70263</sku>
-    <quantity>37</quantity>
+    <quantity>469</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1710/ured-za-sandvici-elite-esm-0263-image_5efde63da004a_1920x1920.jpeg?1593697875</image>
       <image></image>
@@ -15287,7 +15287,7 @@
     <original_price>33.00</original_price>
     <weight>0.410</weight>
     <sku>70323</sku>
-    <quantity>1495</quantity>
+    <quantity>1483</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1715/mas-podstrigv-elite-rc-991-image_5efde8e5617fd_1920x1920.jpeg?1593698552</image>
       <image></image>
@@ -15347,7 +15347,7 @@
     <original_price>66.00</original_price>
     <weight>0.620</weight>
     <sku>70361</sku>
-    <quantity>124</quantity>
+    <quantity>93</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1717/aparat-za-kravno-elite-bpm-889a-image_5efdea0327267_1280x1280.jpeg?1593698873</image>
       <image></image>
@@ -15407,7 +15407,7 @@
     <original_price>20.00</original_price>
     <weight>0.510</weight>
     <sku>70409</sku>
-    <quantity>731</quantity>
+    <quantity>727</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1719/presa-za-kosa-elite-hs-0409-image_5efebffa416bd_1920x1920.jpeg?1593753613</image>
       <image></image>
@@ -15437,7 +15437,7 @@
     <original_price>42.00</original_price>
     <weight>1.040</weight>
     <sku>70411</sku>
-    <quantity>206</quantity>
+    <quantity>143</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1720/sesoar-elite-hd-0411-image_5efebfdc104d6_1920x1920.jpeg?1593753584</image>
       <image></image>
@@ -15557,7 +15557,7 @@
     <original_price>40.00</original_price>
     <weight>0.500</weight>
     <sku>70438</sku>
-    <quantity>161</quantity>
+    <quantity>154</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1724/el--cetka-za-izpravane-na-kosa-elite-sb-0438-image_5f184abcddfb2_1920x1920.jpeg?1595429649</image>
       <image></image>
@@ -15587,7 +15587,7 @@
     <original_price>36.00</original_price>
     <weight>1.030</weight>
     <sku>70439</sku>
-    <quantity>263</quantity>
+    <quantity>257</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1725/avtomaticna-masa-za-kosa-elite-ahc-0439-image_5f184a820dada_1920x1920.jpeg?1595429647</image>
       <image></image>
@@ -15617,7 +15617,7 @@
     <original_price>24.00</original_price>
     <weight>1.830</weight>
     <sku>70441</sku>
-    <quantity>1120</quantity>
+    <quantity>1119</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1726/ventilator-nastolen-9-elite-eft-0441-image_5f18492eb7426_1920x1920.jpeg?1595429637</image>
       <image></image>
@@ -15767,7 +15767,7 @@
     <original_price>22.00</original_price>
     <weight>0.520</weight>
     <sku>70461</sku>
-    <quantity>147</quantity>
+    <quantity>92</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1731/presa-za-kosamasa-2-v-1-elite-hsc-0461-image_5f184766d5466_600x600.jpeg?1595429624</image>
       <image></image>
@@ -15977,7 +15977,7 @@
     <original_price>127.00</original_price>
     <weight>6.100</weight>
     <sku>70559</sku>
-    <quantity>27</quantity>
+    <quantity>26</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1738/dispenser-za-voda-elektronen-elite-wde-0559-image_5f1700cff18e3_1280x1280.jpeg?1595343074</image>
       <image></image>
@@ -16007,7 +16007,7 @@
     <original_price>34.00</original_price>
     <weight>0.930</weight>
     <sku>71109</sku>
-    <quantity>0</quantity>
+    <quantity>354</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1739/mini-masina-za-pukanki-elite-epm-1200-image_5f17008e953a3_1920x1920.jpeg?1595343011</image>
       <image></image>
@@ -16037,7 +16037,7 @@
     <original_price>24.00</original_price>
     <weight>0.890</weight>
     <sku>71128</sku>
-    <quantity>741</quantity>
+    <quantity>724</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1740/el-kana-elite-ek-1600or-image_5f17db39bdd46_1920x1920.jpeg?1595398991</image>
       <image></image>
@@ -16067,7 +16067,7 @@
     <original_price>24.00</original_price>
     <weight>0.890</weight>
     <sku>71129</sku>
-    <quantity>253</quantity>
+    <quantity>232</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1741/el-kana-elite-ek-1600bl-image_5f16ffe4635da_600x600.jpeg?1595342840</image>
       <image></image>
@@ -16157,7 +16157,7 @@
     <original_price>22.00</original_price>
     <weight>0.950</weight>
     <sku>71163</sku>
-    <quantity>318</quantity>
+    <quantity>126</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1744/el--kana-elite-ek-1163-image_5f16fedf61f73_300x300.jpeg?1595342577</image>
       <image></image>
@@ -16187,7 +16187,7 @@
     <original_price>23.00</original_price>
     <weight>0.910</weight>
     <sku>71176</sku>
-    <quantity>967</quantity>
+    <quantity>955</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1745/el--kana-elite-ek-1176-image_5f16fe8aac76c_1920x1920.jpeg?1595342495</image>
       <image></image>
@@ -16217,7 +16217,7 @@
     <original_price>210.00</original_price>
     <weight>16.040</weight>
     <sku>71208</sku>
-    <quantity>240</quantity>
+    <quantity>232</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1746/el--mini-pecka-s-2-kotlona-elite-emo-1208-image_5f184732b76df_1920x1920.jpeg?1595429621</image>
       <image></image>
@@ -16247,7 +16247,7 @@
     <original_price>224.00</original_price>
     <weight>16.110</weight>
     <sku>71209</sku>
-    <quantity>133</quantity>
+    <quantity>66</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1747/el--mini-pecka-s-2-kotlonaventilator-elite-emo-1209-image_5f17db0cc3937_1920x1920.jpeg?1595398947</image>
       <image></image>
@@ -16307,7 +16307,7 @@
     <original_price>23.00</original_price>
     <weight>1.230</weight>
     <sku>73160</sku>
-    <quantity>215</quantity>
+    <quantity>170</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1750/ured-za-sandvici2-filii-lamarque-lsm-3160-image_5efed1004a56d_1920x1920.jpeg?1593757972</image>
       <image></image>
@@ -16337,7 +16337,7 @@
     <original_price>96.00</original_price>
     <weight>6.550</weight>
     <sku>73170</sku>
-    <quantity>4</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1751/el--furna-lamarque-lto-3170-image_5efed1645bfe0_1920x1920.jpeg?1593758076</image>
       <image></image>
@@ -16367,7 +16367,7 @@
     <original_price>50.00</original_price>
     <weight>2.210</weight>
     <sku>73173</sku>
-    <quantity>0</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1752/sokoizstiskvacka-lamarque-le-3173-image_5efed1d740d3f_800x800.jpeg?1593758186</image>
       <image></image>
@@ -16397,7 +16397,7 @@
     <original_price>33.00</original_price>
     <weight>0.820</weight>
     <sku>73185</sku>
-    <quantity>0</quantity>
+    <quantity>239</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1753/mini-masina-za-pukanki-lamarque-lpm-3185-image_5f16faf42cc20_800x800.jpeg?1595341574</image>
       <image></image>
@@ -16427,7 +16427,7 @@
     <original_price>21.00</original_price>
     <weight>0.860</weight>
     <sku>73203</sku>
-    <quantity>565</quantity>
+    <quantity>562</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1754/el--kana-lamarque-ek-3203-image_5f16fb2ae2e2a_600x600.jpeg?1595341630</image>
       <image></image>
@@ -16487,7 +16487,7 @@
     <original_price>19.00</original_price>
     <weight>1.060</weight>
     <sku>73324</sku>
-    <quantity>830</quantity>
+    <quantity>746</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1756/vent-pecka-lamarque-lfh-1020-image_5f16fb6260113_1920x1920.jpeg?1595341686</image>
       <image></image>
@@ -16577,7 +16577,7 @@
     <original_price>26.00</original_price>
     <weight>0.770</weight>
     <sku>70419</sku>
-    <quantity>447</quantity>
+    <quantity>446</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1760/utia-elite-si-0419-image_5f44fe4f6b590_600x600.jpeg?1598357089</image>
       <image></image>
@@ -16637,7 +16637,7 @@
     <original_price>207.00</original_price>
     <weight>7.800</weight>
     <sku>005152-2</sku>
-    <quantity>60</quantity>
+    <quantity>53</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1893/ured-za-pravene-na-hlab-first-fa-5152-2-image_5f44d2a28f4b2_1280x1280.jpeg?1598345911</image>
       <image>https://cdncloudcart.com/16281/products/images/1893/ured-za-pravene-na-hlab-first-fa-5152-2-image_5f44d2ae97767_1280x1280.jpeg?1598345924</image>
@@ -16697,7 +16697,7 @@
     <original_price>16.00</original_price>
     <weight>0.350</weight>
     <sku>71187</sku>
-    <quantity>485</quantity>
+    <quantity>452</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1895/kuhnenska-vezna-elite-ks-1187-image_5f44e394d10f1_1280x1280.png?1598350260</image>
       <image></image>
@@ -16727,7 +16727,7 @@
     <original_price>17.00</original_price>
     <weight>0.560</weight>
     <sku>71188</sku>
-    <quantity>514</quantity>
+    <quantity>497</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1896/kuhnenska-vezna-elite-ks-1188-image_5f44e4d03c91f_1920x1920.jpeg?1598350568</image>
       <image></image>
@@ -16757,7 +16757,7 @@
     <original_price>16.00</original_price>
     <weight>0.470</weight>
     <sku>71189</sku>
-    <quantity>308</quantity>
+    <quantity>262</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1897/kuhnenska-vezna-elite-ks-1188-copy-image_5f44e6502528b_1280x1280.jpeg?1598350946</image>
       <image></image>
@@ -16787,7 +16787,7 @@
     <original_price>17.00</original_price>
     <weight>0.520</weight>
     <sku>71190</sku>
-    <quantity>43</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1898/kuhnenska-vezna-elite-ks-1190-image_5f44e825432fe_600x600.jpeg?1598351416</image>
       <image></image>
@@ -16817,7 +16817,7 @@
     <original_price>16.00</original_price>
     <weight>0.480</weight>
     <sku>71191</sku>
-    <quantity>531</quantity>
+    <quantity>510</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1899/kuhnenska-vezna-elite-ks-1190-copy-image_5f44e8b132c33_1920x1920.jpeg?1598351559</image>
       <image></image>
@@ -16847,7 +16847,7 @@
     <original_price>16.00</original_price>
     <weight>0.450</weight>
     <sku>71192</sku>
-    <quantity>552</quantity>
+    <quantity>524</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1900/kuhnenska-vezna-elite-ks-1192-image_5f44e997ec3d1_1920x1920.jpeg?1598351791</image>
       <image></image>
@@ -16877,7 +16877,7 @@
     <original_price>30.00</original_price>
     <weight>1.220</weight>
     <sku>71177</sku>
-    <quantity>770</quantity>
+    <quantity>743</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1901/el--kana--staklo-elite-ek-1177-image_5f44ec1c7a9db_1920x1920.jpeg?1598352498</image>
       <image></image>
@@ -16907,7 +16907,7 @@
     <original_price>21.00</original_price>
     <weight>0.840</weight>
     <sku>71130</sku>
-    <quantity>2760</quantity>
+    <quantity>2711</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1902/el-kana-elite-ek-1200ss-image_5f44ed2305a94_1920x1920.jpeg?1598352696</image>
       <image>https://cdncloudcart.com/16281/products/images/1902/el-kana-elite-ek-1200ss-image_5f44ed3554233_1920x1920.png?1598352723</image>
@@ -16937,7 +16937,7 @@
     <original_price>90.00</original_price>
     <weight>4.300</weight>
     <sku>70498</sku>
-    <quantity>341</quantity>
+    <quantity>330</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1903/prahosmukacka-elite-vc-0498-image_5f44eeaedd86f_1280x1280.png?1598353107</image>
       <image>https://cdncloudcart.com/16281/products/images/1903/prahosmukacka-elite-vc-0498-image_5f44eec79c192_1920x1920.png?1598353126</image>
@@ -16967,7 +16967,7 @@
     <original_price>33.00</original_price>
     <weight>1.300</weight>
     <sku>70479</sku>
-    <quantity>301</quantity>
+    <quantity>297</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1904/utia-elite-si-0479-image_5f44f50760a1e_1920x1920.jpeg?1598354718</image>
       <image></image>
@@ -17147,7 +17147,7 @@
     <original_price>244.00</original_price>
     <weight>8.800</weight>
     <sku>72529</sku>
-    <quantity>218</quantity>
+    <quantity>216</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1910/s-ma-otopl--i-ohlazdane-elite-ahcs-2529-image_5f44fc03e151a_1920x1920.jpeg?1598356503</image>
       <image></image>
@@ -17207,7 +17207,7 @@
     <original_price>23.00</original_price>
     <weight>0.770</weight>
     <sku>71308</sku>
-    <quantity>376</quantity>
+    <quantity>360</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1912/utia-elite-si-1308-image_5f44fd4ed7e3d_1920x1920.jpeg?1598356835</image>
       <image></image>
@@ -17267,7 +17267,7 @@
     <original_price>18.00</original_price>
     <weight>2.000</weight>
     <sku>71312</sku>
-    <quantity>543</quantity>
+    <quantity>479</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1914/kantar-elite-bs-1312-image_5f44ffe5bda2d_1920x1920.jpeg?1598357498</image>
       <image></image>
@@ -17297,7 +17297,7 @@
     <original_price>16.00</original_price>
     <weight>0.950</weight>
     <sku>71313</sku>
-    <quantity>391</quantity>
+    <quantity>335</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1915/kantar-elite-bs-1312-copy-image_5f4500a4c8193_1920x1920.jpeg?1598357689</image>
       <image></image>
@@ -17327,7 +17327,7 @@
     <original_price>18.00</original_price>
     <weight>1.700</weight>
     <sku>71314</sku>
-    <quantity>664</quantity>
+    <quantity>642</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1916/kantar-elite-bs-1314-image_5f450af8d2b32_1920x1920.jpeg?1598360332</image>
       <image></image>
@@ -17357,7 +17357,7 @@
     <original_price>24.00</original_price>
     <weight>1.330</weight>
     <sku>71315</sku>
-    <quantity>718</quantity>
+    <quantity>708</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1917/kantarbluetooth-elite-bs-1315-image_5f466b6d10025_1920x1920.jpeg?1598450563</image>
       <image></image>
@@ -17387,7 +17387,7 @@
     <original_price>19.00</original_price>
     <weight>1.620</weight>
     <sku>71316</sku>
-    <quantity>275</quantity>
+    <quantity>252</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1918/kantar-elite-bs-1316-image_5f466c341ec4d_1920x1920.jpeg?1598450936</image>
       <image></image>
@@ -17447,7 +17447,7 @@
     <original_price>63.00</original_price>
     <weight>1.250</weight>
     <sku>71541</sku>
-    <quantity>917</quantity>
+    <quantity>909</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1920/el--smesitelna-bateria-elite-ehd-3002d-image_5f466f20be42a_1920x1920.jpeg?1598452049</image>
       <image></image>
@@ -17477,7 +17477,7 @@
     <original_price>64.00</original_price>
     <weight>1.250</weight>
     <sku>71554</sku>
-    <quantity>516</quantity>
+    <quantity>310</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1921/el--smesitelna-bateria-elite-ehd-3003s-image_5f466ff68e1d7_1920x1920.jpeg?1598452075</image>
       <image></image>
@@ -17507,7 +17507,7 @@
     <original_price>59.00</original_price>
     <weight>1.250</weight>
     <sku>71556</sku>
-    <quantity>261</quantity>
+    <quantity>231</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1922/el--smesitelna-bateria-elite-ehw-1556s-image_5f4670f2afd57_1920x1920.jpeg?1598452092</image>
       <image></image>
@@ -17567,7 +17567,7 @@
     <original_price>66.00</original_price>
     <weight>1.250</weight>
     <sku>72530</sku>
-    <quantity>616</quantity>
+    <quantity>557</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/1924/el--smesitelna-bateria-elite-ehd-2530-image_5f467600a7fff_1920x1920.jpeg?1598453269</image>
       <image></image>
@@ -17597,7 +17597,7 @@
     <original_price>115.00</original_price>
     <weight>5.450</weight>
     <sku>71404</sku>
-    <quantity>154</quantity>
+    <quantity>148</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2096/konvektorwi-fi-elite-ch-1404-image_5faea4c6b8ce6_1920x1920.png?1605281685</image>
       <image>https://cdncloudcart.com/16281/products/images/2096/konvektorwi-fi-elite-ch-1404-image_5faea52351750_1920x1920.jpeg?1605281706</image>
@@ -17627,7 +17627,7 @@
     <original_price>170.00</original_price>
     <weight>8.400</weight>
     <sku>71401</sku>
-    <quantity>121</quantity>
+    <quantity>120</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2097/gazova-pecka-za-otoplenie-elite-egh-1401-image_5faea84e7add3_1920x1920.jpeg?1605281976</image>
       <image></image>
@@ -17717,7 +17717,7 @@
     <original_price>156.00</original_price>
     <weight>4.900</weight>
     <sku>71195</sku>
-    <quantity>140</quantity>
+    <quantity>132</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2100/kafemasina-elite-cm-1195-image_5faead0404075_1920x1920.jpeg?1605283094</image>
       <image>https://cdncloudcart.com/16281/products/images/2100/kafemasina-elite-cm-1195-image_5faead2d19b42_1920x1920.jpeg?1605283135</image>
@@ -17747,7 +17747,7 @@
     <original_price>131.00</original_price>
     <weight>4.750</weight>
     <sku>71194</sku>
-    <quantity>358</quantity>
+    <quantity>350</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2101/kafemasina-elite-cm-1194-image_5faeb65f62125_1920x1920.jpeg?1605285490</image>
       <image></image>
@@ -17777,7 +17777,7 @@
     <original_price>66.00</original_price>
     <weight>3.300</weight>
     <sku>70486</sku>
-    <quantity>1842</quantity>
+    <quantity>1829</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2102/prahosmukacka-za-pepel-15l-elite-mvc-0486-image_5faeb865da6a5_1920x1920.jpeg?1605286009</image>
       <image></image>
@@ -17807,7 +17807,7 @@
     <original_price>70.00</original_price>
     <weight>3.300</weight>
     <sku>70487</sku>
-    <quantity>1157</quantity>
+    <quantity>1148</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2103/prahosmukacka-za-pepel-15l-elite-mvc-0486-copy-image_5faeb8ee4a90b_1920x1920.jpeg?1605286146</image>
       <image></image>
@@ -17837,7 +17837,7 @@
     <original_price>21.00</original_price>
     <weight>0.400</weight>
     <sku>70463</sku>
-    <quantity>2146</quantity>
+    <quantity>2131</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2104/presa-za-kosa-3-v-1-elite-hs-0463-image_5faec1688e131_1920x1920.jpeg?1605288317</image>
       <image></image>
@@ -17867,7 +17867,7 @@
     <original_price>26.00</original_price>
     <weight>0.300</weight>
     <sku>71311</sku>
-    <quantity>842</quantity>
+    <quantity>765</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2105/masinka-za-podstrigvane-elite-hc-1311-image_5faec305ec2a9_1920x1920.jpeg?1605288728</image>
       <image></image>
@@ -17897,7 +17897,7 @@
     <original_price>36.00</original_price>
     <weight>0.400</weight>
     <sku>71309</sku>
-    <quantity>851</quantity>
+    <quantity>847</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2106/masinka-za-brasnene-elite-rms-1309-image_5faec6a17c91e_1920x1920.jpeg?1605289652</image>
       <image></image>
@@ -17927,7 +17927,7 @@
     <original_price>127.00</original_price>
     <weight>4.400</weight>
     <sku>72535</sku>
-    <quantity>275</quantity>
+    <quantity>262</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2107/dispenser-za-voda-elektronen-elite-wde-2535-image_5faecc3cce04c_1920x1920.jpeg?1605291088</image>
       <image></image>
@@ -17957,7 +17957,7 @@
     <original_price>80.00</original_price>
     <weight>3.000</weight>
     <sku>72536</sku>
-    <quantity>688</quantity>
+    <quantity>673</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2108/dispenser-za-voda-elektronen-elite-wde-2535-copy-image_5faeccfe55acb_1920x1920.jpeg?1605291343</image>
       <image></image>
@@ -17987,7 +17987,7 @@
     <original_price>85.00</original_price>
     <weight>3.500</weight>
     <sku>72537</sku>
-    <quantity>294</quantity>
+    <quantity>293</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2109/dispenser-za-voda-elektronen-elite-wde-2536-copy-image_5faece670a74e_1920x1920.jpeg?1605291933</image>
       <image></image>
@@ -18017,7 +18017,7 @@
     <original_price>74.00</original_price>
     <weight>1.800</weight>
     <sku>72538</sku>
-    <quantity>433</quantity>
+    <quantity>431</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2110/el--smesitelna-bateria-elite-ehd-2538-image_5faed021d3707_1920x1920.jpeg?1605292459</image>
       <image>https://cdncloudcart.com/16281/products/images/2110/el--smesitelna-bateria-elite-ehd-2538-image_5faed0382d627_1920x1920.jpeg?1605292525</image>
@@ -18077,7 +18077,7 @@
     <original_price>387.00</original_price>
     <weight>57.000</weight>
     <sku>71558</sku>
-    <quantity>24</quantity>
+    <quantity>20</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2112/peralna-elite-wm-80567w-image_5faed47d9e783_1920x1920.png?1605293235</image>
       <image></image>
@@ -18137,7 +18137,7 @@
     <original_price>46.00</original_price>
     <weight>2.280</weight>
     <sku>71164</sku>
-    <quantity>571</quantity>
+    <quantity>564</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2114/ured-za-sandvici-elite-esm-1164-image_5faed81a0281e_1920x1920.jpeg?1605294897</image>
       <image></image>
@@ -18167,7 +18167,7 @@
     <original_price>28.00</original_price>
     <weight>1.760</weight>
     <sku>008015-1-BA</sku>
-    <quantity>82</quantity>
+    <quantity>80</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2115/kantar-first-fa-8015-1-ba-image_5faede78f090c_800x800.jpeg?1605295754</image>
       <image></image>
@@ -18197,7 +18197,7 @@
     <original_price>127.00</original_price>
     <weight>4.110</weight>
     <sku>005141-3</sku>
-    <quantity>95</quantity>
+    <quantity>91</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2116/mesomelacka-first-fa-5141-3-image_5fb3c26120ceb_1280x1280.jpeg?1605616242</image>
       <image>https://cdncloudcart.com/16281/products/images/2116/mesomelacka-first-fa-5141-3-image_5fb3c270d617b_1280x1280.jpeg?1605616258</image>
@@ -18257,7 +18257,7 @@
     <original_price>84.00</original_price>
     <weight>4.400</weight>
     <sku>005541-1</sku>
-    <quantity>652</quantity>
+    <quantity>646</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2118/prahosmukacka-first-fa-5541-1-image_5fb3c7aff1b5c_1280x1280.jpeg?1605617604</image>
       <image></image>
@@ -18287,7 +18287,7 @@
     <original_price>117.00</original_price>
     <weight>6.000</weight>
     <sku>005541-2</sku>
-    <quantity>335</quantity>
+    <quantity>315</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2119/prahosmukacka-first-fa-5541-1-copy-image_5fb3c923941cd_1280x1280.jpeg?1605617974</image>
       <image></image>
@@ -18317,7 +18317,7 @@
     <original_price>99.00</original_price>
     <weight>4.760</weight>
     <sku>005547-3</sku>
-    <quantity>628</quantity>
+    <quantity>606</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2120/prahosmukacka-first-fa-5541-2-copy-image_5fb3cc80a79d9_1280x1280.jpeg?1605619076</image>
       <image>https://cdncloudcart.com/16281/products/images/2120/prahosmukacka-first-fa-5541-2-copy-image_5fb3cc9888049_1280x1280.jpeg?1605619078</image>
@@ -18347,7 +18347,7 @@
     <original_price>28.00</original_price>
     <weight>1.100</weight>
     <sku>005453-4</sku>
-    <quantity>35</quantity>
+    <quantity>26</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2121/kafemasina-2-casi-first-fa-5453-4-image_5fb4df74d98dc_1280x1280.jpeg?1605690025</image>
       <image></image>
@@ -18377,7 +18377,7 @@
     <original_price>164.00</original_price>
     <weight>4.700</weight>
     <sku>005476-1</sku>
-    <quantity>77</quantity>
+    <quantity>76</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2122/kafemasina-15-bara-first-fa-5476-1-image_5fb4e2b0496e9_1280x1280.jpeg?1605690842</image>
       <image>https://cdncloudcart.com/16281/products/images/2122/kafemasina-15-bara-first-fa-5476-1-image_5fb4e2ca870ba_1280x1280.jpeg?1605690845</image>
@@ -18407,7 +18407,7 @@
     <original_price>39.00</original_price>
     <weight>1.730</weight>
     <sku>005300-1</sku>
-    <quantity>34</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2123/ured-za-vafli-first-fa-5300-1-image_5fb4e57763ab7_1920x1920.jpeg?1605690949</image>
       <image>https://cdncloudcart.com/16281/products/images/2123/ured-za-vafli-first-fa-5300-1-image_5fb4e58fdd97f_1920x1920.jpeg?1605690953</image>
@@ -18437,7 +18437,7 @@
     <original_price>47.00</original_price>
     <weight>1.900</weight>
     <sku>005304</sku>
-    <quantity>78</quantity>
+    <quantity>77</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2124/ured-za-vafli-first-fa-5304-image_5fb4e8a85660d_1280x1280.jpeg?1605691578</image>
       <image>https://cdncloudcart.com/16281/products/images/2124/ured-za-vafli-first-fa-5304-image_5fb4e8c0bbeae_1280x1280.jpeg?1605691605</image>
@@ -18497,7 +18497,7 @@
     <original_price>39.00</original_price>
     <weight>1.260</weight>
     <sku>005618-8</sku>
-    <quantity>27</quantity>
+    <quantity>24</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2126/utia-first-fa-5618-8-image_5fb53704c7111_1920x1920.jpeg?1605711638</image>
       <image>https://cdncloudcart.com/16281/products/images/2126/utia-first-fa-5618-8-image_5fb53718e7262_1280x1280.jpeg?1605711660</image>
@@ -18557,7 +18557,7 @@
     <original_price>12.00</original_price>
     <weight>0.340</weight>
     <sku>005672-2</sku>
-    <quantity>166</quantity>
+    <quantity>162</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2128/masa-19-mm-first-fa-5672-2-image_5fb53c15662a3_1280x1280.jpeg?1605712937</image>
       <image></image>
@@ -18587,7 +18587,7 @@
     <original_price>47.00</original_price>
     <weight>1.080</weight>
     <sku>005654-6-BA</sku>
-    <quantity>60</quantity>
+    <quantity>57</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2129/sesoar-first-fa-5654-6-ba-image_5fb53f2fa5f49_800x800.jpeg?1605713731</image>
       <image>https://cdncloudcart.com/16281/products/images/2129/sesoar-first-fa-5654-6-ba-image_5fb53f3a34c8a_800x800.jpeg?1605713740</image>
@@ -18617,7 +18617,7 @@
     <original_price>47.00</original_price>
     <weight>1.080</weight>
     <sku>005654-6-RE</sku>
-    <quantity>74</quantity>
+    <quantity>72</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2130/sesoar-first-fa-5654-6-ba-copy-image_5fb541946c0ef_600x600.jpeg?1605714342</image>
       <image></image>
@@ -18677,7 +18677,7 @@
     <original_price>84.00</original_price>
     <weight>1.140</weight>
     <sku>005440</sku>
-    <quantity>26</quantity>
+    <quantity>143</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2132/penoobrazuvatel-za-mlako-450w-first-fa-5440-image_5fb54844ca7ae_600x600.jpeg?1605716055</image>
       <image></image>
@@ -18707,7 +18707,7 @@
     <original_price>37.00</original_price>
     <weight>1.600</weight>
     <sku>005618-6</sku>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2133/utia-first-fa-5618-6-image_5fb54c60e85e2_1920x1920.jpeg?1605717109</image>
       <image>https://cdncloudcart.com/16281/products/images/2133/utia-first-fa-5618-6-image_5fb54c7222996_1920x1920.jpeg?1605717125</image>
@@ -18797,7 +18797,7 @@
     <original_price>39.00</original_price>
     <weight>0.780</weight>
     <sku>005425-4</sku>
-    <quantity>35</quantity>
+    <quantity>33</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2136/turisticeska-el--kana-first-fa-5425-4-image_5fb5530b08485_1280x1280.jpeg?1605718812</image>
       <image>https://cdncloudcart.com/16281/products/images/2136/turisticeska-el--kana-first-fa-5425-4-image_5fb553237b40c_1280x1280.jpeg?1605718839</image>
@@ -18827,7 +18827,7 @@
     <original_price>25.00</original_price>
     <weight>0.900</weight>
     <sku>FASP-5130-INP</sku>
-    <quantity>0</quantity>
+    <quantity>1</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2137/metalna-kupa-za-tendzera-pod-nalagane-first-fa-5130-image_5fbbdda9bbaef_1920x1920.jpeg?1606147516</image>
       <image>https://cdncloudcart.com/16281/products/images/2137/metalna-kupa-za-tendzera-pod-nalagane-first-fa-5130-image_5fbbddd066039_1920x1920.jpeg?1606147556</image>
@@ -18917,7 +18917,7 @@
     <original_price>28.00</original_price>
     <weight>0.480</weight>
     <sku>005676-5</sku>
-    <quantity>9</quantity>
+    <quantity>0</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2140/masinka-za-podstrigvane-first-fa-5676-5-image_6005a9b70ac8f_1280x1280.jpeg?1610983881</image>
       <image></image>
@@ -18977,7 +18977,7 @@
     <original_price>33.00</original_price>
     <weight>2.230</weight>
     <sku>70287</sku>
-    <quantity>591</quantity>
+    <quantity>317</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2142/elektriceski-gril-elite-eg-0287-image_600a8cba7092c_1920x1920.jpeg?1611306602</image>
       <image></image>
@@ -19007,7 +19007,7 @@
     <original_price>44.00</original_price>
     <weight>2.300</weight>
     <sku>71120</sku>
-    <quantity>1391</quantity>
+    <quantity>1384</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2143/ured-za-sandvici-elite-esm-1120-image_600a9038be456_800x800.png?1611306746</image>
       <image></image>
@@ -19037,7 +19037,7 @@
     <original_price>28.00</original_price>
     <weight>1.550</weight>
     <sku>71151</sku>
-    <quantity>785</quantity>
+    <quantity>749</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2144/ured-za-sandvici-elite-esm-1151rb-image_600a91b27e34a_1920x1920.jpeg?1611306779</image>
       <image></image>
@@ -19067,7 +19067,7 @@
     <original_price>10.00</original_price>
     <weight>0.200</weight>
     <sku>70488</sku>
-    <quantity>4322</quantity>
+    <quantity>4315</quantity>
     <images>
       <image></image>
       <image></image>
@@ -19097,7 +19097,7 @@
     <original_price>99.00</original_price>
     <weight>4.600</weight>
     <sku>005116-2</sku>
-    <quantity>131</quantity>
+    <quantity>271</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2146/kuhnenski-robot-first-fa-5116-2-image_600a969e0af43_1280x1280.jpeg?1611307028</image>
       <image></image>
@@ -19127,7 +19127,7 @@
     <original_price>68.00</original_price>
     <weight>3.200</weight>
     <sku>005100</sku>
-    <quantity>111</quantity>
+    <quantity>110</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2147/ured-za-gotvene-na-para-fa-5100-image_600a9a3185b36_1280x1280.jpeg?1611307591</image>
       <image></image>
@@ -19157,7 +19157,7 @@
     <original_price>33.00</original_price>
     <weight>2.200</weight>
     <sku>005082-4</sku>
-    <quantity>106</quantity>
+    <quantity>87</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2148/edinicen-el--kotlon-first-fa-5082-4-image_600a9fbf8a492_1280x1280.jpeg?1611309011</image>
       <image>https://cdncloudcart.com/16281/products/images/2148/edinicen-el--kotlon-first-fa-5082-4-image_600aa03d6291d_1280x1280.jpeg?1611309135</image>
@@ -19187,7 +19187,7 @@
     <original_price>47.00</original_price>
     <weight>1.950</weight>
     <sku>005246-4</sku>
-    <quantity>23</quantity>
+    <quantity>5</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2150/vertikalen-blender-first-fa-5246-4-image_600aa600911fc_1280x1280.jpeg?1611310611</image>
       <image>https://cdncloudcart.com/16281/products/images/2150/vertikalen-blender-first-fa-5246-4-image_600aa61add0b7_1280x1280.jpeg?1611310638</image>
@@ -19217,7 +19217,7 @@
     <original_price>158.00</original_price>
     <weight>12.250</weight>
     <sku>72542</sku>
-    <quantity>140</quantity>
+    <quantity>136</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2151/elektriceska-mini-furna45l-elite-emo-2542-image_600aa725f1cb9_1920x1920.jpeg?1611310904</image>
       <image></image>
@@ -19247,7 +19247,7 @@
     <original_price>30.00</original_price>
     <weight>2.300</weight>
     <sku>70286</sku>
-    <quantity>519</quantity>
+    <quantity>465</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2152/elektriceski-kotlon-elite-1-ploca-ehp-0286x-image_600ad68a26c7b_1920x1920.jpeg?1611323041</image>
       <image></image>
@@ -19277,7 +19277,7 @@
     <original_price>29.00</original_price>
     <weight>0.650</weight>
     <sku>70326</sku>
-    <quantity>1274</quantity>
+    <quantity>1182</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2153/masinka-za-podstrigvane-elite-rc-998-image_600ad88d3cf29_1920x1920.jpeg?1611323553</image>
       <image></image>
@@ -19307,7 +19307,7 @@
     <original_price></original_price>
     <weight>22.000</weight>
     <sku>71652</sku>
-    <quantity>307</quantity>
+    <quantity>291</quantity>
     <images>
       <image>https://cdncloudcart.com/16281/products/images/2154/prenosima-karaoke-tonkolona-elite-ka-15-image_600fdcd26199c_1920x1920.jpeg?1611652335</image>
       <image></image>
@@ -19319,5 +19319,425 @@
     </images>
     <meta_title>ПРЕНОСИМА КАРАОКЕ ТОНКОЛОНА ELITE KA-15</meta_title>
     <meta_description>ПРЕНОСИМА КАРАОКЕ ТОНКОЛОНА ELITE KA-15 Вградена Bluetooth функция Вграден USB / TF функция 15 инчов говорител Караоке функция LED светлина Съвместим с мо</meta_description>
+  </product>
+  <product>
+    <id>2155</id>
+    <product_code>79337</product_code>
+    <barcode>9.0039E+12</barcode>
+    <title>ХЕППА ФИЛТЪР ЗА ПРАХОСМУКАЧКА ЗА ПЕПЕЛ</title>
+    <short_description></short_description>
+    <description>&lt;ul&gt;&amp;#10;&lt;li&gt;ХЕППА ФИЛТЪР ЗА ПРАХОСМУКАЧКА ЗА ПЕПЕЛ&lt;/li&gt;&amp;#10;&lt;li&gt;Диаметър на вътрешен отвор: 73 мм&lt;/li&gt;&amp;#10;&lt;li&gt;Височина : 123 мм&lt;/li&gt;&amp;#10;&lt;li&gt;Подходящ за следните модели прахосмукачки за пепел :&lt;/li&gt;&amp;#10;&lt;li&gt;&lt;em&gt;ПРАХ.ЗА ПО-ЕДРИ ОТПАДЪЦИ И КАМИНИ 15л ELITE MVC-0115&lt;/em&gt;&lt;/li&gt;&amp;#10;&lt;li&gt;&lt;em&gt;ПРАХ.ЗА ПО-ЕДРИ ОТПАДЪЦИ И КАМИНИ 15л ELITE MVC-5115&lt;/em&gt;&lt;/li&gt;&amp;#10;&lt;li&gt;&lt;em&gt;ПРАХ.ЗА ПО-ЕДРИ ОТПАДЪЦИ И КАМИНИ 18л ELITE MVC-5407&lt;/em&gt;&lt;/li&gt;&amp;#10;&lt;li&gt;&lt;em&gt;ПРАХ.ЗА ПО-ЕДРИ ОТПАДЪЦИ И КАМИНИ 18л ELITE MVC-0407&lt;/em&gt;&lt;em&gt;&lt;/em&gt;&lt;/li&gt;&amp;#10;&lt;/ul&gt;&amp;#10;&lt;p&gt;&lt;em&gt;&lt;/em&gt;&lt;/p&gt;&amp;#10;&lt;ul&gt;&amp;#10;&lt;li&gt;&lt;em&gt;&lt;/em&gt;&lt;em&gt;&lt;/em&gt;&lt;em&gt;Методи за почистване на продукта:&lt;/em&gt;&lt;/li&gt;&amp;#10;&lt;li&gt;&lt;em&gt;- Ръчно чрез изтупване&lt;/em&gt;&lt;em&gt;-&lt;/em&gt;&lt;em&gt; Почистване на филтъра&amp;nbsp; с прахосмукачка&lt;/em&gt;&lt;em&gt;- Обдухване с компресор&lt;/em&gt;&lt;/li&gt;&amp;#10;&lt;/ul&gt;&amp;#10;&lt;p&gt;&lt;em&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Не е препоръчителни измиването му под течаща вода.&lt;/em&gt;&lt;/p&gt;&amp;#10;&lt;p&gt;&lt;em&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Продукта е консуматив и не подлежи на гаранционно обслужване.&lt;/em&gt;&lt;/p&gt;&amp;#10;&lt;p&gt;&lt;em&gt;&lt;/em&gt;&lt;/p&gt;&amp;#10;&lt;p&gt;&lt;/p&gt;</description>
+    <minimum>1</minimum>
+    <category>МАЛКИ ЕЛЕКТРОУРЕДИ</category>
+    <sub_category>ПОЧИСТВАЩА ТЕХНИКА</sub_category>
+    <sub_sub_category>ФИЛТРИ И АКСЕСОАРИ ЗА ПРАХОСМУКАЧКИ</sub_sub_category>
+    <tabs/>
+    <manufacturer>ELITE</manufacturer>
+    <price>11.00</price>
+    <original_price>11.00</original_price>
+    <weight>0.200</weight>
+    <sku>79337</sku>
+    <quantity>4435</quantity>
+    <images>
+      <image>https://cdncloudcart.com/16281/products/images/2155/heppa-filtar-za-prahosmukacka-za-pepel-image_601bf7e54f1c9_1920x1920.jpeg?1612445693</image>
+      <image>https://cdncloudcart.com/16281/products/images/2155/heppa-filtar-za-prahosmukacka-za-pepel-image_601bf80082748_1920x1920.jpeg?1612445719</image>
+      <image>https://cdncloudcart.com/16281/products/images/2155/heppa-filtar-za-prahosmukacka-za-pepel-image_601bf817c0183_1920x1920.jpeg?1612445740</image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+    </images>
+    <meta_title>ХЕППА ФИЛТЪР ЗА ПРАХОСМУКАЧКА ЗА ПЕПЕЛ</meta_title>
+    <meta_description>ХЕППА ФИЛТЪР ЗА ПРАХОСМУКАЧКА ЗА ПЕПЕЛ Диаметър на вътрешен отвор: 73 мм Височина : 123 мм Подходящ за следните модели прахосмукачки за пепел :</meta_description>
+  </product>
+  <product>
+    <id>2156</id>
+    <product_code>71197</product_code>
+    <barcode>9.0039E+12</barcode>
+    <title>ТОСТЕР ELITE TTR-1197</title>
+    <short_description></short_description>
+    <description>&lt;ul&gt;&amp;#10;&lt;li&gt;Тостер за&amp;nbsp; 2 филийки&lt;/li&gt;&amp;#10;&lt;li&gt;Мощност: 700W&lt;/li&gt;&amp;#10;&lt;li&gt;Напрежение: 220-240 V / 50-60 Hz /&lt;/li&gt;&amp;#10;&lt;li&gt;Функция за отмяна&lt;/li&gt;&amp;#10;&lt;li&gt;7 степени за регулиране на препичането&lt;/li&gt;&amp;#10;&lt;li&gt;С тавичка за трохи&lt;/li&gt;&amp;#10;&lt;li&gt;Място за съхранение на кабела&lt;/li&gt;&amp;#10;&lt;li&gt;С незагряващи повърхности&lt;/li&gt;&amp;#10;&lt;/ul&gt;</description>
+    <minimum>1</minimum>
+    <category>МАЛКИ ЕЛЕКТРОУРЕДИ</category>
+    <sub_category>ЗА КУХНЯТА</sub_category>
+    <sub_sub_category>ТОСТЕРИ</sub_sub_category>
+    <tabs/>
+    <manufacturer>ELITE</manufacturer>
+    <price>27.00</price>
+    <original_price>27.00</original_price>
+    <weight>1.150</weight>
+    <sku>71197</sku>
+    <quantity>1151</quantity>
+    <images>
+      <image>https://cdncloudcart.com/16281/products/images/2156/toster-elite-ttr-1197-image_601cf4daca288_1920x1920.jpeg?1612510447</image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+    </images>
+    <meta_title>ТОСТЕР ELITE TTR-1197</meta_title>
+    <meta_description>Тостер - 2 филийки Мощност: 700W Напрежение: 220-240 V / 50-60 Hz / Функция за отмяна 6 степени за регулиране на препичането С тавичка за трохи Място за</meta_description>
+  </product>
+  <product>
+    <id>2157</id>
+    <product_code>71196</product_code>
+    <barcode>9.0039E+12</barcode>
+    <title>ТОСТЕР ELITE TTW-1196</title>
+    <short_description></short_description>
+    <description>&lt;ul&gt;&amp;#10;&lt;li&gt;Тостер - 2 филийки&lt;/li&gt;&amp;#10;&lt;li&gt;Напрежение: 220-240 V / 50-60 Hz /&lt;/li&gt;&amp;#10;&lt;li&gt;Мощност: 700 W&lt;/li&gt;&amp;#10;&lt;li&gt;Функция за отмяна&lt;/li&gt;&amp;#10;&lt;li&gt;7 степени за регулиране на препичането&lt;/li&gt;&amp;#10;&lt;li&gt;С тавичка за трохи&lt;/li&gt;&amp;#10;&lt;li&gt;Място за съхранение на кабела&lt;/li&gt;&amp;#10;&lt;li&gt;С незагряващи повърхности&lt;/li&gt;&amp;#10;&lt;/ul&gt;</description>
+    <minimum>1</minimum>
+    <category>МАЛКИ ЕЛЕКТРОУРЕДИ</category>
+    <sub_category>ЗА КУХНЯТА</sub_category>
+    <sub_sub_category>ТОСТЕРИ</sub_sub_category>
+    <tabs/>
+    <manufacturer>ELITE</manufacturer>
+    <price>26.00</price>
+    <original_price>26.00</original_price>
+    <weight>1.150</weight>
+    <sku>71196</sku>
+    <quantity>1208</quantity>
+    <images>
+      <image>https://cdncloudcart.com/16281/products/images/2157/toster-elite-ttw-1196-image_601cf632e502b_1920x1920.jpeg?1612510791</image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+    </images>
+    <meta_title>ТОСТЕР ELITE TTW-1196</meta_title>
+    <meta_description>Тостер - 2 филийки Напрежение: 220-240 V / 50-60 Hz / Мощност: 700 W Функция за отмяна 7 степени за регулиране на препичането С тавичка за трохи Място за</meta_description>
+  </product>
+  <product>
+    <id>2158</id>
+    <product_code>70585</product_code>
+    <barcode>9.0039E+12</barcode>
+    <title>ХЛАДИЛНИК ELITE BCC-9100G</title>
+    <short_description></short_description>
+    <description>&lt;ul&gt;&amp;#10;&lt;li&gt;Енергиен клас - А+&lt;/li&gt;&amp;#10;&lt;li&gt;Механичен контрол на температурата&lt;/li&gt;&amp;#10;&lt;li&gt;Възможност за обръщане на вратата &lt;/li&gt;&amp;#10;&lt;li&gt;Хладилен агент - R600A - HFC Free C-pantene уплътнение - FCKW Free&lt;/li&gt;&amp;#10;&lt;li&gt;Общ капацитет - 100л&lt;/li&gt;&amp;#10;&lt;li&gt;Със ключалка&lt;/li&gt;&amp;#10;&lt;li&gt;Климaтичен пояс -&quot;SN/N/ST/T&quot;&lt;/li&gt;&amp;#10;&lt;li&gt;Рамери(Ш*Д*В) - 51.0*46.5*84.5см &lt;/li&gt;&amp;#10;&lt;li&gt;Тегло бруто - 25 кг&lt;/li&gt;&amp;#10;&lt;li&gt;Нето тегло - 23 кг&lt;/li&gt;&amp;#10;&lt;li&gt;AC 230V/ 50 Hz&lt;/li&gt;&amp;#10;&lt;/ul&gt;</description>
+    <minimum>1</minimum>
+    <category>ГОЛЕМИ ЕЛЕКТРОУРЕДИ</category>
+    <sub_category>ХЛАДИЛНА ТЕХНИКА</sub_category>
+    <sub_sub_category>ХЛАДИЛНИЦИ</sub_sub_category>
+    <tabs/>
+    <manufacturer>ELITE</manufacturer>
+    <price>284.00</price>
+    <original_price>284.00</original_price>
+    <weight>25.000</weight>
+    <sku>70585</sku>
+    <quantity>299</quantity>
+    <images>
+      <image>https://cdncloudcart.com/16281/products/images/2158/hladilnik-elite-bcc-9100g-image_601cf96b04838_1920x1920.png?1612511643</image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+    </images>
+    <meta_title>ХЛАДИЛНИК ELITE BCC-9100G</meta_title>
+    <meta_description>Енергиен клас - А+ Механичен контрол на температурата Възможност за обръщане на вратата Хладилен агент - R600A - HFC Free C-pantene уплътнение - FCKW Fre</meta_description>
+  </product>
+  <product>
+    <id>2159</id>
+    <product_code>005305-3</product_code>
+    <barcode>9.0039E+12</barcode>
+    <title>УРЕД ЗА ВАФЛИ/ ДВОЕН FIRST FA-5305-3</title>
+    <short_description></short_description>
+    <description>&lt;ul&gt;&amp;#10;&lt;li&gt;ДВОЕН УРЕД ЗА ВАФЛИ FA-5305-3&lt;/li&gt;&amp;#10;&lt;li&gt;Приготвяне на 4 гофрети под формата на вафла&lt;/li&gt;&amp;#10;&lt;li&gt;Светлинен индикатор за захранване&lt;/li&gt;&amp;#10;&lt;li&gt;Светлинен индикатор за температурата&lt;/li&gt;&amp;#10;&lt;li&gt;Термостат&lt;/li&gt;&amp;#10;&lt;li&gt;Незалепващо покритие&lt;/li&gt;&amp;#10;&lt;li&gt;Мощност: 1100 W&lt;/li&gt;&amp;#10;&lt;li&gt;230V/ 50 Hz&lt;/li&gt;&amp;#10;&lt;/ul&gt;</description>
+    <minimum>1</minimum>
+    <category>МАЛКИ ЕЛЕКТРОУРЕДИ</category>
+    <sub_category>ЗА КУХНЯТА</sub_category>
+    <sub_sub_category>УРЕД ЗА ВАФЛИ</sub_sub_category>
+    <tabs/>
+    <manufacturer>FIRST</manufacturer>
+    <price>70.00</price>
+    <original_price>70.00</original_price>
+    <weight>2.750</weight>
+    <sku>005305-3</sku>
+    <quantity>24</quantity>
+    <images>
+      <image>https://cdncloudcart.com/16281/products/images/2159/ured-za-vafli-dvoen-first-fa-5305-3-image_602282e401d5e_1920x1920.jpeg?1612874491</image>
+      <image>https://cdncloudcart.com/16281/products/images/2159/ured-za-vafli-dvoen-first-fa-5305-3-image_6022831d96e6d_1920x1920.jpeg?1612874547</image>
+      <image>https://cdncloudcart.com/16281/products/images/2159/ured-za-vafli-dvoen-first-fa-5305-3-image_6022834a32924_1920x1920.jpeg?1612874600</image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+    </images>
+    <meta_title>УРЕД ЗА ВАФЛИ/ ДВОЕН FIRST FA-5305-3</meta_title>
+    <meta_description>ДВОЕН УРЕД ЗА ВАФЛИ FA-5305-3 Приготвяне на 4 гофрети под формата на вафла Светлинен индикатор за захранване Светлинен индикатор за температурата Термоста</meta_description>
+  </product>
+  <product>
+    <id>2160</id>
+    <product_code>005464-4</product_code>
+    <barcode>9.0039E+12</barcode>
+    <title>КАФЕМАШИНА/5 ЧАШИ FIRST FA-5464-4</title>
+    <short_description></short_description>
+    <description>&lt;ul&gt;&amp;#10;&lt;li&gt;5 чаши / 0,6 л стъклен кана&lt;/li&gt;&amp;#10;&lt;li&gt;Постоянен найлонов филтър, разглобяем&amp;nbsp;&lt;/li&gt;&amp;#10;&lt;li&gt;0,6 л резервоар за вода&amp;nbsp;&lt;/li&gt;&amp;#10;&lt;li&gt;Мерителна лъжица&lt;/li&gt;&amp;#10;&lt;li&gt;Подгряваща плоча&amp;nbsp;&lt;/li&gt;&amp;#10;&lt;li&gt;Автоматично изключване&amp;nbsp;&lt;/li&gt;&amp;#10;&lt;/ul&gt;</description>
+    <minimum>1</minimum>
+    <category>МАЛКИ ЕЛЕКТРОУРЕДИ</category>
+    <sub_category>ПРИГОТВЯНЕ НА КАФЕ</sub_category>
+    <sub_sub_category>КАФЕМАШИНИ</sub_sub_category>
+    <tabs/>
+    <manufacturer>FIRST</manufacturer>
+    <price>39.00</price>
+    <original_price>39.00</original_price>
+    <weight>1.420</weight>
+    <sku>005464-4</sku>
+    <quantity>76</quantity>
+    <images>
+      <image>https://cdncloudcart.com/16281/products/images/2160/kafemasina5-casi-first-fa-5464-4-image_6022914653afc_1280x1280.jpeg?1612878169</image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+    </images>
+    <meta_title>КАФЕМАШИНА/5 ЧАШИ FIRST FA-5464-4</meta_title>
+    <meta_description>5 чаши / 0,6 л стъклен кана Постоянен найлонов филтър, разглобяем  0,6 л резервоар за вода  Мерителна лъжица Подгряваща плоча  Автоматично изключване</meta_description>
+  </product>
+  <product>
+    <id>2161</id>
+    <product_code>005651-1-BA</product_code>
+    <barcode>9.0039E+12</barcode>
+    <title>СЕШОАР-МАША 5 В 1 FIRST FA-5651-1-BA</title>
+    <short_description></short_description>
+    <description>&lt;ul&gt;&amp;#10;&lt;li&gt;СЕШОАР-МАША 5 В 1 FIRST FA-5651-1-BA&lt;/li&gt;&amp;#10;&lt;li&gt;2 степени на мощност и температура&lt;/li&gt;&amp;#10;&lt;li&gt;Студен въздух&lt;/li&gt;&amp;#10;&lt;li&gt;Защита от прегряване&lt;/li&gt;&amp;#10;&lt;li&gt;Допълнителни аксесоари &amp;ndash; 2 нормални четки, маша с топъл въздух, дифузер, концентратор&lt;/li&gt;&amp;#10;&lt;li&gt;Мощност &amp;ndash; 550 W&lt;/li&gt;&amp;#10;&lt;li&gt;230V/ 50 Hz&lt;/li&gt;&amp;#10;&lt;/ul&gt;</description>
+    <minimum>1</minimum>
+    <category>ПЕРСОНАЛНА ГРИЖА</category>
+    <sub_category>МАШИ</sub_category>
+    <sub_sub_category></sub_sub_category>
+    <tabs/>
+    <manufacturer>FIRST</manufacturer>
+    <price>28.00</price>
+    <original_price>28.00</original_price>
+    <weight>0.630</weight>
+    <sku>005651-1-BA</sku>
+    <quantity>139</quantity>
+    <images>
+      <image>https://cdncloudcart.com/16281/products/images/2161/sesoar-masa-5-v-1-first-fa-5651-1-ba-image_60228c7a97f54_1280x1280.jpeg?1612876943</image>
+      <image>https://cdncloudcart.com/16281/products/images/2161/sesoar-masa-5-v-1-first-fa-5651-1-ba-image_60228c8d89327_1280x1280.jpeg?1612876963</image>
+      <image>https://cdncloudcart.com/16281/products/images/2161/sesoar-masa-5-v-1-first-fa-5651-1-ba-image_60228c9b35143_1280x1280.jpeg?1612876974</image>
+      <image>https://cdncloudcart.com/16281/products/images/2161/sesoar-masa-5-v-1-first-fa-5651-1-ba-image_60228cc569a6a_1280x1280.jpeg?1612877016</image>
+      <image>https://cdncloudcart.com/16281/products/images/2161/sesoar-masa-5-v-1-first-fa-5651-1-ba-image_60228cfc83572_1280x1280.jpeg?1612877071</image>
+      <image>https://cdncloudcart.com/16281/products/images/2161/sesoar-masa-5-v-1-first-fa-5651-1-ba-image_60228d1582b9e_1280x1280.jpeg?1612877096</image>
+      <image></image>
+    </images>
+    <meta_title>СЕШОАР-МАША 5 В 1 FIRST FA-5651-1-BA</meta_title>
+    <meta_description>СЕШОАР-МАША 5 В 1 FIRST FA-5651-1-BA 2 степени на мощност и температура Студен въздух Защита от прегряване Допълнителни аксесоари – 2 нормални четки, маша</meta_description>
+  </product>
+  <product>
+    <id>2162</id>
+    <product_code>005651-1-RE</product_code>
+    <barcode>9.0039E+12</barcode>
+    <title>СЕШОАР-МАША 5 В 1 FIRST FA-5651-1-RE</title>
+    <short_description></short_description>
+    <description>&lt;ul&gt;&amp;#10;&lt;li&gt;2 степени на мощност и температура&lt;/li&gt;&amp;#10;&lt;li&gt;Студен въздух&lt;/li&gt;&amp;#10;&lt;li&gt;Защита от прегряване&lt;/li&gt;&amp;#10;&lt;li&gt;Допълнителни аксесоари &amp;ndash; 2 нормални четки, маша с топъл въздух, дифузер, концентратор&lt;/li&gt;&amp;#10;&lt;li&gt;Мощност &amp;ndash; 550 W&lt;/li&gt;&amp;#10;&lt;/ul&gt;</description>
+    <minimum>1</minimum>
+    <category>ПЕРСОНАЛНА ГРИЖА</category>
+    <sub_category>СЕШОАРИ</sub_category>
+    <sub_sub_category></sub_sub_category>
+    <tabs/>
+    <manufacturer>FIRST</manufacturer>
+    <price>28.00</price>
+    <original_price>28.00</original_price>
+    <weight>0.630</weight>
+    <sku>005651-1-RE</sku>
+    <quantity>64</quantity>
+    <images>
+      <image>https://cdncloudcart.com/16281/products/images/2162/sesoar-masa-5-v-1-first-fa-5651-1-re-image_6022904b420f3_1280x1280.jpeg?1612877920</image>
+      <image>https://cdncloudcart.com/16281/products/images/2162/sesoar-masa-5-v-1-first-fa-5651-1-re-image_602290731cc05_1280x1280.jpeg?1612877958</image>
+      <image>https://cdncloudcart.com/16281/products/images/2162/sesoar-masa-5-v-1-first-fa-5651-1-re-image_602290ad9d750_1280x1280.jpeg?1612878017</image>
+      <image>https://cdncloudcart.com/16281/products/images/2162/sesoar-masa-5-v-1-first-fa-5651-1-re-image_602290c0162e6_1280x1280.jpeg?1612878039</image>
+      <image>https://cdncloudcart.com/16281/products/images/2162/sesoar-masa-5-v-1-first-fa-5651-1-re-image_602290d21315b_1280x1280.jpeg?1612878054</image>
+      <image>https://cdncloudcart.com/16281/products/images/2162/sesoar-masa-5-v-1-first-fa-5651-1-re-image_602290df18264_1280x1280.jpeg?1612878067</image>
+      <image></image>
+    </images>
+    <meta_title>СЕШОАР-МАША 5 В 1 FIRST FA-5651-1-RE</meta_title>
+    <meta_description>2 степени на мощност и температура Студен въздух Защита от прегряване Допълнителни аксесоари – 2 нормални четки, маша с топъл въздух, дифузер, концентрато</meta_description>
+  </product>
+  <product>
+    <id>2163</id>
+    <product_code>005633-4</product_code>
+    <barcode>9.0039E+12</barcode>
+    <title>ЮТИЯ FIRST FA-5633-4</title>
+    <short_description></short_description>
+    <description>&lt;ul&gt;&amp;#10;&lt;li&gt;22,5 х 12 см керамична плоча&lt;/li&gt;&amp;#10;&lt;li&gt;Мощност: 2000-2400W&lt;/li&gt;&amp;#10;&lt;li&gt;Сухо гладене&amp;nbsp;&lt;/li&gt;&amp;#10;&lt;li&gt;Настройка на температурата&amp;nbsp;&lt;/li&gt;&amp;#10;&lt;li&gt;Резервоар за вода от 450 мл&lt;/li&gt;&amp;#10;&lt;li&gt;Аксесоари: чаша за вода&lt;/li&gt;&amp;#10;&lt;li&gt;220-240 V &amp;bull; 50-60 Hz&amp;nbsp;&lt;/li&gt;&amp;#10;&lt;/ul&gt;</description>
+    <minimum>1</minimum>
+    <category>МАЛКИ ЕЛЕКТРОУРЕДИ</category>
+    <sub_category>ГЛАДЕНЕ</sub_category>
+    <sub_sub_category>ЮТИИ</sub_sub_category>
+    <tabs/>
+    <manufacturer>FIRST</manufacturer>
+    <price>50.00</price>
+    <original_price>50.00</original_price>
+    <weight>1.550</weight>
+    <sku>005633-4</sku>
+    <quantity>34</quantity>
+    <images>
+      <image>https://cdncloudcart.com/16281/products/images/2163/utia-first-fa-5633-4-image_60229384dd751_1280x1280.jpeg?1612878748</image>
+      <image>https://cdncloudcart.com/16281/products/images/2163/utia-first-fa-5633-4-image_602293ee2e87b_1920x1920.jpeg?1612878852</image>
+      <image>https://cdncloudcart.com/16281/products/images/2163/utia-first-fa-5633-4-image_602293d913e02_1280x1280.jpeg?1612878852</image>
+      <image>https://cdncloudcart.com/16281/products/images/2163/utia-first-fa-5633-4-image_602293fa9bc4d_1280x1280.jpeg?1612878860</image>
+      <image></image>
+      <image></image>
+      <image></image>
+    </images>
+    <meta_title>ЮТИЯ FIRST FA-5633-4</meta_title>
+    <meta_description>22,5 х 12 см керамична плоча Мощност: 2000-2400W Сухо гладене  Настройка на температурата  Резервоар за вода от 450 мл Аксесоари: чаша за вода 220-240 V</meta_description>
+  </product>
+  <product>
+    <id>2164</id>
+    <product_code>005676-7</product_code>
+    <barcode>9.0039E+12</barcode>
+    <title>МАШИНКА ЗА ПОДСТРИГВАНЕ FIRST FA-5676-7</title>
+    <short_description></short_description>
+    <description>&lt;ul&gt;&amp;#10;&lt;li&gt;Акумулаторна литиева батерия-капацитет 700mAh&amp;nbsp;&lt;/li&gt;&amp;#10;&lt;li&gt;Зареждане на батерията 90мин&lt;/li&gt;&amp;#10;&lt;li&gt;60 мин работа с едно завеждане&amp;nbsp;&lt;/li&gt;&amp;#10;&lt;li&gt;Сменяеми остриета&lt;/li&gt;&amp;#10;&lt;li&gt;Острие от &lt;span class=&quot;VIiyi&quot; jsaction=&quot;mouseup:BR6jm&quot; jsname=&quot;jqKxS&quot; lang=&quot;bg&quot;&gt;&lt;span jsaction=&quot;agoMJf:PFBcW;usxOmf:aWLT7;jhKsnd:P7O7bd,F8DmGf;Q4AGo:Gm7gYd,qAKMYb;uFUCPb:pvnm0e,pfE8Hb,PFBcW;f56efd:dJXsye;EnoYf:KNzws,ZJsZZ,JgVSJc;zdMJQc:cCQNKb,ZJsZZ,zchEXc;Ytrrj:JJDvdc;tNR8yc:GeFvjb;oFN6Ye:hij5Wb&quot; jscontroller=&quot;Zl5N8&quot; jsmodel=&quot;SsMkhd&quot; jsname=&quot;txFAF&quot; class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;bg&quot; data-language-to-translate-into=&quot;en&quot; data-phrase-index=&quot;0&quot; jsdata=&quot;uqLsIf;_;$25&quot;&gt;&lt;span jsaction=&quot;click:qtZ4nf,GFf3ac,tMZCfe; contextmenu:Nqw7Te,QP7LD; mouseout:Nqw7Te; mouseover:qtZ4nf,c2aHje&quot; jsname=&quot;W297wb&quot;&gt;титаниево покритие с неръждаема стомана / керамика&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&amp;#10;&lt;li&gt;Прецизна режеща глава&lt;/li&gt;&amp;#10;&lt;li&gt;Променлива дължина на рязане&lt;/li&gt;&amp;#10;&lt;li&gt;Аксесоари: приставки за подстригване - 4бр (3,6,9,12mm), масло за смазване, гребен за коса, четка за почистване, станция за зареждане&lt;/li&gt;&amp;#10;&lt;li&gt;Размери (см): 18 x 4.5 x 4.5&lt;/li&gt;&amp;#10;&lt;li&gt;Дължина на кабела (см): 190&lt;/li&gt;&amp;#10;&lt;li&gt;Мощност(батерия) - 3W&lt;/li&gt;&amp;#10;&lt;li&gt;Мощност адаптер - 5W&lt;/li&gt;&amp;#10;&lt;/ul&gt;</description>
+    <minimum>1</minimum>
+    <category>ПЕРСОНАЛНА ГРИЖА</category>
+    <sub_category>МАШИНКИ ЗА ПОДСТРИГВАНЕ</sub_category>
+    <sub_sub_category></sub_sub_category>
+    <tabs/>
+    <manufacturer>FIRST</manufacturer>
+    <price>50.00</price>
+    <original_price>50.00</original_price>
+    <weight>0.630</weight>
+    <sku>005676-7</sku>
+    <quantity>52</quantity>
+    <images>
+      <image>https://cdncloudcart.com/16281/products/images/2164/masinka-za-podstrigvane-first-fa-5676-7-image_602297181b5fe_1280x1280.jpeg?1612879659</image>
+      <image>https://cdncloudcart.com/16281/products/images/2164/masinka-za-podstrigvane-first-fa-5676-7-image_602297475e0c1_1280x1280.jpeg?1612879705</image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+    </images>
+    <meta_title>МАШИНКА ЗА ПОДСТРИГВАНЕ FIRST FA-5676-7</meta_title>
+    <meta_description>Акумулаторна батерия-капацитет 700mAh  1 час работа с едно завеждане  Сменяеми остриета Острие от неръждаема стомана Прецизна режеща глава Променлива дълж</meta_description>
+  </product>
+  <product>
+    <id>2165</id>
+    <product_code>005676-8</product_code>
+    <barcode>9.0039E+12</barcode>
+    <title>МАШИНКА ЗА ПОДСТРИГВАНЕ FIRST FA-5676-8</title>
+    <short_description></short_description>
+    <description>&lt;ul&gt;&amp;#10;&lt;li&gt;Акумулаторна литиева батерия; капацитет: 2000 mAh&lt;/li&gt;&amp;#10;&lt;li&gt;Време за зареждане: 150 минути&amp;nbsp;&lt;/li&gt;&amp;#10;&lt;li&gt;Време на работа: 180 минути&amp;nbsp;&lt;/li&gt;&amp;#10;&lt;li&gt;Сменяеми остриета от &lt;span class=&quot;VIiyi&quot; jsaction=&quot;mouseup:BR6jm&quot; jsname=&quot;jqKxS&quot; lang=&quot;bg&quot;&gt;&lt;span jsaction=&quot;agoMJf:PFBcW;usxOmf:aWLT7;jhKsnd:P7O7bd,F8DmGf;Q4AGo:Gm7gYd,qAKMYb;uFUCPb:pvnm0e,pfE8Hb,PFBcW;f56efd:dJXsye;EnoYf:KNzws,ZJsZZ,JgVSJc;zdMJQc:cCQNKb,ZJsZZ,zchEXc;Ytrrj:JJDvdc;tNR8yc:GeFvjb;oFN6Ye:hij5Wb&quot; jscontroller=&quot;Zl5N8&quot; jsmodel=&quot;SsMkhd&quot; jsname=&quot;txFAF&quot; class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;bg&quot; data-language-to-translate-into=&quot;en&quot; data-phrase-index=&quot;0&quot; jsdata=&quot;uqLsIf;_;$37&quot;&gt;&lt;span jsaction=&quot;click:qtZ4nf,GFf3ac,tMZCfe; contextmenu:Nqw7Te,QP7LD; mouseout:Nqw7Te; mouseover:qtZ4nf,c2aHje&quot; jsname=&quot;W297wb&quot;&gt;титаниево покритие от неръждаема стомана / керамика&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&amp;#10;&lt;li&gt;Прецизна режеща глава&lt;/li&gt;&amp;#10;&lt;li&gt;Променлива дължина на рязане&lt;/li&gt;&amp;#10;&lt;li&gt;Аксесоари: приставки за подстригване-4бр (3,6,9,12mm), масло за смазване, гребен за коса, четка за почистване, станция за зареждане,&lt;/li&gt;&amp;#10;&lt;li&gt;Размери (см): 18 x 4.5 x 4.5&lt;/li&gt;&amp;#10;&lt;li&gt;Дължина на кабела (см): 190&lt;/li&gt;&amp;#10;&lt;li&gt;Мощност(батерия) - 3W&lt;/li&gt;&amp;#10;&lt;li&gt;Мощност адаптер - 5W&lt;/li&gt;&amp;#10;&lt;/ul&gt;</description>
+    <minimum>1</minimum>
+    <category>ПЕРСОНАЛНА ГРИЖА</category>
+    <sub_category>МАШИНКИ ЗА ПОДСТРИГВАНЕ</sub_category>
+    <sub_sub_category></sub_sub_category>
+    <tabs/>
+    <manufacturer>FIRST</manufacturer>
+    <price>46.00</price>
+    <original_price>46.00</original_price>
+    <weight>0.650</weight>
+    <sku>005676-8</sku>
+    <quantity>54</quantity>
+    <images>
+      <image>https://cdncloudcart.com/16281/products/images/2165/masinka-za-podstrigvane-first-fa-5676-8-image_6022995db92b7_1280x1280.jpeg?1612880246</image>
+      <image>https://cdncloudcart.com/16281/products/images/2165/masinka-za-podstrigvane-first-fa-5676-8-image_6022997411f55_1280x1280.jpeg?1612880266</image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+    </images>
+    <meta_title>МАШИНКА ЗА ПОДСТРИГВАНЕ FIRST FA-5676-8</meta_title>
+    <meta_description>Акумулаторна батерия; капацитет: 2000 mAh Време за зареждане: 150 минути  Време на работа: 180 минути  1 час работа с едно завеждане  Сменяеми остриета от</meta_description>
+  </product>
+  <product>
+    <id>2166</id>
+    <product_code>005338-7</product_code>
+    <barcode>9.0039E+12</barcode>
+    <title>УРЕД ЗА САНДВИЧИ FIRST FA-5338-7</title>
+    <short_description></short_description>
+    <description>&lt;ul&gt;&amp;#10;&lt;li&gt;Плочи с незалепващо покритие &lt;/li&gt;&amp;#10;&lt;li&gt;Светлинен индикатор&amp;nbsp;&lt;/li&gt;&amp;#10;&lt;li&gt;Индикатор за температура &lt;/li&gt;&amp;#10;&lt;li&gt;Термостат за контрол на температурата&amp;nbsp;&lt;/li&gt;&amp;#10;&lt;li&gt;220-240 V &amp;bull; 50/60 Hz&amp;nbsp;&lt;/li&gt;&amp;#10;&lt;li&gt;Мощност 700-800 W&lt;/li&gt;&amp;#10;&lt;/ul&gt;</description>
+    <minimum>1</minimum>
+    <category>МАЛКИ ЕЛЕКТРОУРЕДИ</category>
+    <sub_category>ЗА КУХНЯТА</sub_category>
+    <sub_sub_category>УРЕДИ ЗА САНДВИЧИ</sub_sub_category>
+    <tabs/>
+    <manufacturer>FIRST</manufacturer>
+    <price>28.00</price>
+    <original_price>28.00</original_price>
+    <weight>1.460</weight>
+    <sku>005338-7</sku>
+    <quantity>43</quantity>
+    <images>
+      <image>https://cdncloudcart.com/16281/products/images/2166/ured-za-sandvici-first-fa-5338-7-image_6022a2214fab9_1280x1280.jpeg?1612882484</image>
+      <image>https://cdncloudcart.com/16281/products/images/2166/ured-za-sandvici-first-fa-5338-7-image_6022a240c0817_1280x1280.jpeg?1612882514</image>
+      <image>https://cdncloudcart.com/16281/products/images/2166/ured-za-sandvici-first-fa-5338-7-image_6022a24cf368a_1920x1920.jpeg?1612882531</image>
+      <image>https://cdncloudcart.com/16281/products/images/2166/ured-za-sandvici-first-fa-5338-7-image_6022a2595cc13_1920x1920.jpeg?1612882542</image>
+      <image></image>
+      <image></image>
+      <image></image>
+    </images>
+    <meta_title>УРЕД ЗА САНДВИЧИ FIRST FA-5338-7</meta_title>
+    <meta_description>Плочи с незалепващо покритие Светлинен индикатор  Индикатор за температура Термостат за контрол на температурата  220-240 V • 50/60 Hz  Мощност 700-800</meta_description>
+  </product>
+  <product>
+    <id>2167</id>
+    <product_code>70294</product_code>
+    <barcode>9.0039E+12</barcode>
+    <title>МИНИ ЧОПЪР ELITE CH-0294</title>
+    <short_description></short_description>
+    <description>&lt;ul&gt;&amp;#10;&lt;li&gt;Електрически мини чопър&lt;/li&gt;&amp;#10;&lt;li&gt;Капацитет на купата - 200гр. максимум&lt;/li&gt;&amp;#10;&lt;li&gt;Обем на купата - 0.5 литра&lt;/li&gt;&amp;#10;&lt;li&gt;Лесен за употреба&lt;/li&gt;&amp;#10;&lt;li&gt;Мощност: 300W&lt;/li&gt;&amp;#10;&lt;li&gt;AC230V/ 50 Hz&lt;/li&gt;&amp;#10;&lt;/ul&gt;</description>
+    <minimum>1</minimum>
+    <category>МАЛКИ ЕЛЕКТРОУРЕДИ</category>
+    <sub_category>ЗА КУХНЯТА</sub_category>
+    <sub_sub_category>МИКСЕРИ, БЛЕНДЕРИ, ПАСАТОРИ</sub_sub_category>
+    <tabs/>
+    <manufacturer>ELITE</manufacturer>
+    <price>30.00</price>
+    <original_price>30.00</original_price>
+    <weight>1.140</weight>
+    <sku>70294</sku>
+    <quantity>96</quantity>
+    <images>
+      <image>https://cdncloudcart.com/16281/products/images/2167/mini-copar-elite-ch-0294-image_6022a4ce7d7c2_1920x1920.jpeg?1612883174</image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+    </images>
+    <meta_title>МИНИ ЧОПЪР ELITE CH-0294</meta_title>
+    <meta_description>Електрически мини чопър Капацитет на купата - 200гр. максимум Обем на купата - 0.5 литра Лесен за употреба Мощност: 300W AC230V/ 50 Hz</meta_description>
+  </product>
+  <product>
+    <id>2168</id>
+    <product_code>77730</product_code>
+    <barcode></barcode>
+    <title>СУШИЛНИК ЗА СЪДОВЕ MAGICOOK MK-DR-5418</title>
+    <short_description></short_description>
+    <description>&lt;ul&gt;&amp;#10;&lt;li&gt;Сушилник на 3 нива&lt;/li&gt;&amp;#10;&lt;li&gt;Размери в см : 42 * 23 * 33&lt;/li&gt;&amp;#10;&lt;li&gt;Продукта &lt;strong&gt;не включва&lt;/strong&gt; пластмасовата тава&lt;/li&gt;&amp;#10;&lt;/ul&gt;</description>
+    <minimum>1</minimum>
+    <category>ЗА ДОМА</category>
+    <sub_category>ДОМАКИНСКИ СЪДОВЕ</sub_category>
+    <sub_sub_category>СУШИЛНИЦИ ЗА СЪДОВЕ</sub_sub_category>
+    <tabs/>
+    <manufacturer></manufacturer>
+    <price>34.00</price>
+    <original_price>34.00</original_price>
+    <weight>2.250</weight>
+    <sku>77730</sku>
+    <quantity>429</quantity>
+    <images>
+      <image>https://cdncloudcart.com/16281/products/images/2168/susilnik-za-sadove-magicook-mk-dr-5418-image_6023b13be0da2_1920x1920.jpeg?1612967999</image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+      <image></image>
+    </images>
+    <meta_title>СУШИЛНИК ЗА СЪДОВЕ MAGICOOK MK-DR-5418</meta_title>
+    <meta_description>Размери в см : 42 * 23 * 33 Продукта не включва пластмасовата тава</meta_description>
   </product>
 </products>
