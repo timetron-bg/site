@@ -78,12 +78,12 @@
 <ROW>
 	<MNum>002406-1-BA</MNum>
 	<MName>РАДИО ЧАСОВНИК FIRST AUSTRIA  FA-2406-1-BA</MName>
-	<AvQR>86</AvQR>
+	<AvQR>83</AvQR>
 </ROW>
 <ROW>
 	<MNum>002406-1-WI</MNum>
 	<MName>РАДИО ЧАСОВНИК FIRST AUSTRIA  FA-2406-1-WI</MName>
-	<AvQR>39</AvQR>
+	<AvQR>37</AvQR>
 </ROW>
 <ROW>
 	<MNum>002406-2</MNum>
@@ -108,7 +108,7 @@
 <ROW>
 	<MNum>002419-3</MNum>
 	<MName>РАДИО ЧАСОВНИК FIRST FA-2419-3</MName>
-	<AvQR>180</AvQR>
+	<AvQR>179</AvQR>
 </ROW>
 <ROW>
 	<MNum>002421-2</MNum>
@@ -143,7 +143,7 @@
 <ROW>
 	<MNum>002461</MNum>
 	<MName>МЕТЕОСТАНЦИЯ FIRST FA-2461</MName>
-	<AvQR>4</AvQR>
+	<AvQR>3</AvQR>
 </ROW>
 <ROW>
 	<MNum>002461-1</MNum>
@@ -163,7 +163,7 @@
 <ROW>
 	<MNum>003101</MNum>
 	<MName>ВЪТРЕШНА АНТЕНА FIRST FA-3101</MName>
-	<AvQR>75</AvQR>
+	<AvQR>74</AvQR>
 </ROW>
 <ROW>
 	<MNum>005028-2</MNum>
@@ -193,7 +193,7 @@
 <ROW>
 	<MNum>005045-4</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА ФУРНА С ДВА КОТЛОНА FIRST FA-5045-4</MName>
-	<AvQR>85</AvQR>
+	<AvQR>79</AvQR>
 </ROW>
 <ROW>
 	<MNum>005046-1</MNum>
@@ -213,12 +213,12 @@
 <ROW>
 	<MNum>005053</MNum>
 	<MName>ФРИТЮРНИК С ГОРЕЩ ВЪЗДУХ FIRST FA-5053</MName>
-	<AvQR>1067</AvQR>
+	<AvQR>1064</AvQR>
 </ROW>
 <ROW>
 	<MNum>005053-1</MNum>
 	<MName>ФРИТЮРНИК С ГОРЕЩ ВЪЗДУХ FIRST FA-5053-1</MName>
-	<AvQR>513</AvQR>
+	<AvQR>489</AvQR>
 </ROW>
 <ROW>
 	<MNum>005053-3</MNum>
@@ -228,7 +228,7 @@
 <ROW>
 	<MNum>005053-4</MNum>
 	<MName>ФРИТЮРНИК С ГОРЕЩ ВЪЗДУХ FIRST FA-5053-4</MName>
-	<AvQR>56</AvQR>
+	<AvQR>54</AvQR>
 </ROW>
 <ROW>
 	<MNum>005058-1</MNum>
@@ -238,17 +238,17 @@
 <ROW>
 	<MNum>005096-6</MNum>
 	<MName>ДВОЕН ИНФРАЧЕРВЕН КОТЛОН/ 2500W FIRST FA-5096-6</MName>
-	<AvQR>9</AvQR>
+	<AvQR>8</AvQR>
 </ROW>
 <ROW>
 	<MNum>005096-8</MNum>
 	<MName>EДИНИЧЕН ИНФРАЧЕРВЕН КОТЛОН/ 2000W FIRST FA-5096-8</MName>
-	<AvQR>9</AvQR>
+	<AvQR>5</AvQR>
 </ROW>
 <ROW>
 	<MNum>005096-9</MNum>
 	<MName>ДВОЕН ИНФРАЧЕРВЕН КОТЛОН/ 2500W FIRST FA-5096-9</MName>
-	<AvQR>12</AvQR>
+	<AvQR>11</AvQR>
 </ROW>
 <ROW>
 	<MNum>005100</MNum>
@@ -288,7 +288,7 @@
 <ROW>
 	<MNum>005111-1-GR</MNum>
 	<MName>ЧОПЪР/ МИНИ АСИСТЕНТ FIRST FA-5111-1-GR</MName>
-	<AvQR>16</AvQR>
+	<AvQR>15</AvQR>
 </ROW>
 <ROW>
 	<MNum>005112-2</MNum>
@@ -303,22 +303,22 @@
 <ROW>
 	<MNum>005114-1</MNum>
 	<MName>ЧОПЪР/ МИНИ АСИСТЕНТ FIRST FA-5114-1</MName>
-	<AvQR>5</AvQR>
+	<AvQR>2</AvQR>
 </ROW>
 <ROW>
 	<MNum>005114-5-BU</MNum>
 	<MName>ЧОПЪР/ МИНИ АСИСТЕНТ FIRST FA-5114-5-BU</MName>
-	<AvQR>6</AvQR>
+	<AvQR>4</AvQR>
 </ROW>
 <ROW>
 	<MNum>005114-5-GR</MNum>
 	<MName>ЧОПЪР/ МИНИ АСИСТЕНТ FIRST FA-5114-5-GR</MName>
-	<AvQR>35</AvQR>
+	<AvQR>33</AvQR>
 </ROW>
 <ROW>
 	<MNum>005116-2</MNum>
 	<MName>КУХНЕНСКИ РОБОТ FIRST FA-5116-2</MName>
-	<AvQR>435</AvQR>
+	<AvQR>434</AvQR>
 </ROW>
 <ROW>
 	<MNum>005118-2</MNum>
@@ -333,7 +333,7 @@
 <ROW>
 	<MNum>005125-1</MNum>
 	<MName>УРЕД ЗА ИЗСУШАВАНЕ НА ПЛОДОВЕ/ЗЕЛЕНЧУЦИ FIRST FA-5125-1 **</MName>
-	<AvQR>65</AvQR>
+	<AvQR>64</AvQR>
 </ROW>
 <ROW>
 	<MNum>005126-5</MNum>
@@ -343,7 +343,7 @@
 <ROW>
 	<MNum>005130</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА ТЕНДЖЕРА ПОД НАЛЯГАНЕ FIRST FA-5130</MName>
-	<AvQR>946</AvQR>
+	<AvQR>943</AvQR>
 </ROW>
 <ROW>
 	<MNum>005135</MNum>
@@ -353,17 +353,17 @@
 <ROW>
 	<MNum>005140-5</MNum>
 	<MName>МЕСОМЕЛАЧКА FIRST FA-5140-5</MName>
-	<AvQR>130</AvQR>
+	<AvQR>128</AvQR>
 </ROW>
 <ROW>
 	<MNum>005143-1</MNum>
 	<MName>МЕСОМЕЛАЧКА FIRST FA-5143-1</MName>
-	<AvQR>10</AvQR>
+	<AvQR>8</AvQR>
 </ROW>
 <ROW>
 	<MNum>005143-2</MNum>
 	<MName>МЕСОМЕЛАЧКА FIRST FA-5143-2</MName>
-	<AvQR>111</AvQR>
+	<AvQR>105</AvQR>
 </ROW>
 <ROW>
 	<MNum>005152-2</MNum>
@@ -373,12 +373,12 @@
 <ROW>
 	<MNum>005152-3</MNum>
 	<MName>УРЕД ЗА ПРАВЕНЕ НА ХЛЯБ FIRST FA-5152-3</MName>
-	<AvQR>8</AvQR>
+	<AvQR>7</AvQR>
 </ROW>
 <ROW>
 	<MNum>005201</MNum>
 	<MName>СОКОИЗСТИСКВАЧКА FIRST FA-5201</MName>
-	<AvQR>1219</AvQR>
+	<AvQR>1218</AvQR>
 </ROW>
 <ROW>
 	<MNum>005206-2</MNum>
@@ -403,7 +403,7 @@
 <ROW>
 	<MNum>005221-2</MNum>
 	<MName>СОКОИЗСТИСКВАЧКА ЗА ЦИТРУСОВИ ПЛОДОВЕ FIRST FA-5221-2</MName>
-	<AvQR>15</AvQR>
+	<AvQR>16</AvQR>
 </ROW>
 <ROW>
 	<MNum>005225-2-YE</MNum>
@@ -423,7 +423,7 @@
 <ROW>
 	<MNum>005243</MNum>
 	<MName>СМУТИ МЕЙКЪР FIRST FA-5243</MName>
-	<AvQR>711</AvQR>
+	<AvQR>751</AvQR>
 </ROW>
 <ROW>
 	<MNum>005246-4</MNum>
@@ -468,7 +468,7 @@
 <ROW>
 	<MNum>005259-7</MNum>
 	<MName>МИКСЕР СЪС СТОЙКА FIRST FA-5259-7</MName>
-	<AvQR>40</AvQR>
+	<AvQR>39</AvQR>
 </ROW>
 <ROW>
 	<MNum>005262</MNum>
@@ -478,7 +478,7 @@
 <ROW>
 	<MNum>005262-1-WI</MNum>
 	<MName>МИКСЕР FIRST FA-5262-1-WI</MName>
-	<AvQR>175</AvQR>
+	<AvQR>172</AvQR>
 </ROW>
 <ROW>
 	<MNum>005262-5</MNum>
@@ -503,12 +503,12 @@
 <ROW>
 	<MNum>005272-2</MNum>
 	<MName>МУЛТИФУНКЦИОНАЛЕН ПАСАТОР FIRST FA-5272-2</MName>
-	<AvQR>390</AvQR>
+	<AvQR>388</AvQR>
 </ROW>
 <ROW>
 	<MNum>005272-4</MNum>
 	<MName>МУЛТИФУНКЦИОНАЛЕН ПАСАТОР FIRST FA-5272-4</MName>
-	<AvQR>203</AvQR>
+	<AvQR>191</AvQR>
 </ROW>
 <ROW>
 	<MNum>005273-2</MNum>
@@ -523,22 +523,22 @@
 <ROW>
 	<MNum>005290-4-OR</MNum>
 	<MName>ПАСАТОР FIRST FA-5290-4-OR</MName>
-	<AvQR>61</AvQR>
+	<AvQR>58</AvQR>
 </ROW>
 <ROW>
 	<MNum>005290-4-PU</MNum>
 	<MName>ПАСАТОР FIRST FA-5290-4-PU</MName>
-	<AvQR>78</AvQR>
+	<AvQR>74</AvQR>
 </ROW>
 <ROW>
 	<MNum>005295</MNum>
 	<MName>ПАСАТОР FIRST FA-5295</MName>
-	<AvQR>308</AvQR>
+	<AvQR>300</AvQR>
 </ROW>
 <ROW>
 	<MNum>005300-1</MNum>
 	<MName>УРЕД ЗА ВАФЛИ FIRST FA-5300-1</MName>
-	<AvQR>99</AvQR>
+	<AvQR>96</AvQR>
 </ROW>
 <ROW>
 	<MNum>005304</MNum>
@@ -583,7 +583,7 @@
 <ROW>
 	<MNum>005337-3</MNum>
 	<MName>УРЕД ЗА САНДВИЧИ/ГРИЛ ПЛОЧИ FIRST FA-5337-3</MName>
-	<AvQR>59</AvQR>
+	<AvQR>57</AvQR>
 </ROW>
 <ROW>
 	<MNum>005337-5</MNum>
@@ -598,7 +598,7 @@
 <ROW>
 	<MNum>005338-7</MNum>
 	<MName>УРЕД ЗА САНДВИЧИ FIRST FA-5338-7</MName>
-	<AvQR>19</AvQR>
+	<AvQR>16</AvQR>
 </ROW>
 <ROW>
 	<MNum>005342-3</MNum>
@@ -608,7 +608,7 @@
 <ROW>
 	<MNum>005343-1</MNum>
 	<MName>КОНТАКТ - ГРИЛ FIRST FA-5343-1</MName>
-	<AvQR>176</AvQR>
+	<AvQR>174</AvQR>
 </ROW>
 <ROW>
 	<MNum>005343-2</MNum>
@@ -618,7 +618,7 @@
 <ROW>
 	<MNum>005343-3</MNum>
 	<MName>КОНТАКТ - ГРИЛ FIRST FA-5343-3</MName>
-	<AvQR>38</AvQR>
+	<AvQR>36</AvQR>
 </ROW>
 <ROW>
 	<MNum>005344-1</MNum>
@@ -633,7 +633,7 @@
 <ROW>
 	<MNum>005344-3</MNum>
 	<MName>КОНТАКТ - ГРИЛ FIRST FA-5344-3</MName>
-	<AvQR>63</AvQR>
+	<AvQR>58</AvQR>
 </ROW>
 <ROW>
 	<MNum>005350</MNum>
@@ -653,32 +653,27 @@
 <ROW>
 	<MNum>005366-CH</MNum>
 	<MName>ТОСТЕР/ SS STEEL FIRST FA-5366-CH</MName>
-	<AvQR>89</AvQR>
+	<AvQR>80</AvQR>
 </ROW>
 <ROW>
 	<MNum>005367-3</MNum>
 	<MName>ТОСТЕР FIRST FA-5367-3</MName>
-	<AvQR>60</AvQR>
+	<AvQR>57</AvQR>
 </ROW>
 <ROW>
 	<MNum>005367-5</MNum>
 	<MName>ТОСТЕР FIRST FA-5367-5</MName>
-	<AvQR>35</AvQR>
+	<AvQR>34</AvQR>
 </ROW>
 <ROW>
 	<MNum>005367-CH</MNum>
 	<MName>ТОСТЕР - 4 ФИЛИИ FIRST FA-5367-CH</MName>
-	<AvQR>21</AvQR>
-</ROW>
-<ROW>
-	<MNum>005368-3</MNum>
-	<MName>ТОСТЕР FIRST FA-5368-3</MName>
-	<AvQR>3</AvQR>
+	<AvQR>20</AvQR>
 </ROW>
 <ROW>
 	<MNum>005368-4</MNum>
 	<MName>ТОСТЕР FIRST FA-5368-4</MName>
-	<AvQR>34</AvQR>
+	<AvQR>33</AvQR>
 </ROW>
 <ROW>
 	<MNum>005368-5</MNum>
@@ -743,12 +738,12 @@
 <ROW>
 	<MNum>005407-4-CR</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА КАНА FIRST FA-5407-4-CR</MName>
-	<AvQR>32</AvQR>
+	<AvQR>22</AvQR>
 </ROW>
 <ROW>
 	<MNum>005407-4-GR</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА КАНА FIRST FA-5407-4-GR</MName>
-	<AvQR>46</AvQR>
+	<AvQR>36</AvQR>
 </ROW>
 <ROW>
 	<MNum>005408-6</MNum>
@@ -758,7 +753,7 @@
 <ROW>
 	<MNum>005409-5</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА КАНА FIRST FA-5409-5</MName>
-	<AvQR>45</AvQR>
+	<AvQR>35</AvQR>
 </ROW>
 <ROW>
 	<MNum>005409-6</MNum>
@@ -768,7 +763,7 @@
 <ROW>
 	<MNum>005411</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА КАНА FIRST FA-5411</MName>
-	<AvQR>177</AvQR>
+	<AvQR>175</AvQR>
 </ROW>
 <ROW>
 	<MNum>005411-0</MNum>
@@ -798,7 +793,7 @@
 <ROW>
 	<MNum>005417-5-BU</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА КАНА FIRST FA-5417-5-BU</MName>
-	<AvQR>31</AvQR>
+	<AvQR>30</AvQR>
 </ROW>
 <ROW>
 	<MNum>005417-5-WI</MNum>
@@ -808,12 +803,12 @@
 <ROW>
 	<MNum>005417-6-BA</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА КАНА FIRST FA-5417-6-BA</MName>
-	<AvQR>48</AvQR>
+	<AvQR>46</AvQR>
 </ROW>
 <ROW>
 	<MNum>005417-6-CR</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА КАНА FIRST FA-5417-6-CR</MName>
-	<AvQR>49</AvQR>
+	<AvQR>42</AvQR>
 </ROW>
 <ROW>
 	<MNum>005417-7-BA</MNum>
@@ -823,17 +818,17 @@
 <ROW>
 	<MNum>005417-7-GN</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА КАНА FIRST FA-5417-7-GN</MName>
-	<AvQR>39</AvQR>
+	<AvQR>34</AvQR>
 </ROW>
 <ROW>
 	<MNum>005425-2-BA</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА КАНА ТУРИСТИЧЕСКА FIRST FA-5425-2-BA</MName>
-	<AvQR>9</AvQR>
+	<AvQR>5</AvQR>
 </ROW>
 <ROW>
 	<MNum>005427-2-GR</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА КАНА FIRST FA-5427-2-GR</MName>
-	<AvQR>32</AvQR>
+	<AvQR>31</AvQR>
 </ROW>
 <ROW>
 	<MNum>005440</MNum>
@@ -853,12 +848,12 @@
 <ROW>
 	<MNum>005453-3</MNum>
 	<MName>КАФЕМАШИНА/ 1 ЧАША FIRST FA-5453-3</MName>
-	<AvQR>422</AvQR>
+	<AvQR>421</AvQR>
 </ROW>
 <ROW>
 	<MNum>005453-4</MNum>
 	<MName>КАФЕМАШИНА/ 2 ЧАШИ FIRST FA-5453-4</MName>
-	<AvQR>501</AvQR>
+	<AvQR>500</AvQR>
 </ROW>
 <ROW>
 	<MNum>005459-4</MNum>
@@ -868,17 +863,17 @@
 <ROW>
 	<MNum>005459-5</MNum>
 	<MName>КАФЕМАШИНА/12 ЧАШИ FIRST FA-5459-5</MName>
-	<AvQR>13</AvQR>
+	<AvQR>8</AvQR>
 </ROW>
 <ROW>
 	<MNum>005464-1</MNum>
 	<MName>КАФЕМАШИНА/10-12 ЧАШИ FIRST FA-5464-1</MName>
-	<AvQR>2</AvQR>
+	<AvQR>1</AvQR>
 </ROW>
 <ROW>
 	<MNum>005464-2</MNum>
 	<MName>КАФЕМАШИНА/8 ЧАШИ FIRST FA-5464-2</MName>
-	<AvQR>40</AvQR>
+	<AvQR>35</AvQR>
 </ROW>
 <ROW>
 	<MNum>005464-4</MNum>
@@ -888,7 +883,7 @@
 <ROW>
 	<MNum>005475-2</MNum>
 	<MName>КАФЕМАШИНА FIRST FA-5475-2</MName>
-	<AvQR>26</AvQR>
+	<AvQR>20</AvQR>
 </ROW>
 <ROW>
 	<MNum>005475-3</MNum>
@@ -898,17 +893,17 @@
 <ROW>
 	<MNum>005476-1</MNum>
 	<MName>КАФЕМАШИНА 15 БАРА FIRST FA-5476-1</MName>
-	<AvQR>44</AvQR>
+	<AvQR>42</AvQR>
 </ROW>
 <ROW>
 	<MNum>005476-2</MNum>
 	<MName>КАФЕМАШИНА 15 БАРА FIRST FA-5476-2</MName>
-	<AvQR>56</AvQR>
+	<AvQR>50</AvQR>
 </ROW>
 <ROW>
 	<MNum>005476-3</MNum>
 	<MName>КАФЕМАШИНА 15 БАРА  FIRST FA-5476-3</MName>
-	<AvQR>30</AvQR>
+	<AvQR>26</AvQR>
 </ROW>
 <ROW>
 	<MNum>005480-1</MNum>
@@ -918,37 +913,37 @@
 <ROW>
 	<MNum>005482-2-BA</MNum>
 	<MName>КАФЕМЕЛАЧКА FIRST FA-5482-2-BA</MName>
-	<AvQR>174</AvQR>
+	<AvQR>172</AvQR>
 </ROW>
 <ROW>
 	<MNum>005482-2-CR</MNum>
 	<MName>КАФЕМЕЛАЧКА FIRST FA-5482-2-CR</MName>
-	<AvQR>119</AvQR>
+	<AvQR>114</AvQR>
 </ROW>
 <ROW>
 	<MNum>005485-3</MNum>
 	<MName>КАФЕМЕЛАЧКА FIRST FA-5485-3</MName>
-	<AvQR>163</AvQR>
+	<AvQR>148</AvQR>
 </ROW>
 <ROW>
 	<MNum>005486</MNum>
 	<MName>КАФЕМЕЛАЧКА FIRST FA-5486</MName>
-	<AvQR>18</AvQR>
+	<AvQR>17</AvQR>
 </ROW>
 <ROW>
 	<MNum>005530-1</MNum>
 	<MName>ПИЛИНГ ЗА ДРЕХИ FIRST FA-5530-1</MName>
-	<AvQR>174</AvQR>
+	<AvQR>173</AvQR>
 </ROW>
 <ROW>
 	<MNum>005530-4-CR</MNum>
 	<MName>ПИЛИНГ ЗА ДРЕХИ FIRST FA-5530-4-CR</MName>
-	<AvQR>155</AvQR>
+	<AvQR>153</AvQR>
 </ROW>
 <ROW>
 	<MNum>005530-4-PU</MNum>
 	<MName>ПИЛИНГ ЗА ДРЕХИ FIRST FA-5530-4-PU</MName>
-	<AvQR>188</AvQR>
+	<AvQR>186</AvQR>
 </ROW>
 <ROW>
 	<MNum>005530-5-CR</MNum>
@@ -963,12 +958,12 @@
 <ROW>
 	<MNum>005546-3</MNum>
 	<MName>ПРАХОСМУКАЧКА С ВОДЕН ФИЛТЪР FIRST FA-5546-3 **</MName>
-	<AvQR>304</AvQR>
+	<AvQR>303</AvQR>
 </ROW>
 <ROW>
 	<MNum>005546-3-RE</MNum>
 	<MName>ПРАХОСМУКАЧКА С ВОДЕН ФИЛТЪР FIRST FA-5546-3-RE **</MName>
-	<AvQR>44</AvQR>
+	<AvQR>43</AvQR>
 </ROW>
 <ROW>
 	<MNum>005550-GR</MNum>
@@ -1021,11 +1016,6 @@
 	<AvQR>3</AvQR>
 </ROW>
 <ROW>
-	<MNum>005571-2</MNum>
-	<MName>КЕРАМИЧНА ПЕЧКА ЗА СТЕНА FIRST FA-5571-2</MName>
-	<AvQR>3</AvQR>
-</ROW>
-<ROW>
 	<MNum>005571-8-BU</MNum>
 	<MName>КЕРАМИЧНА ПЕЧКА ЗА СТЕНА FIRST FA-5571-8-BU</MName>
 	<AvQR>1</AvQR>
@@ -1058,12 +1048,17 @@
 <ROW>
 	<MNum>005618-6</MNum>
 	<MName>ЮТИЯ FIRST FA-5618-6</MName>
-	<AvQR>7</AvQR>
+	<AvQR>1</AvQR>
 </ROW>
 <ROW>
 	<MNum>005618-7-GR</MNum>
 	<MName>ЮТИЯ FIRST FA-5618-7-GR</MName>
 	<AvQR>26</AvQR>
+</ROW>
+<ROW>
+	<MNum>005618-8</MNum>
+	<MName>ЮТИЯ FIRST FA-5618-8</MName>
+	<AvQR>9</AvQR>
 </ROW>
 <ROW>
 	<MNum>005628-9</MNum>
@@ -1073,22 +1068,17 @@
 <ROW>
 	<MNum>005629-5</MNum>
 	<MName>ЮТИЯ FIRST FA-5629-5</MName>
-	<AvQR>763</AvQR>
+	<AvQR>759</AvQR>
 </ROW>
 <ROW>
 	<MNum>005633-3</MNum>
 	<MName>ЮТИЯ/ ПАРНА ПОМПА  FIRST FA-5633-3</MName>
-	<AvQR>37</AvQR>
+	<AvQR>36</AvQR>
 </ROW>
 <ROW>
 	<MNum>005640-2</MNum>
 	<MName>ТУРИСТИЧЕСКА ЮТИЯ FIRST FA-5640-2</MName>
 	<AvQR>0</AvQR>
-</ROW>
-<ROW>
-	<MNum>005647-1</MNum>
-	<MName>ЧЕТКА ЗА ПАРА-ЮТИЯ FIRST FA-5647-1</MName>
-	<AvQR>1</AvQR>
 </ROW>
 <ROW>
 	<MNum>005647-2</MNum>
@@ -1123,12 +1113,12 @@
 <ROW>
 	<MNum>005651-9</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА ЧЕТКА ЗА КОСА FIRST FA-5651-9</MName>
-	<AvQR>16</AvQR>
+	<AvQR>14</AvQR>
 </ROW>
 <ROW>
 	<MNum>005653-3</MNum>
 	<MName>СЕШОАР FIRST FA-5653-3</MName>
-	<AvQR>133</AvQR>
+	<AvQR>123</AvQR>
 </ROW>
 <ROW>
 	<MNum>005653-5</MNum>
@@ -1138,17 +1128,17 @@
 <ROW>
 	<MNum>005654-7-BU</MNum>
 	<MName>СЕШОАР FIRST FA-5654-7-BU</MName>
-	<AvQR>45</AvQR>
+	<AvQR>40</AvQR>
 </ROW>
 <ROW>
 	<MNum>005654-8</MNum>
 	<MName>СЕШОАР FIRST FA-5654-8</MName>
-	<AvQR>21</AvQR>
+	<AvQR>16</AvQR>
 </ROW>
 <ROW>
 	<MNum>005655-1</MNum>
 	<MName>СЕШОАР ЗА БАНЯ FIRST FA-5655-1</MName>
-	<AvQR>448</AvQR>
+	<AvQR>488</AvQR>
 </ROW>
 <ROW>
 	<MNum>005658-1</MNum>
@@ -1163,7 +1153,7 @@
 <ROW>
 	<MNum>005666-WI</MNum>
 	<MName>СЕШОАР FIRST FA-5666-WI</MName>
-	<AvQR>9</AvQR>
+	<AvQR>2</AvQR>
 </ROW>
 <ROW>
 	<MNum>005668</MNum>
@@ -1193,7 +1183,7 @@
 <ROW>
 	<MNum>005670-1-PI</MNum>
 	<MName>ПРЕСА ЗА КОСА FIRST FA-5670-1-PI</MName>
-	<AvQR>40</AvQR>
+	<AvQR>39</AvQR>
 </ROW>
 <ROW>
 	<MNum>005670-5</MNum>
@@ -1213,17 +1203,17 @@
 <ROW>
 	<MNum>005671-5</MNum>
 	<MName>МАША ЗА КОСА FIRST FA-5671-5</MName>
-	<AvQR>38</AvQR>
+	<AvQR>34</AvQR>
 </ROW>
 <ROW>
 	<MNum>005671-7</MNum>
 	<MName>МАША ЗА КОСА FIRST FA-5671-7</MName>
-	<AvQR>40</AvQR>
+	<AvQR>39</AvQR>
 </ROW>
 <ROW>
 	<MNum>005671-8</MNum>
 	<MName>МАША ЗА КОСА FIRST FA-5671-8</MName>
-	<AvQR>134</AvQR>
+	<AvQR>133</AvQR>
 </ROW>
 <ROW>
 	<MNum>005671-9</MNum>
@@ -1233,7 +1223,7 @@
 <ROW>
 	<MNum>005672</MNum>
 	<MName>ПРЕСА ЗА КОСА И МАША FIRST  FA-5672</MName>
-	<AvQR>55</AvQR>
+	<AvQR>54</AvQR>
 </ROW>
 <ROW>
 	<MNum>005672-1</MNum>
@@ -1253,37 +1243,42 @@
 <ROW>
 	<MNum>005674-4</MNum>
 	<MName>МАШИНКА ЗА ПОДСТРИГВАНЕ FIRST FA-5674-4</MName>
-	<AvQR>87</AvQR>
+	<AvQR>86</AvQR>
 </ROW>
 <ROW>
 	<MNum>005674-5</MNum>
 	<MName>МАШИНКА ЗА ПОДСТРИГВАНЕ FIRST FA-5674-5</MName>
-	<AvQR>74</AvQR>
+	<AvQR>69</AvQR>
 </ROW>
 <ROW>
 	<MNum>005676-4</MNum>
 	<MName>МАШИНКА ЗА ПОДСТРИГВАНЕ FIRST FA-5676-4</MName>
-	<AvQR>77</AvQR>
+	<AvQR>76</AvQR>
 </ROW>
 <ROW>
 	<MNum>005676-5</MNum>
 	<MName>МАШИНКА ЗА ПОДСТРИГВАНЕ FIRST FA-5676-5</MName>
-	<AvQR>21</AvQR>
+	<AvQR>20</AvQR>
 </ROW>
 <ROW>
 	<MNum>005676-6</MNum>
 	<MName>МАШИНКА ЗА ПОДСТРИГВАНЕ FIRST FA-5676-6</MName>
-	<AvQR>22</AvQR>
+	<AvQR>17</AvQR>
 </ROW>
 <ROW>
 	<MNum>005676-7</MNum>
 	<MName>МАШИНКА ЗА ПОДСТРИГВАНЕ FIRST FA-5676-7</MName>
-	<AvQR>16</AvQR>
+	<AvQR>13</AvQR>
+</ROW>
+<ROW>
+	<MNum>005676-8</MNum>
+	<MName>МАШИНКА ЗА ПОДСТРИГВАНЕ FIRST FA-5676-8</MName>
+	<AvQR>1</AvQR>
 </ROW>
 <ROW>
 	<MNum>005680-1</MNum>
 	<MName>УРЕД ЗА ПОЧИСТВАНЕ НОС И УШИ FIRST FA-5680-1</MName>
-	<AvQR>215</AvQR>
+	<AvQR>207</AvQR>
 </ROW>
 <ROW>
 	<MNum>005680-2-GO</MNum>
@@ -1293,7 +1288,7 @@
 <ROW>
 	<MNum>005680-2-SI</MNum>
 	<MName>УРЕД ЗА ПОЧИСТВАНЕ НА НОСА И УШИТЕ FIRST FA-5680-2-SI</MName>
-	<AvQR>42</AvQR>
+	<AvQR>38</AvQR>
 </ROW>
 <ROW>
 	<MNum>005700</MNum>
@@ -1318,7 +1313,7 @@
 <ROW>
 	<MNum>006401-1-BL</MNum>
 	<MName>КУХНЕНСКА ВЕЗНА FIRST FA-6401-1-BL</MName>
-	<AvQR>168</AvQR>
+	<AvQR>152</AvQR>
 </ROW>
 <ROW>
 	<MNum>006401-1-GN</MNum>
@@ -1328,12 +1323,12 @@
 <ROW>
 	<MNum>006401-1-WI</MNum>
 	<MName>КУХНЕНСКА ВЕЗНА FIRST FA-6401-1-WI</MName>
-	<AvQR>161</AvQR>
+	<AvQR>159</AvQR>
 </ROW>
 <ROW>
 	<MNum>006403-1</MNum>
 	<MName>КУХНЕНСКА ВЕЗНА FIRST FA-6403-1</MName>
-	<AvQR>172</AvQR>
+	<AvQR>170</AvQR>
 </ROW>
 <ROW>
 	<MNum>006407-1</MNum>
@@ -1343,7 +1338,7 @@
 <ROW>
 	<MNum>006409</MNum>
 	<MName>ВЕЗНА ЗА БАГАЖ FIRST FA-6409</MName>
-	<AvQR>58</AvQR>
+	<AvQR>53</AvQR>
 </ROW>
 <ROW>
 	<MNum>006410</MNum>
@@ -1388,7 +1383,7 @@
 <ROW>
 	<MNum>008015-2-BL</MNum>
 	<MName>КАНТАР FIRST FA-8015-2--BL</MName>
-	<AvQR>184</AvQR>
+	<AvQR>182</AvQR>
 </ROW>
 <ROW>
 	<MNum>008015-2-GR</MNum>
@@ -1403,17 +1398,17 @@
 <ROW>
 	<MNum>008020-BU</MNum>
 	<MName>КАНТАР FIRST FA-8020-BU</MName>
-	<AvQR>65</AvQR>
+	<AvQR>64</AvQR>
 </ROW>
 <ROW>
 	<MNum>008020-GR</MNum>
 	<MName>КАНТАР FIRST FA-8020-GR</MName>
-	<AvQR>116</AvQR>
+	<AvQR>112</AvQR>
 </ROW>
 <ROW>
 	<MNum>008020-WI</MNum>
 	<MName>КАНТАР FIRST FA-8020-WI</MName>
-	<AvQR>246</AvQR>
+	<AvQR>283</AvQR>
 </ROW>
 <ROW>
 	<MNum>008116-1</MNum>
@@ -1678,37 +1673,32 @@
 <ROW>
 	<MNum>35200601002</MNum>
 	<MName>МИНИ ФУРНА GAMALUX, 36л NG 7501</MName>
-	<AvQR>16</AvQR>
+	<AvQR>13</AvQR>
 </ROW>
 <ROW>
 	<MNum>35200601003</MNum>
 	<MName>МИНИ ПЕЧКА-2 КОТЛОНА , 45л GAMALUX NG 7501/7514</MName>
-	<AvQR>11</AvQR>
+	<AvQR>5</AvQR>
 </ROW>
 <ROW>
 	<MNum>35200601004</MNum>
 	<MName>МИНИ ФУРНА , 45л GAMALUX NG 7501/7510</MName>
-	<AvQR>17</AvQR>
+	<AvQR>16</AvQR>
 </ROW>
 <ROW>
 	<MNum>35200601005</MNum>
 	<MName>МИНИ ПЕЧКА-2 КОТЛОНА , 36л GAMALUX NG 7501</MName>
-	<AvQR>11</AvQR>
+	<AvQR>9</AvQR>
 </ROW>
 <ROW>
 	<MNum>35200601007</MNum>
 	<MName>МИНИ ФУРНА GAMALUX I-60 TT</MName>
-	<AvQR>22</AvQR>
+	<AvQR>19</AvQR>
 </ROW>
 <ROW>
 	<MNum>35200601009</MNum>
 	<MName>МИНИ ФУРНА GAMALUX I-60 TTFL/GB двойно стъкло</MName>
 	<AvQR>14</AvQR>
-</ROW>
-<ROW>
-	<MNum>35202601015</MNum>
-	<MName>МИНИ ПЕЧКА GAMALUX I-60 HP TITANIUM - 2 котлона</MName>
-	<AvQR>11</AvQR>
 </ROW>
 <ROW>
 	<MNum>70122</MNum>
@@ -1723,12 +1713,12 @@
 <ROW>
 	<MNum>70126</MNum>
 	<MName>БЛЕНДЕР/ВЕРТИКАЛЕН МИКСЕР  ELITE VB-635</MName>
-	<AvQR>376</AvQR>
+	<AvQR>366</AvQR>
 </ROW>
 <ROW>
 	<MNum>70128</MNum>
 	<MName>БЛЕНДЕР/ВЕРТИКАЛЕН МИКСЕР  ELITE VB-735</MName>
-	<AvQR>391</AvQR>
+	<AvQR>431</AvQR>
 </ROW>
 <ROW>
 	<MNum>70166</MNum>
@@ -1748,7 +1738,7 @@
 <ROW>
 	<MNum>70170</MNum>
 	<MName>УРЕД ЗА ПАЛАЧИНКИ ELITE CRM-6</MName>
-	<AvQR>362</AvQR>
+	<AvQR>361</AvQR>
 </ROW>
 <ROW>
 	<MNum>70172</MNum>
@@ -1758,7 +1748,7 @@
 <ROW>
 	<MNum>70187</MNum>
 	<MName>МУЛТИФУНКЦИОНАЛЕН УРЕД ЗА ГОТВЕНЕ 8 В 1 ELITE MC-8 ••</MName>
-	<AvQR>550</AvQR>
+	<AvQR>549</AvQR>
 </ROW>
 <ROW>
 	<MNum>70197</MNum>
@@ -1768,12 +1758,12 @@
 <ROW>
 	<MNum>70214</MNum>
 	<MName>КАФЕМАШИНА ELITE JR-655 ••</MName>
-	<AvQR>41</AvQR>
+	<AvQR>38</AvQR>
 </ROW>
 <ROW>
 	<MNum>70217</MNum>
 	<MName>КАФЕМАШИНА ELITE PS-653X ••</MName>
-	<AvQR>63</AvQR>
+	<AvQR>59</AvQR>
 </ROW>
 <ROW>
 	<MNum>70239</MNum>
@@ -1808,7 +1798,7 @@
 <ROW>
 	<MNum>70250</MNum>
 	<MName>ФРИТЮРНИК ELITE JR-3018S-KOKO</MName>
-	<AvQR>679</AvQR>
+	<AvQR>676</AvQR>
 </ROW>
 <ROW>
 	<MNum>70256</MNum>
@@ -1816,24 +1806,19 @@
 	<AvQR>256</AvQR>
 </ROW>
 <ROW>
-	<MNum>70258</MNum>
-	<MName>КУХНЕНСКИ КАНТАР ELITE KS-0258 ••</MName>
-	<AvQR>1</AvQR>
-</ROW>
-<ROW>
 	<MNum>70263</MNum>
 	<MName>УРЕД ЗА САНДВИЧИ ELITE ESM-0263 ••</MName>
-	<AvQR>25</AvQR>
+	<AvQR>21</AvQR>
 </ROW>
 <ROW>
 	<MNum>70283</MNum>
 	<MName>ЕЛЕКТРИЧЕСКИ КОТЛОН ELITE 2 ПЛОЧИ EHP-0283W ••</MName>
-	<AvQR>558</AvQR>
+	<AvQR>556</AvQR>
 </ROW>
 <ROW>
 	<MNum>70284</MNum>
 	<MName>ЕЛЕКТРИЧЕСКИ КОТЛОН ELITE 2 ПЛОЧИ EHP-0284X</MName>
-	<AvQR>433</AvQR>
+	<AvQR>431</AvQR>
 </ROW>
 <ROW>
 	<MNum>70285</MNum>
@@ -1853,12 +1838,12 @@
 <ROW>
 	<MNum>70323</MNum>
 	<MName>МАШИНКА ЗА ПОДСТРИГВАНЕ ELITE RC-991 ••</MName>
-	<AvQR>2034</AvQR>
+	<AvQR>2032</AvQR>
 </ROW>
 <ROW>
 	<MNum>70326</MNum>
 	<MName>МАШИНКА ЗА ПОДСТРИГВАНЕ ELITE RC-998 ••</MName>
-	<AvQR>1160</AvQR>
+	<AvQR>1136</AvQR>
 </ROW>
 <ROW>
 	<MNum>70343</MNum>
@@ -1878,17 +1863,12 @@
 <ROW>
 	<MNum>70386</MNum>
 	<MName>ВЕНТИЛАТОРНА ПЕЧКА ELITE AH-1650</MName>
-	<AvQR>21</AvQR>
+	<AvQR>0</AvQR>
 </ROW>
 <ROW>
 	<MNum>70387</MNum>
 	<MName>ВЕНТИЛАТОРНА ПЕЧКА ELITE AH-213</MName>
-	<AvQR>33</AvQR>
-</ROW>
-<ROW>
-	<MNum>70388</MNum>
-	<MName>ВЕНТИЛАТОРНА ПЕЧКА ELITE AH-215</MName>
-	<AvQR>19</AvQR>
+	<AvQR>0</AvQR>
 </ROW>
 <ROW>
 	<MNum>70391</MNum>
@@ -1918,12 +1898,12 @@
 <ROW>
 	<MNum>70405</MNum>
 	<MName>ВЕНТИЛАТОРНА  ПЕЧКА ELITE AH-0405</MName>
-	<AvQR>124</AvQR>
+	<AvQR>12</AvQR>
 </ROW>
 <ROW>
 	<MNum>70406</MNum>
 	<MName>КОНВЕКТОР ELITE CH-0406</MName>
-	<AvQR>358</AvQR>
+	<AvQR>7</AvQR>
 </ROW>
 <ROW>
 	<MNum>70409</MNum>
@@ -1933,22 +1913,22 @@
 <ROW>
 	<MNum>70412</MNum>
 	<MName>МАШИНКА ЗА БРЪСНЕНЕ ELITE RMS-0412 ••</MName>
-	<AvQR>64</AvQR>
+	<AvQR>58</AvQR>
 </ROW>
 <ROW>
 	<MNum>70417</MNum>
 	<MName>ЮТИЯ ELITE SI-0417 ••</MName>
-	<AvQR>1446</AvQR>
+	<AvQR>1435</AvQR>
 </ROW>
 <ROW>
 	<MNum>70419</MNum>
 	<MName>ЮТИЯ ELITE SI-0419 ••</MName>
-	<AvQR>1801</AvQR>
+	<AvQR>1793</AvQR>
 </ROW>
 <ROW>
 	<MNum>70420</MNum>
 	<MName>ЮТИЯ ELITE SI-0420 ••</MName>
-	<AvQR>1774</AvQR>
+	<AvQR>1765</AvQR>
 </ROW>
 <ROW>
 	<MNum>70421</MNum>
@@ -1978,7 +1958,7 @@
 <ROW>
 	<MNum>70424</MNum>
 	<MName>ЕЛЕКТРИЧЕСКИ УНИЩОЖИТЕЛ НА НАСЕКОМИ ELITE IK-0424-80М ••</MName>
-	<AvQR>608</AvQR>
+	<AvQR>648</AvQR>
 </ROW>
 <ROW>
 	<MNum>70424-Л</MNum>
@@ -1988,7 +1968,7 @@
 <ROW>
 	<MNum>70425</MNum>
 	<MName>ЕЛЕКТРИЧЕСКИ УНИЩОЖИТЕЛ НА НАСЕКОМИ ELITE IK-0425-30 ••</MName>
-	<AvQR>1391</AvQR>
+	<AvQR>1431</AvQR>
 </ROW>
 <ROW>
 	<MNum>70425-Л</MNum>
@@ -1998,7 +1978,7 @@
 <ROW>
 	<MNum>70426</MNum>
 	<MName>ЕЛЕКТРИЧЕСКИ УНИЩОЖИТЕЛ НА НАСЕКОМИ ELITE IK-0426-50 ••</MName>
-	<AvQR>758</AvQR>
+	<AvQR>798</AvQR>
 </ROW>
 <ROW>
 	<MNum>70426-Л</MNum>
@@ -2038,12 +2018,12 @@
 <ROW>
 	<MNum>70439</MNum>
 	<MName>АВТОМАТИЧНА МАША ЗА КОСА ELITE AHC-0439</MName>
-	<AvQR>110</AvQR>
+	<AvQR>108</AvQR>
 </ROW>
 <ROW>
 	<MNum>70440</MNum>
 	<MName>ВЕНТИЛАТОР 16&quot; ELITE EFS-0440</MName>
-	<AvQR>2201</AvQR>
+	<AvQR>2200</AvQR>
 </ROW>
 <ROW>
 	<MNum>70441</MNum>
@@ -2073,7 +2053,7 @@
 <ROW>
 	<MNum>70447</MNum>
 	<MName>ПРАХОСМУКАЧКА ЗА ПО-ЕДРИ ОТПАДЪЦИ И КАМИНИ 15л ELITE MVC-5115</MName>
-	<AvQR>318</AvQR>
+	<AvQR>313</AvQR>
 </ROW>
 <ROW>
 	<MNum>70448</MNum>
@@ -2083,12 +2063,12 @@
 <ROW>
 	<MNum>70449</MNum>
 	<MName>КОНВЕКТОР /БЕЗ ВЕНТИЛАТОР/ ELITE CH-2000</MName>
-	<AvQR>1</AvQR>
+	<AvQR>0</AvQR>
 </ROW>
 <ROW>
 	<MNum>70452</MNum>
 	<MName>ПРАХОСМУКАЧКА ELITE VC-0100</MName>
-	<AvQR>285</AvQR>
+	<AvQR>284</AvQR>
 </ROW>
 <ROW>
 	<MNum>70453</MNum>
@@ -2103,7 +2083,7 @@
 <ROW>
 	<MNum>70456</MNum>
 	<MName>КВАРЦОВА ПЕЧКА ELITE FQH-0456</MName>
-	<AvQR>416</AvQR>
+	<AvQR>114</AvQR>
 </ROW>
 <ROW>
 	<MNum>70459</MNum>
@@ -2123,7 +2103,7 @@
 <ROW>
 	<MNum>70463</MNum>
 	<MName>ПРЕСА ЗА КОСА 3 В 1 ELITE HS-0463</MName>
-	<AvQR>2474</AvQR>
+	<AvQR>2470</AvQR>
 </ROW>
 <ROW>
 	<MNum>70464</MNum>
@@ -2148,12 +2128,12 @@
 <ROW>
 	<MNum>70471</MNum>
 	<MName>КЕРАМИЧНА ПЕЧКА ЗА СТЕНА ELITE EHH-0471</MName>
-	<AvQR>378</AvQR>
+	<AvQR>376</AvQR>
 </ROW>
 <ROW>
 	<MNum>70478</MNum>
 	<MName>ЮТИЯ ELITE SI-0478</MName>
-	<AvQR>1472</AvQR>
+	<AvQR>1470</AvQR>
 </ROW>
 <ROW>
 	<MNum>70483</MNum>
@@ -2203,12 +2183,12 @@
 <ROW>
 	<MNum>70498</MNum>
 	<MName>ПРАХОСМУКАЧКА ELITE VC-0498</MName>
-	<AvQR>69</AvQR>
+	<AvQR>61</AvQR>
 </ROW>
 <ROW>
 	<MNum>70499</MNum>
 	<MName>ВЕНТИЛАТОРНА ПЕЧКА ELITE ECH-3321</MName>
-	<AvQR>178</AvQR>
+	<AvQR>166</AvQR>
 </ROW>
 <ROW>
 	<MNum>70555</MNum>
@@ -2228,12 +2208,12 @@
 <ROW>
 	<MNum>70568</MNum>
 	<MName>ДИСПЕНСЕР ЗА ВОДА /ЕЛЕКТРОНЕН/ С ВОДЕН ФИЛТЪР ELITE WDE-0558</MName>
-	<AvQR>49</AvQR>
+	<AvQR>48</AvQR>
 </ROW>
 <ROW>
 	<MNum>70573</MNum>
 	<MName>МИНИ БАР  ELITE MB-0573</MName>
-	<AvQR>0</AvQR>
+	<AvQR>12</AvQR>
 </ROW>
 <ROW>
 	<MNum>70659</MNum>
@@ -2333,7 +2313,7 @@
 <ROW>
 	<MNum>71118</MNum>
 	<MName>УРЕД ЗА САНДВИЧИ  ELITE ESM-1118</MName>
-	<AvQR>594</AvQR>
+	<AvQR>584</AvQR>
 </ROW>
 <ROW>
 	<MNum>71119</MNum>
@@ -2343,12 +2323,12 @@
 <ROW>
 	<MNum>71122</MNum>
 	<MName>УРЕД ЗА САНДВИЧИ  ELITE ESM-1122</MName>
-	<AvQR>353</AvQR>
+	<AvQR>351</AvQR>
 </ROW>
 <ROW>
 	<MNum>71132</MNum>
 	<MName>СОКОИЗСТИСКВАЧКА ELITE EJ-400</MName>
-	<AvQR>27</AvQR>
+	<AvQR>26</AvQR>
 </ROW>
 <ROW>
 	<MNum>71133</MNum>
@@ -2358,7 +2338,7 @@
 <ROW>
 	<MNum>71135</MNum>
 	<MName>УРЕД ЗА САНДВИЧИ ELITE ESM-1135 WR</MName>
-	<AvQR>127</AvQR>
+	<AvQR>124</AvQR>
 </ROW>
 <ROW>
 	<MNum>71136</MNum>
@@ -2378,12 +2358,12 @@
 <ROW>
 	<MNum>71143</MNum>
 	<MName>УРЕД ЗА ЗАХАРЕН ПАМУК ELITE CCM-1143</MName>
-	<AvQR>1055</AvQR>
+	<AvQR>1053</AvQR>
 </ROW>
 <ROW>
 	<MNum>71147</MNum>
 	<MName>УРЕД ЗА ПИЦА ELITE PP-34</MName>
-	<AvQR>13</AvQR>
+	<AvQR>52</AvQR>
 </ROW>
 <ROW>
 	<MNum>71149</MNum>
@@ -2398,7 +2378,7 @@
 <ROW>
 	<MNum>71151</MNum>
 	<MName>УРЕД ЗА САНДВИЧИ ELITE ESM-1151RB</MName>
-	<AvQR>588</AvQR>
+	<AvQR>587</AvQR>
 </ROW>
 <ROW>
 	<MNum>71154</MNum>
@@ -2428,12 +2408,12 @@
 <ROW>
 	<MNum>71163</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА КАНА ELITE EK-1163</MName>
-	<AvQR>538</AvQR>
+	<AvQR>513</AvQR>
 </ROW>
 <ROW>
 	<MNum>71164</MNum>
 	<MName>УРЕД ЗА САНДВИЧИ ELITE ESM-1164</MName>
-	<AvQR>282</AvQR>
+	<AvQR>278</AvQR>
 </ROW>
 <ROW>
 	<MNum>71168</MNum>
@@ -2443,32 +2423,32 @@
 <ROW>
 	<MNum>71171</MNum>
 	<MName>ГАЗОВ КОТЛОН ELITE EGS-2187</MName>
-	<AvQR>195</AvQR>
+	<AvQR>192</AvQR>
 </ROW>
 <ROW>
 	<MNum>71172</MNum>
 	<MName>ГАЗОВ КОТЛОН ELITE EGS-2188</MName>
-	<AvQR>383</AvQR>
+	<AvQR>381</AvQR>
 </ROW>
 <ROW>
 	<MNum>71173</MNum>
 	<MName>ГАЗОВ КОТЛОН ELITE EGS-2190S</MName>
-	<AvQR>805</AvQR>
+	<AvQR>804</AvQR>
 </ROW>
 <ROW>
 	<MNum>71174</MNum>
 	<MName>ГАЗОВ КОТЛОН ELITE EGS-1191S</MName>
-	<AvQR>1641</AvQR>
+	<AvQR>1629</AvQR>
 </ROW>
 <ROW>
 	<MNum>71179</MNum>
 	<MName>БЛЕНДЕР 4 в 1 ELITE HB-1179</MName>
-	<AvQR>614</AvQR>
+	<AvQR>613</AvQR>
 </ROW>
 <ROW>
 	<MNum>71187</MNum>
 	<MName>КУХНЕНСКА ВЕЗНА ELITE KS-1187</MName>
-	<AvQR>582</AvQR>
+	<AvQR>581</AvQR>
 </ROW>
 <ROW>
 	<MNum>71188</MNum>
@@ -2478,12 +2458,12 @@
 <ROW>
 	<MNum>71189</MNum>
 	<MName>КУХНЕНСКА ВЕЗНА ELITE KS-1189</MName>
-	<AvQR>835</AvQR>
+	<AvQR>834</AvQR>
 </ROW>
 <ROW>
 	<MNum>71190</MNum>
 	<MName>КУХНЕНСКА ВЕЗНА ELITE KS-1190</MName>
-	<AvQR>339</AvQR>
+	<AvQR>338</AvQR>
 </ROW>
 <ROW>
 	<MNum>71191</MNum>
@@ -2513,42 +2493,42 @@
 <ROW>
 	<MNum>71197</MNum>
 	<MName>ТОСТЕР ELITE TTR-1197, черен</MName>
-	<AvQR>2141</AvQR>
+	<AvQR>2137</AvQR>
 </ROW>
 <ROW>
 	<MNum>71198</MNum>
 	<MName>ФРИТЮРНИК ELITE DF-1198</MName>
-	<AvQR>395</AvQR>
+	<AvQR>387</AvQR>
 </ROW>
 <ROW>
 	<MNum>71199</MNum>
 	<MName>ТОСТЕР ELITE TTG-1199, сив</MName>
-	<AvQR>2192</AvQR>
+	<AvQR>2188</AvQR>
 </ROW>
 <ROW>
 	<MNum>71207</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА МИНИ ФУРНА ELITE EMO-1207</MName>
-	<AvQR>119</AvQR>
+	<AvQR>118</AvQR>
 </ROW>
 <ROW>
 	<MNum>71208</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА МИНИ ПЕЧКА С 2 КОТЛОНА ELITE EMO-1208</MName>
-	<AvQR>5</AvQR>
+	<AvQR>3</AvQR>
 </ROW>
 <ROW>
 	<MNum>71209</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА МИНИ ПЕЧКА С 2 КОТЛОНА/ВЕНТИЛАТОР ELITE EMO-1209</MName>
-	<AvQR>151</AvQR>
+	<AvQR>145</AvQR>
 </ROW>
 <ROW>
 	<MNum>71211</MNum>
 	<MName>ПАСАТОР ELITE HB-1211</MName>
-	<AvQR>193</AvQR>
+	<AvQR>185</AvQR>
 </ROW>
 <ROW>
 	<MNum>71212</MNum>
 	<MName>МИКСЕР / ПАСАТОР  ELITE HB-1212</MName>
-	<AvQR>16</AvQR>
+	<AvQR>13</AvQR>
 </ROW>
 <ROW>
 	<MNum>71213</MNum>
@@ -2558,7 +2538,7 @@
 <ROW>
 	<MNum>71214</MNum>
 	<MName>ФРИТЮРНИК ELITE JR-2016-RADI</MName>
-	<AvQR>881</AvQR>
+	<AvQR>874</AvQR>
 </ROW>
 <ROW>
 	<MNum>71302</MNum>
@@ -2603,7 +2583,7 @@
 <ROW>
 	<MNum>71313</MNum>
 	<MName>КАНТАР ЗА ТЯЛО ELITE BS-1313</MName>
-	<AvQR>604</AvQR>
+	<AvQR>602</AvQR>
 </ROW>
 <ROW>
 	<MNum>71314</MNum>
@@ -2623,47 +2603,47 @@
 <ROW>
 	<MNum>71319</MNum>
 	<MName>МАШИНКА ЗА ПОДСТРИГВАНЕ ELITE HC-1319</MName>
-	<AvQR>679</AvQR>
+	<AvQR>669</AvQR>
 </ROW>
 <ROW>
 	<MNum>71320</MNum>
 	<MName>МАШИНКА ЗА ПОДСТРИГВАНЕ ELITE HC-1320</MName>
-	<AvQR>63</AvQR>
+	<AvQR>49</AvQR>
 </ROW>
 <ROW>
 	<MNum>71322</MNum>
 	<MName>ПРАХОСМУКАЧКА ELITE VC-1322</MName>
-	<AvQR>156</AvQR>
+	<AvQR>149</AvQR>
 </ROW>
 <ROW>
 	<MNum>71323</MNum>
 	<MName>КАНТАР ЗА ТЯЛО ELITE BS-1323</MName>
-	<AvQR>241</AvQR>
+	<AvQR>239</AvQR>
 </ROW>
 <ROW>
 	<MNum>71401</MNum>
 	<MName>ГАЗОВА ПЕЧКА ЗА ОТОПЛЕНИЕ, ЧЕРНА, ELITE EGH-1401</MName>
-	<AvQR>529</AvQR>
+	<AvQR>411</AvQR>
 </ROW>
 <ROW>
 	<MNum>71402</MNum>
 	<MName>ГАЗОВА ПЕЧКА ЗА ОТОПЛЕНИЕ, СИВА, ELITE EGH-1402</MName>
-	<AvQR>281</AvQR>
+	<AvQR>230</AvQR>
 </ROW>
 <ROW>
 	<MNum>71403</MNum>
 	<MName>ГАЗОВА ПЕЧКА ЗА ОТОПЛЕНИЕ, КАФЯВА, ELITE EGH-1403</MName>
-	<AvQR>319</AvQR>
+	<AvQR>264</AvQR>
 </ROW>
 <ROW>
 	<MNum>71405</MNum>
 	<MName>ХАЛОГЕННА ОТОПЛИТЕЛНА ПЕЧКА ELITE HH-4812</MName>
-	<AvQR>709</AvQR>
+	<AvQR>707</AvQR>
 </ROW>
 <ROW>
 	<MNum>71406</MNum>
 	<MName>КОНВЕКТОРНА ПЕЧКА СЪС СТЪКЛЕН ПАНЕЛ ELITE GH-20</MName>
-	<AvQR>143</AvQR>
+	<AvQR>139</AvQR>
 </ROW>
 <ROW>
 	<MNum>71407</MNum>
@@ -2678,22 +2658,22 @@
 <ROW>
 	<MNum>71409</MNum>
 	<MName>МАСЛЕН РАДИАТОР ELITE EOH-11250</MName>
-	<AvQR>70</AvQR>
+	<AvQR>0</AvQR>
 </ROW>
 <ROW>
 	<MNum>71410</MNum>
 	<MName>МАСЛЕН РАДИАТОР ELITE EOH-13250</MName>
-	<AvQR>76</AvQR>
+	<AvQR>0</AvQR>
 </ROW>
 <ROW>
 	<MNum>71411</MNum>
 	<MName>КОНВЕКТОРНА ПЕЧКА СЪС СТЪКЛЕН ПАНЕЛ, Wi-Fi ELITE WGPHD-18</MName>
-	<AvQR>709</AvQR>
+	<AvQR>707</AvQR>
 </ROW>
 <ROW>
 	<MNum>71412</MNum>
 	<MName>КОНВЕКТОРНА ПЕЧКА СЪС СТЪКЛЕН ПАНЕЛ, Wi-Fi ELITE WGPHD-22</MName>
-	<AvQR>497</AvQR>
+	<AvQR>496</AvQR>
 </ROW>
 <ROW>
 	<MNum>71539</MNum>
@@ -2708,7 +2688,7 @@
 <ROW>
 	<MNum>71542</MNum>
 	<MName>ГАЗ+ЕЛЕКТРИЧЕСКА ГОТВАРСКА ПЕЧКА  ELITE EFC-50G60</MName>
-	<AvQR>58</AvQR>
+	<AvQR>57</AvQR>
 </ROW>
 <ROW>
 	<MNum>71554</MNum>
@@ -2723,7 +2703,7 @@
 <ROW>
 	<MNum>71557</MNum>
 	<MName>ЕЛEKТРИЧЕСКА СМЕСИТЕЛНА БАТЕРИЯ ELITE EHW-1557S</MName>
-	<AvQR>1229</AvQR>
+	<AvQR>1215</AvQR>
 </ROW>
 <ROW>
 	<MNum>71560</MNum>
@@ -2749,16 +2729,6 @@
 	<MNum>71634</MNum>
 	<MName>ТЕЛЕВИЗОР ИЗВИТ 43&quot;DLED ELITE CLED-43300FHD</MName>
 	<AvQR>16</AvQR>
-</ROW>
-<ROW>
-	<MNum>71637</MNum>
-	<MName>ТЕЛЕВИЗОР ИЗВИТ 49&quot;DLED ELITE CSLED-49300FHD</MName>
-	<AvQR>1</AvQR>
-</ROW>
-<ROW>
-	<MNum>71638</MNum>
-	<MName>ТЕЛЕВИЗОР ИЗВИТ 55&quot;DLED ELITE CLED-55304K2KFHD</MName>
-	<AvQR>1</AvQR>
 </ROW>
 <ROW>
 	<MNum>71639</MNum>
@@ -2803,7 +2773,7 @@
 <ROW>
 	<MNum>72530</MNum>
 	<MName>ЕЛEKТРИЧЕСКА СМЕСИТЕЛНА БАТЕРИЯ ELITE EHD-2530</MName>
-	<AvQR>1282</AvQR>
+	<AvQR>1274</AvQR>
 </ROW>
 <ROW>
 	<MNum>72531</MNum>
@@ -2813,12 +2783,12 @@
 <ROW>
 	<MNum>72532</MNum>
 	<MName>ГОТВАРСКА ПЕЧКА 60 СМ С КЕРАМИЧЕН ПЛОТ ELITE EFC-2532</MName>
-	<AvQR>6</AvQR>
+	<AvQR>5</AvQR>
 </ROW>
 <ROW>
 	<MNum>72533</MNum>
 	<MName>АБСОРБАТОР КЛАСИЧЕСКИ 2м-СИВ ELITE EA-2533</MName>
-	<AvQR>37</AvQR>
+	<AvQR>36</AvQR>
 </ROW>
 <ROW>
 	<MNum>72534</MNum>
@@ -2828,12 +2798,12 @@
 <ROW>
 	<MNum>72536</MNum>
 	<MName>ДИСПЕНСЕР ЗА ВОДА /ЕЛЕКТРОНЕН ELITE WDE-2536</MName>
-	<AvQR>53</AvQR>
+	<AvQR>43</AvQR>
 </ROW>
 <ROW>
 	<MNum>72537</MNum>
 	<MName>ДИСПЕНСЕР ЗА ВОДА /ЕЛЕКТРОНЕН ELITE WDE-2537</MName>
-	<AvQR>303</AvQR>
+	<AvQR>302</AvQR>
 </ROW>
 <ROW>
 	<MNum>72538</MNum>
@@ -2843,7 +2813,7 @@
 <ROW>
 	<MNum>72542</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА МИНИ ФУРНА/45Л ELITE EMO-2542</MName>
-	<AvQR>189</AvQR>
+	<AvQR>188</AvQR>
 </ROW>
 <ROW>
 	<MNum>72554</MNum>
@@ -2903,12 +2873,12 @@
 <ROW>
 	<MNum>73159</MNum>
 	<MName>УРЕД ЗА САНДВИЧИ/2 ФИЛИИ LAMARQUE LSM-3159 ••</MName>
-	<AvQR>1064</AvQR>
+	<AvQR>1061</AvQR>
 </ROW>
 <ROW>
 	<MNum>73160</MNum>
 	<MName>УРЕД ЗА САНДВИЧИ/2 ФИЛИИ LAMARQUE LSM-3160 ••</MName>
-	<AvQR>152</AvQR>
+	<AvQR>141</AvQR>
 </ROW>
 <ROW>
 	<MNum>73166</MNum>
@@ -2953,7 +2923,7 @@
 <ROW>
 	<MNum>73204</MNum>
 	<MName>МЕТАЛНО БАРБЕКЮ LAMARQUE LBQ-2322</MName>
-	<AvQR>163</AvQR>
+	<AvQR>158</AvQR>
 </ROW>
 <ROW>
 	<MNum>73205</MNum>
@@ -2978,12 +2948,12 @@
 <ROW>
 	<MNum>73324</MNum>
 	<MName>ВЕНТИЛАТОРНА ПЕЧКА LAMARQUE LFH-1020</MName>
-	<AvQR>418</AvQR>
+	<AvQR>0</AvQR>
 </ROW>
 <ROW>
 	<MNum>73327</MNum>
 	<MName>КЕРАМИЧНА ВЕНТИЛАТОРНА ПЕЧКА LAMARQUE LCH-3327</MName>
-	<AvQR>27</AvQR>
+	<AvQR>21</AvQR>
 </ROW>
 <ROW>
 	<MNum>73333</MNum>
@@ -3023,7 +2993,7 @@
 <ROW>
 	<MNum>77105</MNum>
 	<MName>ПАРТИ ГРИЛ RUBINO ПГ-06 И</MName>
-	<AvQR>168</AvQR>
+	<AvQR>161</AvQR>
 </ROW>
 <ROW>
 	<MNum>77305</MNum>
@@ -3133,12 +3103,12 @@
 <ROW>
 	<MNum>77731</MNum>
 	<MName>СУШИЛНИК ЗА СЪДОВЕ MAGICOOK MK-DR-5419</MName>
-	<AvQR>148</AvQR>
+	<AvQR>138</AvQR>
 </ROW>
 <ROW>
 	<MNum>77732</MNum>
 	<MName>СУШИЛНИК ЗА СЪДОВЕ MAGICOOK MK-DR-5420</MName>
-	<AvQR>470</AvQR>
+	<AvQR>460</AvQR>
 </ROW>
 <ROW>
 	<MNum>77743</MNum>
@@ -3238,17 +3208,17 @@
 <ROW>
 	<MNum>78131</MNum>
 	<MName>ГАЗОВ КОТЛОН ESKAY AC 100 ЕДИНИЧЕН</MName>
-	<AvQR>40</AvQR>
+	<AvQR>39</AvQR>
 </ROW>
 <ROW>
 	<MNum>78132</MNum>
 	<MName>ГАЗОВ КОТЛОН ESKAY AC 200 ДВОЕН</MName>
-	<AvQR>45</AvQR>
+	<AvQR>43</AvQR>
 </ROW>
 <ROW>
 	<MNum>78133</MNum>
 	<MName>ГАЗОВ КОТЛОН AC 300 ESKAY  ТРОЙКА</MName>
-	<AvQR>10</AvQR>
+	<AvQR>9</AvQR>
 </ROW>
 <ROW>
 	<MNum>78206</MNum>
@@ -3258,17 +3228,17 @@
 <ROW>
 	<MNum>78208</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА СКАРА С КАПАК 1600W RUBINO</MName>
-	<AvQR>42</AvQR>
+	<AvQR>181</AvQR>
 </ROW>
 <ROW>
 	<MNum>78209</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА СКАРА С КАПАК 900W RUBINO</MName>
-	<AvQR>22</AvQR>
+	<AvQR>51</AvQR>
 </ROW>
 <ROW>
 	<MNum>78210</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА СКАРА без капак 900W RUBINO</MName>
-	<AvQR>15</AvQR>
+	<AvQR>44</AvQR>
 </ROW>
 <ROW>
 	<MNum>78211</MNum>
@@ -3278,7 +3248,7 @@
 <ROW>
 	<MNum>78212</MNum>
 	<MName>ЕЛЕКТРИЧЕСКА СКАРА без капак 1600W RUBINO</MName>
-	<AvQR>6</AvQR>
+	<AvQR>56</AvQR>
 </ROW>
 <ROW>
 	<MNum>78214</MNum>
@@ -3288,7 +3258,7 @@
 <ROW>
 	<MNum>78219</MNum>
 	<MName>ЕЛЕКТРИЧЕСКИ ГРИЛ СКАРА GRENTO GL-3420</MName>
-	<AvQR>18</AvQR>
+	<AvQR>14</AvQR>
 </ROW>
 <ROW>
 	<MNum>78220</MNum>
@@ -3303,17 +3273,22 @@
 <ROW>
 	<MNum>78222</MNum>
 	<MName>ТОСТЕР FORETI TA-700</MName>
-	<AvQR>22</AvQR>
+	<AvQR>20</AvQR>
 </ROW>
 <ROW>
 	<MNum>78223</MNum>
 	<MName>ПАРТИ ГРИЛ ШАГРЕН СКИТИЯ</MName>
-	<AvQR>56</AvQR>
+	<AvQR>51</AvQR>
 </ROW>
 <ROW>
 	<MNum>78225</MNum>
 	<MName>КЕРАМИЧНА ЕЛЕКТРИЧЕСКА СКАРА без капак СКИТИЯ 1600W</MName>
-	<AvQR>2</AvQR>
+	<AvQR>1</AvQR>
+</ROW>
+<ROW>
+	<MNum>78229</MNum>
+	<MName>ЕЛЕКТРИЧЕСКА СКАРА С КАПАК RUBINO 2750 W</MName>
+	<AvQR>51</AvQR>
 </ROW>
 <ROW>
 	<MNum>78230</MNum>
@@ -3378,17 +3353,12 @@
 <ROW>
 	<MNum>78545</MNum>
 	<MName>ХЛАДИЛНИК ATLANTIC AT-263</MName>
-	<AvQR>7</AvQR>
+	<AvQR>5</AvQR>
 </ROW>
 <ROW>
 	<MNum>78550</MNum>
 	<MName>ХЛАДИЛНИК LIEBHERR IK 3520</MName>
 	<AvQR>1</AvQR>
-</ROW>
-<ROW>
-	<MNum>78562</MNum>
-	<MName>МИКРОВЪЛНОВА ФУРНА GRENTO MW-720</MName>
-	<AvQR>6</AvQR>
 </ROW>
 <ROW>
 	<MNum>78564</MNum>
@@ -3403,7 +3373,7 @@
 <ROW>
 	<MNum>78566</MNum>
 	<MName>ФРИЗЕР ATLANTIC AT-245</MName>
-	<AvQR>7</AvQR>
+	<AvQR>6</AvQR>
 </ROW>
 <ROW>
 	<MNum>78567</MNum>
@@ -3413,7 +3383,7 @@
 <ROW>
 	<MNum>78568</MNum>
 	<MName>ХЛАДИЛНИК ATLANTIC AT-278</MName>
-	<AvQR>12</AvQR>
+	<AvQR>11</AvQR>
 </ROW>
 <ROW>
 	<MNum>78570</MNum>
@@ -3423,7 +3393,7 @@
 <ROW>
 	<MNum>78571</MNum>
 	<MName>ХЛАДИЛНИК ATLANTIC AT-120</MName>
-	<AvQR>32</AvQR>
+	<AvQR>28</AvQR>
 </ROW>
 <ROW>
 	<MNum>78573</MNum>
@@ -3448,7 +3418,7 @@
 <ROW>
 	<MNum>78583</MNum>
 	<MName>МИНИ ФУРНА без котлони 70л, SNAIGE SN-9620</MName>
-	<AvQR>5</AvQR>
+	<AvQR>3</AvQR>
 </ROW>
 <ROW>
 	<MNum>78585</MNum>
@@ -3458,7 +3428,7 @@
 <ROW>
 	<MNum>78586</MNum>
 	<MName>МИКРОВЪЛНОВА ФУРНА GRENTO MW-725</MName>
-	<AvQR>22</AvQR>
+	<AvQR>21</AvQR>
 </ROW>
 <ROW>
 	<MNum>78587</MNum>
@@ -3483,7 +3453,7 @@
 <ROW>
 	<MNum>78648</MNum>
 	<MName>ТЕЛЕВИЗИОННА СТОЙКА  НЕПОДВИЖНА 22&quot; 37&quot; F-2237</MName>
-	<AvQR>14</AvQR>
+	<AvQR>13</AvQR>
 </ROW>
 <ROW>
 	<MNum>78650</MNum>
@@ -3493,12 +3463,12 @@
 <ROW>
 	<MNum>78664</MNum>
 	<MName>ТЕЛЕВИЗОР BESS 39'' LED TV HD BS-39DLHD_SMART</MName>
-	<AvQR>76</AvQR>
+	<AvQR>74</AvQR>
 </ROW>
 <ROW>
 	<MNum>78665</MNum>
 	<MName>ТЕЛЕВИЗОР BESS 43'' LED TV FHD BS-43DLFHD_SMART</MName>
-	<AvQR>22</AvQR>
+	<AvQR>21</AvQR>
 </ROW>
 <ROW>
 	<MNum>78752</MNum>
@@ -3718,7 +3688,7 @@
 <ROW>
 	<MNum>79337</MNum>
 	<MName>ХЕППА ФИЛТЪР ЗА ПРАХОСМУКАЧКА ЗА ПЕПЕЛ</MName>
-	<AvQR>719</AvQR>
+	<AvQR>708</AvQR>
 </ROW>
 <ROW>
 	<MNum>79507</MNum>
@@ -3748,12 +3718,12 @@
 <ROW>
 	<MNum>79552</MNum>
 	<MName>ГОТВАРСКА ПЕЧКА 60см, 4ток  ARTIC  6042W</MName>
-	<AvQR>32</AvQR>
+	<AvQR>31</AvQR>
 </ROW>
 <ROW>
 	<MNum>79553</MNum>
 	<MName>ГОТВАРСКА ПЕЧКА 50см, 2ток+2газ  ARTIC  4222W</MName>
-	<AvQR>11</AvQR>
+	<AvQR>10</AvQR>
 </ROW>
 <ROW>
 	<MNum>79561</MNum>
@@ -3793,7 +3763,7 @@
 <ROW>
 	<MNum>79755</MNum>
 	<MName>СУШИЛНИК ЗА СЪДОВЕ MAGICOOK MK-DR-5401</MName>
-	<AvQR>361</AvQR>
+	<AvQR>350</AvQR>
 </ROW>
 <ROW>
 	<MNum>79791</MNum>
